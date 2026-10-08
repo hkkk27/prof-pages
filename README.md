@@ -61,9 +61,9 @@ You can also drop a ready-made `.json` file into `inbox/` in the same shape as t
 
 ## GitHub
 
-This folder is the `faculty-pages` branch of `hkkk27/New-eportfolio`. Every time a page is made or the site is
-published, the tool saves the change to that branch by itself. The working lists (`queue.csv`, `links.csv`),
-the raw pasted text and the `.env` file are never uploaded.
+This folder is the repo `hkkk27/prof-pages`. Every time a page is made or the site is published, the tool
+commits and pushes to `main` by itself, with the professor's name in the commit message. The working lists
+(`queue.csv`, `links.csv`), the raw pasted text and the `.env` file are never uploaded.
 
 ## The AI step
 
