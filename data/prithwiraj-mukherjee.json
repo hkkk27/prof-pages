@@ -1,0 +1,124 @@
+{
+  "slug": "prithwiraj-mukherjee",
+  "name": "Prithwiraj Mukherjee",
+  "role": "Associate Professor",
+  "department": "Marketing",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "Prithwiraj Mukherjee’s research interests include digital marketing, agent-based modeling and behavioral decision making.",
+  "photo": "/photos/prithwiraj-mukherjee.jpg",
+  "bio": [
+    "Prithwiraj Mukherjee’s research interests include digital marketing, agent-based modeling and behavioral decision making. He is particularly interested in the grey areas of digital marketing like clickbait, influencer fraud and platform exploitation. He is currently interested in the effects of generative artificial intelligence on the workplace, and in consumers. His research has been published in the Journal of the Academy of Marketing Science, the International Journal of Research in Marketing, and Operations Research Letters. He has also published opinion pieces in outlets like Scroll, Mint, Forbes India and Financial Express.",
+    "Prithwiraj has a PhD in Marketing from ESSEC (Cergy-Pontoise, France), an ME in Chemical Engineering from the Indian Institute of Science (Bangalore) and a BE in Chemical Engineering from the National Institute of Technology Karnataka (Surathkal). Before joining AMSOM, he was Assistant Professor of Marketing at the Indian Institute of Management Bangalore, where he developed a Massively Open Online Course (MOOC) titled “Quantitative Marketing Research”, which is available on EdX and Swayam. Before his doctoral studies, Prithwiraj worked in GE Energy and Oracle."
+  ],
+  "interests": [
+    "Digital Marketing",
+    "Agent-based Modeling",
+    "Behavioral Decision Making",
+    "Platform Exploitation",
+    "Generative Artificial Intelligence"
+  ],
+  "positions": [
+    {
+      "title": "Associate Professor",
+      "org": "Ahmedabad University"
+    },
+    {
+      "title": "Assistant Professor of Marketing",
+      "org": "Indian Institute of Management Bangalore",
+      "note": "Before joining AMSOM"
+    },
+    {
+      "org": "GE Energy",
+      "note": "Before his doctoral studies"
+    },
+    {
+      "org": "Oracle",
+      "note": "Before his doctoral studies"
+    },
+    {
+      "title": "Co-chair",
+      "org": "Ahmedabad University",
+      "note": "AI on the Stepwell, 11 April 2026"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD in Marketing",
+      "org": "ESSEC (Cergy-Pontoise, France)"
+    },
+    {
+      "degree": "ME in Chemical Engineering",
+      "org": "Indian Institute of Science (Bangalore)"
+    },
+    {
+      "degree": "BE in Chemical Engineering",
+      "org": "National Institute of Technology Karnataka (Surathkal)"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Silently killing your panelists one email at a time: The true cost of email solicitations",
+      "authors": "Ferecatu, Alina, Arnaud De Bruyn and Prithwiraj Mukherjee",
+      "venue": "Journal of the Academy of Marketing Science",
+      "year": "2024"
+    },
+    {
+      "title": "Platform exploitation in the sharing economy",
+      "authors": "Anand, Abhinav, Souvik Dutta and Prithwiraj Mukherjee",
+      "venue": "Operations Research Letters",
+      "year": "2023"
+    },
+    {
+      "title": "Did clickbait crack the code on virality?",
+      "authors": "Mukherjee, Prithwiraj, Souvik Dutta and Arnaud De Bruyn",
+      "venue": "Journal of the Academy of Marketing Science",
+      "year": "2022"
+    },
+    {
+      "title": "How chilling are network externalities? The role of network structure",
+      "authors": "Mukherjee, Prithwiraj",
+      "venue": "International Journal of Research in Marketing",
+      "year": "2014"
+    },
+    {
+      "title": "When generative artificial intelligence enhances the quality of human output: Workplace implications",
+      "authors": "Mukherjee, Prithwiraj and Souvik Dutta",
+      "venue": "Revise and Resubmit at Production and Operations Management"
+    },
+    {
+      "title": "The ignoble economics of AI-washing",
+      "authors": "Anand, Abhinav, Souvik Dutta, Tarun Jain and Prithwiraj Mukherjee",
+      "venue": "To be submitted"
+    },
+    {
+      "title": "A unifying and parsimonious model of anchoring and context-dependent preferences",
+      "authors": "De Bruyn, Arnaud, Prithwiraj Mukherjee and Ayse Onculer",
+      "venue": "To be submitted"
+    },
+    {
+      "title": "Contracting an influencer with fake followers: An analysis under information asymmetry",
+      "authors": "Anand, Abhinav, Souvik Dutta, Tarun Jain and Prithwiraj Mukherjee",
+      "venue": "To be submitted"
+    }
+  ],
+  "teaching": [
+    "Quantitative Marketing Research (part of IIMBx MOOCs)"
+  ],
+  "awards": [],
+  "sections": [],
+  "metrics": {},
+  "contact": {
+    "email": "prithwiraj.mukherjee@ahduni.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": []
+}
