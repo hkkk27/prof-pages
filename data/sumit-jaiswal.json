@@ -1,0 +1,101 @@
+{
+  "slug": "sumit-jaiswal",
+  "name": "Sumit Jaiswal",
+  "role": "Assistant Professor",
+  "department": "Family Business and Entrepreneurship",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/sumit-jaiswal.jpg",
+  "bio": [
+    "Professor Sumit Kumar Jaiswal's research examines how new ventures emerge, secure resources, and sometimes fail in institutionally constrained environments. He earned his PhD in Strategy from the Indian Institute of Management Ahmedabad, where his doctoral dissertation, Rise and Fall: Essays on Survival and Failure of New Ventures, analysed early-stage venture dynamics in emerging markets and received the Industrial Finance Corporation of India (IFCI) Best Thesis Proposal Award.",
+    "Methodologically, Professor Jaiswal's work draws on large-scale secondary data, experiments, and qualitative approaches to understand how investors, entrepreneurs, and institutions shape venture outcomes. He has presented his research at leading international conferences, including the Academy of Management, the Babson College Entrepreneurship Research Conference (BCERC), and the Academy of International Business (AIB), and received multiple honours, including Best Doctoral Paper (IMRC 2024), Best Paper in Entrepreneurship (ANZMAC 2023), and Runner-up Best Paper (India Strategy Conference 2023). In 2025, he was selected as one of 25 doctoral scholars worldwide to participate in the Babson Doctoral Consortium.",
+    "Before entering academia, Professor Jaiswal worked as a Senior Engineer at Larsen & Toubro, co-founded a venture in the healthy food sector, and later served as a Buddha Fellow, partnering with women entrepreneurs in rural Madhya Pradesh. These experiences inform his teaching philosophy, which emphasises the integration of theory and practice. In the classroom, he encourages students to engage critically with entrepreneurial and strategic dilemmas, institutional constraints, and ethical trade-offs in contemporary organisational contexts."
+  ],
+  "interests": [
+    "Early-stage Venture Financing",
+    "Venture Failure/Termination",
+    "Accelerators/Incubators",
+    "Family Business and Entrepreneurial Networks",
+    "Minority Entrepreneurship",
+    "Corporate Entrepreneurship",
+    "Startup Leadership",
+    "and Corporate Governance"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (IIM Ahmedabad)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "In Education We Trust: Exploring Investors’ Assessment of New Ventures in Emerging Markets",
+      "authors": "SK Jaiswal, C Singla",
+      "venue": "Academy of Management Proceedings 2025 (1), 21622",
+      "year": "2025",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Geographical Dynamics and Cohort Influences: Unravelling the Impact of Accelerators on New Ventures",
+      "authors": "PS Tank, D Agarwal, SK Jaiswal",
+      "venue": "Academy of Management Proceedings 2024 (1), 19678",
+      "year": "2024",
+      "url": "",
+      "cited": ""
+    }
+  ],
+  "teaching": [
+    "Strategy and Entrepreneurship"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Conference Proceedings",
+        "Jaiswal, S. K., and Singla, C. (2025). In education we trust: Exploring investors’ assessment of new ventures in emerging markets. Academy of Management Proceedings, 2025(1). https://doi.org/10.5465/AMPROC.2025.21622abstract",
+        "Tank, P. S., Agarwal, D., and Jaiswal, S. K. (2024). Geographical dynamics and cohort influences: Unravelling the impact of accelerators on new ventures. Academy of Management Proceedings, 2024(1). https://doi.org/10.5465/AMPROC.2024.19678abstract",
+        "Jaiswal, S. K. (2025, June). What Founders Need to Know About Letting Go [Conference Session]. Babson College Entrepreneurship Research Conference (BCERC), Wellesley, MA, United States.",
+        "Working papers",
+        "Jaiswal, S. K., and Chakraborty, S. (2025). Resolving the network paradox in entrepreneurship: A pathway to integration [Unpublished manuscript].",
+        "Jaiswal, S. K., and Chakraborty, S. (2025). What’s in an interaction? Exploring micro-foundations of corporate entrepreneurship in family firms [Unpublished manuscript].",
+        "Jaiswal, S. K., GopaKumar, K. V., and Tewari, P. (2025). Engaging in and navigating through entrepreneurial roles: A perspective from persons with disabilities (PWD) [Unpublished manuscript].",
+        "Jaiswal, S. K., Singla, C., and GopaKumar, K. V. (2025). For the venture or the self: Deconstructing the entrepreneurial failure journey [Unpublished manuscript].",
+        "Jaiswal, S. K., Singla, C., and GopaKumar, K. V. (2025). In education we trust: Exploring investors’ assessment of new ventures in emerging markets [Unpublished manuscript].",
+        "Tank, P. S., Agarwal, D., andJaiswal, S. K. (2024). Geographical dynamics and cohort influences: Unravelling the impact of accelerators on new ventures [Unpublished manuscript].",
+        "Cases",
+        "Sriram, S., Sarin, A., and Jaiswal, S. K. (2025). Finding Buddha in development entrepreneurship [Manuscript submitted for publication]. IIM Ahmedabad Case Center."
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Jaiswal, S. K. (in press). From stove to startup: The making of a community-driven social enterprise. In Context-inspired entrepreneurship cases from India."
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "",
+    "h_index": ""
+  },
+  "contact": {
+    "email": "sumit.jaiswal@ahduni.edu.in",
+    "phone": "+91.79.61911575",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sumit-jaiswal/",
+    "scholar": "https://scholar.google.com/citations?user=dv9z2TcAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0009-0007-8701-5983",
+    "linkedin": "https://www.linkedin.com/in/sumit-jaiswal-a6859677/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sumit-jaiswal/",
+    "https://scholar.google.com/citations?user=dv9z2TcAAAAJ&hl=en"
+  ]
+}

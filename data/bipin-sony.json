@@ -1,0 +1,128 @@
+{
+  "slug": "bipin-sony",
+  "name": "Bipin Sony",
+  "role": "Associate Professor of Economics and Finance",
+  "department": "School of Liberal Arts and Sciences",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "",
+  "bio": [
+    "Bipin Sony is an Associate Professor of Economics and Finance in the School of Liberal Arts and Design Studies at the Vidyashilp University (VU). His expertise spans financial economics, corporate finance, financial markets, and macroeconomics. Dr. Sony's research, published in leading academic journals, sheds light on these areas. Dr. Sony draws on his extensive experience as an Assistant Professor at Dr. B. R. Ambedkar School of Economics, where he significantly contributed to the development of an applied and quantitative curriculum. Additionally, his roles as a researcher at the Madras School of Economics and an analyst at Goldman Sachs provide valuable insights in his research and enable him to impart practical skills to his students. In the classroom, Dr. Sony fosters a dynamic learning environment that emphasizes data-driven decision-making. Utilizing an applied and quantitative approach, he integrates statistics and programming tools like R, Python into his curriculum. He actively leads training programs in financial econometrics, data analytics, and data visualization, empowering both students and industry professionals with the skills needed to navigate the complexities of modern finance and economics."
+  ],
+  "interests": [
+    "Corporate Finance",
+    "Financial Economics",
+    "Capital Markets",
+    "Macroeconomics"
+  ],
+  "positions": [
+    {
+      "title": "Assistant Professor",
+      "org": "Dr B. R. Ambedkar School of Economics University,Bengaluru",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    },
+    {
+      "title": "Research Associate",
+      "org": "Madras School of Economics",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D Madras School of Economics",
+      "org": "",
+      "year": ""
+    },
+    {
+      "degree": "M.A. Economics, Loyola College,Chennai",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Security issue decisions in public and private security markets: Evidence from an emerging economy",
+      "authors": "",
+      "venue": "Perspectives on Economics and Management",
+      "year": "2024",
+      "url": ""
+    },
+    {
+      "title": "Choice between rights issue and private placements of equity and the role of information asymmetry",
+      "authors": "",
+      "venue": "Managerial Finance",
+      "year": "2022",
+      "url": "https://doi.org/10.1108/MF-01-2021-0023"
+    },
+    {
+      "title": "Information asymmetry and financing choice between debt, equity and dual issues by Indian firms",
+      "authors": "",
+      "venue": "International Review of Economics & Finance",
+      "year": "2021",
+      "url": "https://doi.org/10.1016/j.iref.2020.11.001"
+    },
+    {
+      "title": "Information Asymmetry and Debt–Equity Choice: Evidence from an Emerging Market, India",
+      "authors": "",
+      "venue": "Review of Market Integration",
+      "year": "2018",
+      "url": ""
+    },
+    {
+      "title": "Information asymmetry and equity issue decision of low-leverage firms",
+      "authors": "",
+      "venue": "Managerial Finance",
+      "year": "2018",
+      "url": "https://doi.org/10.1108/MF-04-2018-0158"
+    },
+    {
+      "title": "Information asymmetry and equity issue decision of low-leverage firms: Evidence from an emerging market, India",
+      "authors": "",
+      "venue": "Managerial Finance",
+      "year": "2018",
+      "url": ""
+    }
+  ],
+  "teaching": [
+    "Financial Economics",
+    "Macroeconomics",
+    "Advanced Econometrics",
+    "Statistics",
+    "Corporate Finance",
+    "Data Analytics using R and Python",
+    "Asset pricing"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Sony, B., & Bhaduri, S. (2021). Information asymmetry and financing choice between debt, equity and dual issues by Indian firms. International Review of Economics & Finance, 72, 90-101. ABDC- A",
+        "Sony, B., & Bhaduri, S. (2021). Choice between rights issue and private placements of equity and the role of information asymmetry. Managerial Finance, 48(3), 409-428. ABDC- B",
+        "Sony, B., & Bhaduri, S. (2018). Information asymmetry and equity issue decision of low-leverage firms: Evidence from an emerging market, India. Managerial Finance, 44(11),1330-1346. ABDC- B",
+        "Sony, B., & Bhaduri, S. (2018). Information asymmetry and debt–equity choice: evidence from an emerging market, India. Review of Market Integration, 10(3), 228-252."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "bipin.sony@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/bipin-sony/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0002-0486-4493",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/bipin-sony/"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "deepti-sharma",
+  "name": "Deepti Sharma",
+  "role": "Assistant Professor",
+  "department": "Management and Organisation",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/deepti-sharma.jpg",
+  "bio": [
+    "Deepti Sharma was a Postdoctoral Fellow at the Centre for Management of Health Services at the Indian Institute of Management (IIM) Ahmedabad. She completed her PhD in Public Policy at IIM Bangalore. She obtained her master’s degree in Economics from the Gokhale Institute of Politics and Economics, Pune, and a bachelor’s degree in Economics from the University of Delhi. Her area of interest lies in health policy, gender studies and management studies. She has published in prestigious journals in the management and healthcare domain, such as the Journal of Business Ethics (FT50 journal), PLOS Global Public Health and World Bank Economic Review. As a part of her research, she has worked as a Co-PI on a fully funded project by the Canadian Institute of Health Research in collaboration with McGill University, Canada. She has received several awards and recognition during prestigious conferences. She has also been IIMB Institute Research Award Finalist, 2024."
+  ],
+  "interests": [
+    "Public Policy and Management"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Indian Institute of Management Bangalore)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Does it matter who you ask for time use data?",
+      "authors": "D Sharma, H Swaminathan, R Lahoti",
+      "venue": "The World Bank Economic Review 40 (1), 224-253",
+      "year": "2026",
+      "url": "",
+      "cited": "12"
+    },
+    {
+      "title": "Navigating competency in an ableist world: The lived experiences of disabled individuals in education and the workplace",
+      "authors": "D Sharma, GN Prabhu",
+      "venue": "Journal of Business Ethics 201 (4), 859-893",
+      "year": "2025",
+      "url": "",
+      "cited": "11"
+    },
+    {
+      "title": "Does It Matter Who You Ask For Time Use Data?",
+      "authors": "RL Deepti Sharma, Hema Swaminathan",
+      "venue": "The World Bank Economic Review",
+      "year": "2025",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Socioeconomic inequalities in adverse pregnancy outcomes in India: 2004–2019",
+      "authors": "CM Joyce, D Sharma, A Mukherji, A Nandi",
+      "venue": "PLOS Global Public Health 4 (9), e0003701",
+      "year": "2024",
+      "url": "",
+      "cited": "7"
+    },
+    {
+      "title": "Evidence of Reversal of Ableism among High Performing Students with Disability in a Business School",
+      "authors": "D Sharma, GN Prabhu",
+      "venue": "Academy of Management Proceedings 2021 (1), 12329",
+      "year": "2021",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Challenges, opportunities and innovation in Indian rural economy",
+      "authors": "S Pal, D Sharma, D Kumar, H Sombhatla",
+      "venue": "Crawford School of Public Policy, The Australian National University",
+      "year": "2020",
+      "url": "",
+      "cited": "1"
+    },
+    {
+      "title": "Adjusting to Covariate Shocks: Tiding the COVID-19 Waves in India",
+      "authors": "D Sharma, A Mukherji",
+      "venue": "International Health Economics Association, 0",
+      "year": "",
+      "url": "",
+      "cited": ""
+    }
+  ],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Peer Reviewed Work",
+      "paragraphs": [
+        "Deepti Sharma, Hema Swaminathan, Rahul Lahoti, Does It Matter Who You Ask For Time Use Data?, The World Bank Economic Review, 2025. https://doi.org/10.1093/wber/lhaf004. Podcast Ideas of India",
+        "Sharma, D., Prabhu, G.N. Navigating Competency in an Ableist World: The Lived Experiences of Disabled Individuals in Education and the Workplace. Journal of Business Ethics (2025). https://doi.org/10.1007/s10551-025-05958-2",
+        "Joyce CM, Sharma D, Mukherji A, Nandi A (2024) Socioeconomic inequalities in adverse pregnancy outcomes in India: 2004–2019. PLOS Global Public Health 4(9): e0003701. https://doi.org/10.1371/journal.pgph.0003701"
+      ]
+    },
+    {
+      "title": "Work in Progress",
+      "paragraphs": [
+        "Deepti Sharma and Arnab Mukherji. Spillover Effects of Health Insurance on Childhood Immunization",
+        "Deepti Sharma, Vidya Vemireddy. Examining Heat ``Stress\" on Women's Paid Work and Time Allocation",
+        "Namrata Chindarkar, Deepti Sharma, Rohan Gundibande and Milind Gupta. Complementarities between Rural Roads and Access to Clean Energy.",
+        "Namrata Chindarkar, Deepti Sharma, Rohan Gundibande and Milind Gupta. Last mile delivery of Clean Cooking fuel through Rural Roads",
+        "Deepti Sharma, Ravi Yadav. Coal Plant Emissions and Mental Health in Ageing India",
+        "Caroline Joyce, Deepti Sharma, Arnab Mukherji and Arijit Nandi. District-level access to RSBY on adverse pregnancy outcomes using difference-in-differences analyses."
+      ]
+    },
+    {
+      "title": "Teaching & Supervisor Role",
+      "paragraphs": [
+        "MGT-508 Sustainability, Business and Society (MBA)",
+        "ETH-201 Ethics (UG)",
+        "Doing Well by Doing Good (UG)",
+        "Capstone Project (UG)-Research on Emerging Trends, Challenges and Gaps in ESG, CSR and Digital ESG",
+        "Route Camp Project (MBA)- Strategic Communication for Waste Management Firm",
+        "Route Camp Project (MBA)- Sustainability Challenge for Waste Management Firm"
+      ]
+    },
+    {
+      "title": "Previous work experience",
+      "paragraphs": [
+        "Postdoctoral Fellow, Centre for Healthcare Management, IIM Ahmedabad (Apr 2024-Oct 2024)",
+        "Research Associate, Institute of Rural Management Anand (IRMA) (2018-19). Project: “Socio-Economic Impact Assessment of Sardar Sarovar Narmada Dam”",
+        "Project Officer, Indian Society of Agribusiness Professionals, Delhi (2017-18). Project: Baseline, mid-term, and end-term evaluation for projects on livelihood, agribusiness and agricultural marketing funded by Japan International Cooperation Agency (JICA), Ministry of Agriculture",
+        "Research Intern,International Food Policy and Research Institute (IFPRI)"
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "31",
+    "h_index": "3"
+  },
+  "contact": {
+    "email": "deepti.sharma@ahduni.edu.in",
+    "phone": "+918377849398",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/deepti-sharma/",
+    "scholar": "https://scholar.google.com/citations?user=_DoCGKAAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0000-0002-1300-4145",
+    "linkedin": "http://www.linkedin.com/in/deepti-sharma-644b69ba",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/deepti-sharma/",
+    "https://scholar.google.com/citations?user=_DoCGKAAAAAJ&hl=en"
+  ]
+}

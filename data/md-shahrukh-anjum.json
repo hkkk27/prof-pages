@@ -1,0 +1,62 @@
+{
+  "slug": "md-shahrukh-anjum",
+  "name": "Md Shahrukh Anjum",
+  "role": "Assistant Professor",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/md-shahrukh-anjum.jpg",
+  "bio": [
+    "Md Shahrukh Anjum is an Assistant Professor at the Amrut Mody School of Management. His primary research interest centers around Operations Research, Combinatorial Optimisation and Analytics. He is interested in introducing structured approaches to solve difficult combinatorial optimisation problems pertaining to network design, finding applications in supply chain, telecommunication and satellite scheduling. He has completed his PhD from the Decision Sciences Department at the Indian Institute of Management Bangalore (IIMB) and his B-Tech from the Indian Institute of Technology (IIT-ISM) Dhanbad."
+  ],
+  "interests": [
+    "Operations Research",
+    "Combinatorial Optimisation",
+    "Network Design",
+    "Heuristics"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (IIM Bangalore)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Working Papers",
+        "Anjum, M.S., Desai, J., and Murthy, I. Cardinality-Driven Optimization of Unsplit Paths in Supply Chain Networks: A Solution Framework for the Unsplittable Multicommodity Capacitated Fixed Charge Network Design Problem",
+        "Anjum, M.S., Sastry, T., and Desai, J. Stronger Cardinality-based Disaggregated formulation for the Steiner Tree Problem"
+      ]
+    },
+    {
+      "title": "Publication",
+      "paragraphs": [
+        "Anjum, M.S., Desai, J., & Murthy, I. (2022). A cardinality-based extended formulation for the Unsplittable Multi-Commodity Network Design problem. Proceedings of the Institute for Industrial & Systems Engineering (IISE) Conference and Expo 2022, Seattle (USA)."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "shahrukh.anjum@ahduni.edu.in",
+    "phone": "+91.79.61911573",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/md-shahrukh-anjum/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "http://www.linkedin.com/in/md-shahrukh-anjum-2b4330108",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/md-shahrukh-anjum/"
+  ]
+}

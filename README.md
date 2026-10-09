@@ -13,6 +13,26 @@ One template. One text file per professor in, one web page per professor out.
 
 The list of professors comes from `queue.csv`. Add rows to it for the next batch.
 
+## In bulk: everyone on the lists at once
+
+```
+python profpages.py collect
+python profpages.py bulk --deploy
+```
+
+`collect` reads every faculty list in `D:\fun projects` (`*faculty*.csv`), keeps Professors, Associate and
+Assistant Professors with one email address and no website of their own, and for each one saves their
+university page, photo, the Google Scholar profile their page links to, and their ORCID papers into
+`collected/`. It is slow on purpose and can be run again at any time; it only fetches what is missing.
+`collected/_report.csv` shows what it got for each person.
+
+`bulk` turns every collected file into a page. Pages that already exist are not touched. Add `--ai 40` to let the
+free AI model sort the text for the first 40 (free accounts get about 50 requests a day).
+
+What it cannot read: Ashoka's profile pages and photos sit behind a browser check, so an Ashoka record has only
+name, title, department and papers. Use the page maker for those. A university not yet in `READERS` in
+`collect.py` needs a small reader function added there.
+
 ## Daily routine with files (the other way)
 
 1. For each professor, put their files in `inbox/`, all with the same name:

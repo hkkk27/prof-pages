@@ -1,0 +1,101 @@
+{
+  "slug": "sanchit-jain",
+  "name": "Sanchit Jain",
+  "role": "Assistant Professor",
+  "department": "Finance, Accounting and Control",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/sanchit-jain.jpg",
+  "bio": [
+    "Professor Sanchit Jain, a doctoral candidate in Finance and Accounting at the Indian Institute of Management Bangalore, completed his BCom from Ahmedabad University and has qualified as a Chartered Accountant. His research interests span corporate finance, financial intermediation, mutual funds, regulatory design, and text analysis. His work has been published in the Journal of Futures Markets and through Harvard Business Publishing. He has also presented at leading domestic and international conferences.",
+    "Professor Jain is the recipient of the Florintree Scholarship (2025–26) and the Mirae Asset Scholar Award (2024–25), among other recognitions. Before entering academia, he had worked in financial services across audit, investment banking, and asset management, with experience at S.R. Batliboi (EY), ASA & Associates, Corporate Catalyst India, ICICI Prudential AMC, and Batlivala & Karani."
+  ],
+  "interests": [
+    "Corporate Finance",
+    "Financial Intermediation",
+    "Mutual Funds",
+    "Business Groups"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "CA (Institute of Chartered Accountants of India)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Energy‐Related Discussion in Fed Speeches and Options‐Implied Equity Risk Premium",
+      "authors": "A Dixit, S Jain, B Lucey, J Pathak",
+      "venue": "Journal of Futures Markets 46 (4), 719-737",
+      "year": "2026",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Contagion effects of equity financing announcements within business groups",
+      "authors": "DJ Cumming, S Jain, V Jindal",
+      "venue": "Available at SSRN 5024025",
+      "year": "2024",
+      "url": "",
+      "cited": "2"
+    },
+    {
+      "title": "Smallcase: A Disruptive Business Model in India",
+      "authors": "A Mishra, S Jain, V Teraiya",
+      "venue": "Harvard Business Publishing for Education, 11",
+      "year": "2024",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Fog to Pyre: The impact of Supreme Court Judgment Complexity on Dowry Deaths",
+      "authors": "A Anand, S Jain, J Pathak, S Sekhri",
+      "venue": "IIM Bangalore Research Paper",
+      "year": "2024",
+      "url": "",
+      "cited": ""
+    }
+  ],
+  "teaching": [
+    "Corporate Investments and Value Creation"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Professor Jain’s research examines how institutional design shapes the behaviour and outcomes of firms, financial intermediaries, and investors in Indian financial markets. He works at the intersection of corporate finance, financial intermediation, and regulatory policy, using methods such as event studies, difference-in-differences designs, and quasi-natural experiments to address theoretically grounded and policy-relevant questions. His current work examines valuation spillovers within Indian business groups, the effect of distributor intermediation on mutual fund market discipline, and the role of regulatory mandates in shaping fund manager behaviour."
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Dixit, A., Jain, S., Lucey, B., & Pathak, J. (2026). Energy-related discussion in Fed speeches and options-implied equity risk premium. Journal of Futures Markets, 46(4), 719–737. https://doi.org/10.1002/fut.70078",
+        "Mishra, A., Jain, S., & Teraiya, V. (2025). Smallcase: A disruptive business model in India (Case No. IM025B-PDF-ENG). Harvard Business Publishing for Education. https://hbsp.harvard.edu/product/IM025B-PDF-ENG"
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "2",
+    "h_index": "1"
+  },
+  "contact": {
+    "email": "sanchit.jain@ahduni.edu.in",
+    "phone": "+91.79.61911110",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sanchit-jain/",
+    "scholar": "https://scholar.google.com/citations?user=PTLxJsEAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0000-0003-0674-5436",
+    "linkedin": "https://www.linkedin.com/in/jainsanchit",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sanchit-jain/",
+    "https://scholar.google.com/citations?user=PTLxJsEAAAAJ&hl=en"
+  ]
+}

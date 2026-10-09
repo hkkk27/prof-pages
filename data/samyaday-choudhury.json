@@ -1,0 +1,100 @@
+{
+  "slug": "samyaday-choudhury",
+  "name": "Samyaday Choudhury",
+  "role": "Assistant Professor",
+  "department": "Faculty Fellows",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/samyaday-choudhury.jpg",
+  "bio": [
+    "Professor Samyaday Choudhury earned his PhD degree from the Indian Institute of Science, Bengaluru, under the Joint Astronomy Programme. Prior to joining Ahmedabad University in March 2023, Professor Choudhury was an ‘Evolved Star Postdoctoral Fellow’ at the Space Telescope Science Institute (USA), the operation centre for prominent NASA space observatories like the Hubble Telescope and the James Webb Space Telescope. After completing his PhD from the Indian Institute of Astrophysics (Bengaluru), he was a 'Lee Wonchul Postdoctoral Fellow' at Yonsei University Observatory (South Korea) and a Postdoctoral Research Fellow at Macquarie University (Australia)."
+  ],
+  "interests": [
+    "Stellar populations",
+    "extragalactic star formation",
+    "stellar evolution",
+    "galaxy evolution",
+    "big data analysis in astronomy"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Indian Institute of Science, Bengaluru)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Winter, 2025 - PHY738 Physics of Galaxies and Interstellar Matter, an elective for PhD Physics, Ahmedabad University.",
+    "Monsoon, 2024 - PHY430 Introductory Astrophysics, a major elective for UG Physics, Ahmedabad University.",
+    "Bi-semester, 2024-25 – PHY121 Mechanics Laboratory, for BS Physics, Ahmedabad University. The laboratory is based on the concept of blank lab pedagogy (https://www.facebook.com/watch/?v=306986721399183).",
+    "Winter, 2024 – PHY735 Stars and Galaxies, an elective for PhD Physics, Ahmedabad University.",
+    "Winter, 2024 - Foundations Programme course at Ahmedabad University (Module 3, Democracy and Justice studio, Data & Communication).",
+    "Monsoon, 2023 - PHY314 Electrical Circuits and Electronics, for BS Physics, Ahmedabad University.",
+    "Bi-semester, 2023-24 – PHY121 Mechanics Laboratory, for BS Physics, Ahmedabad University.",
+    "Winter, 2023 – Foundations Programme course at Ahmedabad University (Module 3, Democracy and Justice studio, Data & Communication)."
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "What is it about",
+        "As the human race continues its quest to unveil the grandeur of the Universe, answers to several fundamental questions about the evolution of galaxies and the formation of stars in them remain elusive. As a cosmic detective, Professor Choudhury proactively hunts for answers by studying galaxies in our nearby Universe, i.e., those near the Milky Way and our local neighbourhood. These grand structures and celestial bodies near us are simply fossil records of the various physical processes involved in their formation and evolution events since the early phases of the Universe. Professor Choudhury is particularly interested in star-forming dwarf galaxies, whose chemical and physical environments are vital proxies of star formation and galaxy evolution events in the nascent phase of the Universe. To carry out these studies, he uses multiwavelength data from Big Sky Surveys and targeted observations from prominent space-based telescopes (e.g. India's AstroSat, NASA's Hubble Telescope) and ground-based optical telescopes worldwide. He employs image analysis techniques, mathematical and statistical techniques, and algorithms to analyse these data and uses physical models to interpret the associated astrophysical phenomena involved in the above processes. He has published several articles in the above domains in international journals of Astronomy and Astrophysics. Professor Choudhury leads his research projects in collaboration with some prolific research groups based in India, the USA, Australia, and South Korea.",
+        "Exciting results",
+        "By developing smart, robust, and versatile data analysis techniques, he has deciphered some of the global properties, like chemical enrichment maps and cluster formation history, of the most massive satellite galaxies of our Milky Way, the Magellanic Clouds. Estimating these properties is crucial in understanding the secular evolution of these satellites and their gravitational interaction history with the Milky Way. The results have implications on our understanding of star formation history, mass accumulation, and interaction history of similar systems in our Universe (minor galaxy merger events).",
+        "The Astronomy & Astrophysics Group",
+        "Professor Choudhury is spearheading the establishing an Astronomy & Astrophysics research group at Ahmedabad University. This group focuses on cutting-edge research in stellar evolution, star-formation, galaxy evolution, multiwavelength observations, simulations, and the development of novel data analysis techniques. The group's goals align with the decadal missions of the international astronomy community and especially relevant in the era of Big Sky Surveys and next-generation space telescopes by ISRO, NASA and ESA. Professor Choudhury is interested in interdisciplinary collaborating and applying advanced methods from areas such as big-data analysis, image processing, and high-performance computation to solve major astronomical challenges. He is also setting up an Astronomy & Astrophysics teaching laboratory providing hands-on experience to students on astronomical observations and data analysis. As a part of these efforts, a pyramidal horn antenna for 21cm astronomy has been recently set up at the University, with plans for additional facilities to follow."
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Choudhury S., de Grijs, R., Bekki K.; Cioni M. R. L., Ivanov V. D.; van Loon J. T, Miller A., Niederhofer F., Oliveira J. M., Ripepi, V., Sun N., Subramanian S.; \" The VMC survey –: Mapping metallicity trends in the Large Magellanic Cloud using near-infrared passbands \" – 2021, Monthly Notices of the Royal Astronomical Society, 507, 4752.",
+        "Choudhury S., de Grijs, R., Stefano R.; Bekki K.; Cioni M. R. L., Ivanov V. D.; van Loon J. T, Niederhofer F., Oliveira J. M., Ripepi, V.; \" The VMC survey – XXXIX: Mapping metallicity trends in the Small Magellanic Cloud using near-infrared passbands \"; 2020, Monthly Notices of the Royal Astronomical Society, 497, 3746.",
+        "Choudhury S., Subramaniam A., Cole A. A. and Sohn Y. -J.; “ Photometric metallicity map of the Small Magellanic Cloud ”; 2018, Monthly Notices of the Royal Astronomical Society, 475, 4279.",
+        "Choudhury S., Subramaniam A., Cole A. A.; “ Photometric metallicity map of the Large Magellanic Cloud ”; 2016, Monthly Notices of the Royal Astronomical Society, 455, 1855.",
+        "Choudhury S., Subramaniam A., Piatti A. E.; \" Deep Washington Photometry of Inconspicuous Star Cluster Candidates in the Large Magellanic Cloud ”: 2015, Astronomical Journal, 149, 52."
+      ]
+    },
+    {
+      "title": "Grants and Awards",
+      "paragraphs": [
+        "2024: Ahmedabad University's teaching innovation grant of Rs.70,000.",
+        "2024: Reviewer of the Astrophysical Journal (AAS).",
+        "2024: Accepted as an Associate of Inter University Centre for Astronomy & Astrophysics (IUCAA, Pune).",
+        "2023: Accepted as life member of the Astronomical Society of India.",
+        "2023: Invited to serve as a review editor for Frontiers in Space Sciences and Astronomy.",
+        "2022: Awarded observation time on the Hubble Space Telescope as a Co-Investigator.",
+        "2021: Awarded observation time on the 3.9m Anglo-Australian Telescope, Australia, as a Co-Investigator.",
+        "2021: Awarded observation time as Principal Investigator using the UVIT/AstroSat (88,900 s). The AstroSat is India’s first multi-wavelength space telescope",
+        "2020: Awarded observation time as Principal Investigator using the UVIT/AstroSat (10,000s).",
+        "2017-till date: Awarded observation time in several cycles as Co-Investigator for ‘GloBules’ survey using the UVIT/AstroSat.",
+        "2016-2018: Lee Wonchul Postdoctoral Fellowship at Yonsei University Observatory, South Korea.",
+        "2014: Department of Science and Technology (DST) India, travel grant to Australia for collaborative work.",
+        "2014: Best Poster Award in the category of ‘Extra-galactic astronomy and Cosmology’ during the 32nd Annual Meeting of the Astronomical Society of India.",
+        "2012-2015: Senior Research Fellowship during PhD from DST, India.",
+        "2009-2011: Junior Research Fellowship during PhD from DST, India.",
+        "2008: Qualified National Eligibility Test (NET) for an award of Junior Research Fellowship and eligibility for Lectureship (under the Council of Scientific and Industrial Research Fellowship scheme, India)."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "samyaday.choudhury@ahduni.edu.in",
+    "phone": "+91.79.61911000",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/international-centre-for-space-and-cosmology/people/samyaday-choudhury/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/samyaday-choudhury-b0142a117/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/international-centre-for-space-and-cosmology/people/samyaday-choudhury/"
+  ]
+}

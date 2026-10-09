@@ -1,0 +1,266 @@
+{
+  "slug": "bhargav-adhvaryu",
+  "name": "Bhargav Adhvaryu",
+  "role": "Professor of Urban Science",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/bhargav-adhvaryu.jpg",
+  "bio": [
+    "Bhargav Adhvaryu is an urban & transport planner & modeller by training with experience in teaching, research, and consulting. Currently, he is Professor at the Amrut Mody School of Management, Ahmedabad University. Professor Adhvaryu completed his PhD from the University of Cambridge (and Churchill College) and holds a Master of Science (Transport) from Imperial College London and University College London and a Diploma of the Imperial College (DIC).",
+    "He has received several laurels. Most noteworthy are three gold medals at Bachelor of Civil Engineering, being a British Chevening Scholar, and being a Fulbright Nehru Visiting Professor at the University of California, Los Angeles (UCLA).",
+    "Being an urbanist, his research domains are sustainable cities and transport, with an emphasis on enhancing the plan-making process and public policy. He has worked on building mathematical models of land use and transport interaction, public transport accessibility measurement and mapping, urban spatial structure analysis, urban transport infrastructure design, and cities and climate change. He has several publications on these domains in peer-reviewed journals (more details at www.bhargavadhvaryu.net), and he is a frequent reviewer for several international journals and book publishers.",
+    "Over the years, he has taught topics related to urban and transport planning and modelling, urban transport infrastructure design, and statistics & data visualisation to UG, PG, and PhD students. He has guided several UG and PG and PhD dissertations.",
+    "His past full-time academic jobs have been Lecturer, Regional Engineering College (REC), Surat (now SVNIT); Lecturer, Sarvajanik College of Engineering and Technology, Surat; Lecturer, School of Planning, CEPT University, Ahmedabad; Research Associate, The Martin Center, Department of Architecture, Cambridge University; Reader (Associate Professor), Adani Institute of Infrastructure Management, Ahmedabad; Professor, Faculty of Technology, CEPT University, wherein he was also Head, MTech Infrastructure Engineering Management program; Chair, Progress Review Committee for Old Doctoral Program; Head, Doctoral Program, and Head, Academic Staff Office.",
+    "His past full-time consulting job was being Project Manager, Environmental Planning Collaborative, Ahmedabad, a not-for-profit urban planning and development management consulting firm, wherein he was project manager for Sabarmati (Ahmedabad) and Musi (Hyderabad) riverfront projects, development plans for various cities, and several road design projects."
+  ],
+  "interests": [
+    "Urban Analytical Studies (Morphology",
+    "Form",
+    "Spatial Structure",
+    "Transport Networks",
+    "Redevelopment Potential",
+    "and Socioeconomic Phenomena)",
+    "Land Use-transport Interaction Modelling for Sustainable Cities",
+    "Public Transport Accessibility",
+    "Localisation of SDG11",
+    "Urban Management and Governance",
+    "Urban Transport Infrastructure Design",
+    "AI in Urban Planning"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (University of Cambridge)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Cities, urban sustainability, and transport related courses",
+    "Statistics and data visualisation related courses",
+    "Foundation Programme: Neighbourhoods Studio, Democracy and Justice Studio"
+  ],
+  "awards": [
+    {
+      "title": "Fulbright-Nehru Visiting Lecturer Fellowship at University of California, Los Angeles (UCLA), 2012",
+      "by": "",
+      "year": "2012"
+    },
+    {
+      "title": "Cambridge Commonwealth & Hinduja Cambridge Trusts scholarship, 2007−08",
+      "by": "",
+      "year": "2007"
+    },
+    {
+      "title": "Duckworth Scholarship, Churchill College, Cambridge, 2007−08",
+      "by": "",
+      "year": "2007"
+    },
+    {
+      "title": "Kettle’s Yard Travel Fund, Department of Architecture, University of Cambridge, 2006, 2007, 2008",
+      "by": "",
+      "year": "2006"
+    },
+    {
+      "title": "British Chevening Scholar, Imperial College London & UCL, UK, 2002−03",
+      "by": "",
+      "year": "2002"
+    },
+    {
+      "title": "Sir Ratan Tata Trust travel grant for higher studies abroad, 2002",
+      "by": "",
+      "year": "2002"
+    },
+    {
+      "title": "Partial tuition fee waiver for MSc Transport, Imperial College, 2002",
+      "by": "",
+      "year": "2002"
+    },
+    {
+      "title": "USAID fellowship for attending a one-week course in Indonesia, 2000",
+      "by": "",
+      "year": "2000"
+    },
+    {
+      "title": "Gold medal nomination for Best PG Dissertation at all-India level, 1995",
+      "by": "",
+      "year": "1995"
+    },
+    {
+      "title": "Gold medal in Town Planning and Housing, BE Civil, 1993",
+      "by": "",
+      "year": "1993"
+    },
+    {
+      "title": "Gold medal in Civil Engineering Project, BE Civil, 1993",
+      "by": "",
+      "year": "1993"
+    },
+    {
+      "title": "Gold medal in Environmental Engineering, BE Civil, 1993",
+      "by": "",
+      "year": "1993"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "1. Sustainable cities and transport",
+        "[a] Modelling cities and sustainability",
+        "Developing mathematical models of land use and transport interaction (LUTI) ( Adhvaryu & Echenique, 2012): Such models can be used to analyse the performance of combinations of urban form and transport policies under economic, environmental, and social sustainability criteria. Examples of planning policies are combinations of alternative land-use policies (eg, compact, dispersed, edge expansion, new settlements, etc) and alternative transport policies (eg, public transport improvements, highways investment, etc). To assess the sustainability of such policies, I have developed a mathematical model called SIMPLAN (Simplified PLANning) modelling suite (explained below). Such models have been extensively used all over the world to enhance the urban plan-making process. An application to Ahmedabad is shown in Adhvaryu (2010). Incorporating economics into models of cities aspects that strongly explain behaviour makes urban models more representative of the reality (as against the pure planning/engineering tradition of dealing with only physical aspects of cities). I am also interested in commercially developing simplified urban models (like SIMPLAN), for which the potential market could be governments in small towns and cities (both in developed and developing countries), who, to begin with could invest in developing such models with minimal resources. Later on, if they wish, these could be easily updated as new data become available and easily upgraded if more resources become available, creating a long-term relationship with the clients.",
+        "Analysing the evolution of urban spatial structure ( Adhvaryu, 2011b): Analysing the spatial structure of cities is important. It gives an indication of the trends the city is growing and proves useful in developing future scenarios for cities (in terms of alternative urban and transport policies).",
+        "Critical review of development plans ( Adhvaryu, 2011a): A critical review of the development plan is a precursor to developing a model for that city. It enables us to examine the approach critically in terms of what has worked and what has not. This analysis feeds into the formulation of more robust models.",
+        "[b] Public transport accessibility measurment & mapping ( Shah & Adhvaryu, 2016; Adhvaryu et al, 2019; Adhvaryu & Kumar, 2021; Adhvaryu & Mudhol, 2021)",
+        "Visualisation of public transport accessibility levels that can be used in various policy decisions such as TOD and land use regulations, parking, affordable housing, and multi-modal integration.",
+        "More about the applications of public transport accessibility levels (PTAL) in planning policy is available in the talk on \"Public transport accessibility and planning policy: an Indian perspective\" presented at the hosted by Martin Centre for Architectural and Urban Studies, University of Cambridge, 28-Jan-2021 is available here.",
+        "[c] Investigating the relationship between energy use and urban environment and activity at both urban block and city levels",
+        "Examples of urban environment and activities are density, built form, travel patterns, and type of land uses.",
+        "[d] Urban design aspects of city form and street patterns",
+        "Investigating how, and if so to what extent, does physical design affect the way we make location and travel choices relating to housing, work, education, shopping, recreation, etc.",
+        "2. Urban transport infrastructure - planning and design",
+        "[a] Exploring alternative designs of road sections for a variety of urban uses",
+        "Eg, residential, commercial, and mixed uses; accommodating transport infrastructure like bus-priority and busways, design of pedestrian-friendly and accessible streets, and accommodating non-transport uses such as hawking and vending; parking management",
+        "[b] Exploring the feasibility of bus-priority public transport systems in developing countries",
+        "My MTech (URP) thesis explored the feasibility of busways in Ahmedabad (1995). In 2019, I co-authored a book chapter on critically analysing the Ahmedabad Bus Rapid Transport System that started operations in 2006 (see, Swamy, HMS., Adhvaryu, B., Sinha, S. (2019)).",
+        "[c] Planning and design of multi-modal transport hubs (for more see this article on MIEM students' studio work)"
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Aditya, V., Patel, V. Dahima, Y., Chowdhury, L., Jana, K., Adharyu, B., Mahadevia, D., Shah. C., & Rajpurohit, S. (2026). Emerging combinations of climatic parameters for dengue proliferation in urban landscapes. bioRxiv (pre-print) https://doi.org/10.64898/2026.05.19.726173",
+        "Adhvaryu, B., & Mathew, R. R. (2025). Let's get digital: Exploring urban governance and management in India. Habitat International, 161, 103419. https://doi.org/10.1016/j.habitatint.2025.103419",
+        "Adhvaryu, B., & Chatterjee, R. (2025). Micro-public Transport Accessibility Mapping to Enhance Local Area Planning (LAP) in Ahmedabad. Case Studies on Transport Policy, 20, 101455. https://doi.org/10.1016/j.cstp.2025.101455",
+        "Joshi, C., Pathak, M., & Adhvaryu, B. (2025). Estimating residential building material demand for Ahmedabad 2050 and its impact on CO2 emissions. Environmental Research: Infrastructure and Sustainability, 5, 015022. https://doi.org/10.1088/2634-4505/ad9e6e [open access]",
+        "Kushwaha, N., Nangia, C., & Adhvaryu, B. (2023). Achieving Localization of SDG11: A critical review of South Asian region and learnings for India. International Review for Spatial Planning and Sustainable Development, 11(3), 102-115. https://doi.org/10.14246/irspsd.11.3_102 [open access]",
+        "Mahadevia, D., Adhvaryu, B., Datt, M., & Killiyath, S., (2022). Geography of COVID-19 Infections in Ahmedabad – An Early Period Analysis. Urban India, 42(1), 1-21. (In print in 2023) ( read-only)",
+        "Adhvaryu, B., & Joshi, B. (2023). Raising Urban Planning Awareness in India. In Diko, S.K., Hollstein, L.M., & Palazzo, D. (Eds.). Routledge Companion to Professional Awareness and Diversity in Planning Education (1st ed.). https://doi.org/10.4324/9781003254003-29 {Routlege] ( read-only)",
+        "Kushwaha, N., Nangia, C., & Adhvaryu, B. (2022). Ineffectual transference of SDGs as local level indicators: Tracing India's path to Agenda 2030. ECS Transactions, 107(1), 59–68 https://doi.org/10.1149/10701.0059ecst [IOP Science]",
+        "Adhvaryu, B., & Mudhol, S. S. (2022). Visualising public transport accessibility to inform urban planning policy in Hubli-Dharwad, India. GeoJournal, 87 (Suppl 4), 485–509. https://doi.org/10.1007/s10708-021-10548-6. https://doi.org/10.1007/s10708-021-10548-6 [Springer Nature]",
+        "Adhvaryu, B., & Kumar, S. (2021). Public transport accessibility mapping and its urban planning policy applications: A case study of Lucknow, India. Case Studies on Transport Policy. https://doi.org/10.1016/j.cstp.2021.08.001 [Elsevier]",
+        "Mahadevia, D., Datt, M., Adhvaryu, B., & Killiyath, S. (2021, July 25). Spatiality of COVID-19 infections in Ahmedabad: An early period analysis. SocArXiv. https://doi.org/10.31235/osf.io/ycnue [ OSF ]",
+        "Rawal, R., Garg, V., Kumar, S., & Adhvaryu, B. (2020). Evaluation of thermally activated furniture on thermal comfort and energy consumption: An experimental study. Energy and Buildings, 223, 110154, https://doi.org/10.1016/j.enbuild.2020.110154 [Elsevier]",
+        "Kavta K., & Adhvaryu B. (2020) Walking and Bicycling to School—Understanding the Impact of Socio-economic Factors and Built Environment. In Mathew T., Joshi G., Velaga N., & Arkatkar S. (eds) Transportation Research. Lecture Notes in Civil Engineering, vol 45. https://doi.org/10.1007/978-981-32-9042-6_22 [Springer]",
+        "Bose, T., Adhvaryu, B, & Chakraborti, S. (2019). Airport noise and urban planning: A case study of Ahmedabad, India. Urban India, 38(1), 28–40. [NIUA] (read-only)",
+        "Rawal, R., Garg, V., Kumar, S., & Adhvaryu, B. (2019). Impact of thermally activated furniture system on the occupant thermal comfort: A study using thermoregulation model and computational fluid dynamics. Proceedings of the 16th International Building Performance Simulation Association Conference, Rome, 2–4 September 2019. https://doi.org/10.26868/25222708.2019.210907",
+        "Adhvaryu, B., Chopde, A., & Dashora, L. (2019). Mapping public transport accessibility levels (PTAL) in India and its applications: A case study of Surat. Case Studies on Transport Policy, 7(2), 293–300. https://doi.org/10.1016/j.cstp.2019.03.004 [Elsevier] (read-only)",
+        "Adhvaryu, B., & Rathod, V. (2019). Estimating housing infill potential: Developing a case for floorspace pooling in Ahmedabad, India. Planning Practice and Research, 34(3), 305–317. https://doi.org/10.1080/02697459.2019.1590772 [Routledge, Taylor & Francis] (read-only)",
+        "Adhvaryu, B., & Patel, M. (2019, Feb 23). Is public transport in Ahmedabad inclusive? Economic and Political Weekly, 54(8), 17–20. https://www.epw.in/journal/2019/8/commentary/public-transport-ahmedabad-inclusive.html (read-only)"
+      ]
+    },
+    {
+      "title": "Institutional responsibilities",
+      "paragraphs": [
+        "Chair, PhD Programme in Management [Aug 2021 - Jul 2026]",
+        "Coordinator, UG data science courses [Aug 2020 - Jul 2025]",
+        "Area Coordinator, Technology, Operations, and Decision Sciences (TODS) [Jan 2023 - Jul 2025]"
+      ]
+    },
+    {
+      "title": "Honorary professional services",
+      "paragraphs": [
+        "1. Member of the editorial board, Built Environment journal, Alexandria Press, UK",
+        "2. Reviewer for international journals and book publishers",
+        "Journals",
+        "Cities (Elsevier)",
+        "Energy Policy (Elsevier)",
+        "Environment and Planning B: Urban Analytics and City Science (Sage, earlier Pion)",
+        "Environment and Urbanisation Asia (Sage)",
+        "Habitat International (Elsevier)",
+        "International Journal of Urban Sustainable Development (Taylor & Francis)",
+        "Journal of Economic Interaction and Coordination (Springer)",
+        "Journal of Public Transport (USF)",
+        "Journal of Transport and Land Use (Uni. of Minnesota/ CTS)",
+        "Progress in Planning (Elsevier)",
+        "Public Transport (Springer)",
+        "Singapore Journal of Tropical Geography (Wiley)",
+        "Sustainable Cities and Society (Elsevier)",
+        "Transportation Research Record (TRB, USA)",
+        "Books"
+      ]
+    },
+    {
+      "title": "Media",
+      "paragraphs": [
+        "Live TV discussion (in Gujarati) on public transport Doordarshan Girnar TV channel, 11-Nov-2024, 3:30 - 4:00 pm (જીવાદોરી સમાન જાહેર પરિવહન”)",
+        "Traffic accidents analysis in Ahmedabad, Times of India, Ahmedabad, 9-Jun-2019",
+        "Live TV discussion (in Gujarati) on Ahmedabad metro and other related topics Doordarshan Girnar TV channel, 6-Mar-2019, 8:00 - 8:30 pm, (Ep-29: Aapna Mudda Aapni Vaat | આપણા મુદ્દા આપણી વાત)",
+        "Public transport faces connectivity challenge Times of India, Ahmedabad, 3-Mar-2019",
+        "Public transport going nowhere, new map may show the way Times of India, Ahmedabad, 21-Jul-2016",
+        "Relocation costs riverfront families dear Ahmedabad Mirror, 20-May-2015",
+        "AMTS-BRTS passengers pay more than 4 times the fare (in Gujarati) Gujarat Samachar Plus, Ahmedabad, 11-Jun-2014",
+        "CEPT University student wins best paper award Times of India, Ahmedabad, 4-Apr-2014",
+        "CEPT students propose multi-modal transport hubs for Ahmedabad Ahmedabad Mirror, 20-Dec-2012"
+      ]
+    },
+    {
+      "title": "SIMPLAN model",
+      "paragraphs": [
+        "Urban modelling for enhancing master plan making: SIMplified PLANning modelling suite for Ahmedabad",
+        "An urban planning policy usually has two key components: the urban form and the transport system. There can be a variety of theoretical possibilities of these two components and also how they can be combined. Some typical urban forms and transport policies and their combinations are shown schematically in the figure below.",
+        "Policy-makers are usually faced with the decision of what planning policy to pursue in order to achieve the best possible future! Using models that simulate urban dynamics, it is possible to test and assess alternative planning policies, thereby making the decision process more objective and transparent. Examples are the full-fledged and complex land use—transport interaction models, which have been successfully applied in many cities of the developed world, demonstrating its effective use in assessing alternative planning and transport policies before finalising their master plan. However, in the developing world, building such complex models is challenging due to lack of data availability and resource constraints. Addressing such constraints, a SIMplified PLANning modelling suite called SIMPLAN has been developed for the case study city of Ahmedabad, India. SIMPLAN is built using available census and some basic employment related sample survey data, and contains four sub-modules for spatial trend analysis, residential location, modal split, and alternative policy assessment framework. SIMPLAN development is an attempt to build simplified yet robust analytical tools in the context of developing countries.",
+        "The four SIMPLAN modules are:",
+        "Trend Analysis Module (TAM): a set of tools for analysing the evolution of the spatial structure of a city (for more details see Adhvaryu, 2011b)",
+        "Residential Location Module (RLM): an econometric residential location model that uses average housing rents as part of the generalised cost in a gravity-type allocation function and currently deals with work trips. RLM estimates population distribution, by socioeconomic groups, as a function of employment location and residential floorspace (for more details see Adhvaryu & Echenique, 2012)",
+        "Modal Split Module (MSM): a multinomial logit model to estimate the proportion of person work trips by different modes generated by the RLM (for more details see Adhvaryu & Echenique, 2012)",
+        "Assessment Module (ASM): After calibration, SIMPLAN can be used to assess alternative planning policies for a future/horizon year, with appropriate employment, dwelling floorspace, and transport inputs. The key assessment criteria in are economic (consumer surplus in housing and transport), environmental (new land required and CO2 emissions), and social (distribution of economic benefits and mix of socioeconomic groups) (for more details see Adhvaryu, 2010).",
+        "The main land use inputs to SIMPLAN are employment and dwelling floorspace by zones and transports inputs are average network distances and speed by mode. For Ahmedabad, three alternative policies for 2021 were tested: trend policy (business as usual), compaction policy and dispersal policy, with appropriate combinations of land use and transport inputs.",
+        "The main advantages of using this type of approach are:",
+        "It allows planners to prepare policy alternatives with drastic variations and test these to see its effects in the future, enabling them to make more informed decisions for before arriving at the ‘most suitable’ policy to be pursued in the development/master plan (popularly known as DP).",
+        "Outputs from the model are disaggregated by zones and therefore dovetail well with the next spatial level of planning, ie the town planning scheme (TPS).",
+        "Quite importantly, since the model is spreadsheet-based, it is simple to understand and run. All model runs can be out in-house by city planning officials on their PCs or laptops! This avoids the ‘black box’ approach usually prevalent in planning projects involving mathematical modelling, wherein specific tasks are outsourced to private consulting firms.",
+        "The policies tested for the case study city of Ahmedabad for year 2021 include: [1] compact city with high-quality public transport [2] dispersed development with significant road capacity enhancement, and [3] trend policy, denoting a business as usual scenario in terms of supply of residential floorspace, development control regulations (DCRs), and public transport development (which acts as a reference policy to compare the policies developed by 'design'). Sensitivity analysis is also done to see the effects of change in the distribution of jobs.",
+        "The critical review of the Ahmedabad Development Plan making approach (as in the Ahmedabad Development Plan for 2011) is discussed in Adhvaryu (2011a), establishing a need for a model-based plan-making approach.",
+        "Key SIMPLAN outputs (for Ahmedabad) indicate that dispersing cities proves to be economically beneficial to the society as a whole because households would tend to gain from the lower rents further afield. Compaction policy performs better in terms of environmental aspects such as consumption of new land for development and vehicular emissions, but bearing in mind traffic congestion is currently not modelled, which could potentially reduce this advantage. With regard to social aspects, it appears that any deviation from the trend creates a lopsided social mix, although compaction policy is a bit better than dispersal.",
+        "As mentioned above, SIMPLAN is developed in a spreadsheet environment, with all key operations controlled by a visual interface using sub-routines written in Visual Basic Application code. This creates a user-friendly graphical interface that makes the model simple to understand and operate by local planning agencies, and, in addition, provides them with the flexibility of updating the model as and when new data is available or a new round of census is conducted.",
+        "India is rapidly urbanising and is at a crucial juncture in its development. The urbanisation phenomenon has both positive and negative effects. It could be argued that appropriate urban development policies and planning methodology can use the potential positives to foster better equity of benefits from the booming overall growth. On the other hand, if India does not capitalise on the potential advantages appropriately, then in the next few decades the negatives of urbanisation could amplify, worsening city living and becoming a stumbling block in its economic growth story. It is believed that using a methodological planning framework such as SIMPLAN, cities in the developing world can prepare their own tailor-made policy that best satisfies their objectives, making the planning efforts count for improving the quality of life in cities."
+      ]
+    },
+    {
+      "title": "PhD supervision and examination",
+      "paragraphs": [
+        "PhD supervision and examination"
+      ]
+    },
+    {
+      "title": "My apps",
+      "paragraphs": [
+        "1. ACADEMIC APPS",
+        "Below are the academic apps I have developed for teaching, learning, and application (available on my website).",
+        "Transport Analysis Tools: An interactive toolkit that provides a simplified version of the problem and solutions to enhance the basic understanding of the concepts. Changing the problem statement updates the solutions in real time, enabling users to gauge the impact of those changes. It is likely to help instructors and students explore and learn transport modelling concepts visually. I developed this as a learning and practice tool for the TOD333 Logistics and Transport Management course.",
+        "Data Analysis and Visualisation (DAV) Tools: An interactive toolkit for hands-on learning of data analysis and visualisation. This can be a useful teaching and learning tool for STA101 Introductory Statistics, TOD501 Descriptive and Inferential Statistics, TOD601 ANOVA and Regression, and other statistics-related courses, helping instructors and students explore and learn statistical concepts visually.",
+        "Spatial Analysis Tools: An interactive toolkit that provides a simplified version of the problem and solutions to enhance the basic understanding of the concepts. Changing the problem statement updates the solutions in real time, enabling users to gauge the impact of those changes. Both table and GIS data formats are accepted as inputs. It is likely to help instructors and students explore and learn spatial analysis and modelling concepts.",
+        "The Rubric Tool: A tool to adjust the grading rubric bands with real-time visual feedback in terms of frequency distribution, density plot, and mean GPA.",
+        "Rateify - The JEM Tool (Journal Equivalency Tool): Rateify establishes the equivalency of journals not listed in the ABDC journal list but are listed in Scopus, using customisable percentile bands.Rateify's patent application number is 202621099797, titled S ystem And Method For Determining Journal Equivalence Ratings Using Bibliometric Indicator Mapping.",
+        "Quiz Tools: QT is a browser-based assessment platform for designing, conducting, monitoring and evaluating quizzes. It supports MCQ, fill-in-the-blanks, true/false, and essay questions, question-bank import, randomisation, scheduled quizzes, secure participant mode, invigilation, essay evaluation, archived quiz analysis, and live buzzer and timed quiz modes.",
+        "QT also includes app-wide search, role-specific guidance, response and score exports, integrity controls, and a password-protected developer area with user logs, search logs, module controls and Text IDs. Built with React/Vite and deployed on Cloudflare Pages, it follows a no-permanent-retention principle for quiz questions, participant responses and marks, using Cloudflare services only for operational and temporary live functions.",
+        "2. NON-ACADEMIC APPS",
+        "Below are the non-academic apps I have developed to hopefully make the admin aspects easier (available on my website).",
+        "BaTeX: I like the simplicity of Markdown for small- to medium-length documents. However, I have struggled to find an application that meets my needs without requiring CSS tweaks, technical adjustments, or workarounds.",
+        "BaTeX is my attempt to build such an application: simple and fast. The simplicity comes from using Markdown, and the speed from being browser-based — meaning it runs entirely in your browser without consuming local resources. In addition, it provides a WYSIWYG, Word-like editing experience, with LaTeX support for mathematics, and PDF export — all completely free, with no features locked behind a paywall.",
+        "BaTeX (pronounced ba(h)-tek) brings together Ba and TeX. Ba stands for beautiful articles — written in Markdown with mathematics typeset in LaTeX — and carries a small personal signature through my initials.",
+        "eMergent: eMergent is an app that can send emails to several recipients with personalised messages and attachments - all at once. It is a standalone app, unlike some email addons that involve spreadsheet gymnastics!"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "bhargav.adhvaryu@ahduni.edu.in",
+    "phone": "+91.79.61911000 (Office: SAS Building, Room M118)",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/bhargav-adhvaryu/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/bhargav-adhvaryu/"
+  ]
+}

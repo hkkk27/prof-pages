@@ -1,0 +1,72 @@
+{
+  "slug": "swapnil-landge",
+  "name": "Swapnil Landge",
+  "role": "Assistant Professor",
+  "department": "Economics and Public Policy",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/swapnil-landge.jpg",
+  "bio": [
+    "Professor Landge is an economist whose research lies at the intersection of labour economics, intergenerational mobility, inequality, and applied econometrics. His doctoral research investigated how family background, occupational choices, and skill transmission shape economic opportunities across generations. He combines traditional econometric methods with machine learning techniques to study occupational mobility and income inequality.",
+    "Professor Landge earned his PhD in Economics from The Graduate Center, City University of New York (CUNY). He also holds an MS in Econometrics and Quantitative Economics from the University at Buffalo, State University of New York (SUNY), an MBA in Operations Management from the Symbiosis Institute of Operations Management (SIOM), and a BE in Electrical Engineering from the Government College of Engineering, Karad. He was a Junior Scholar at Stone Center on Socio-Economic Inequality, New York, where his research focused on inequality and economic opportunity.",
+    "Prior to academia, he spent over a decade in industry, leading large-scale technology and business transformation projects across manufacturing and information technology sectors. This experience informs his interdisciplinary approach to research and teaching, bridging economic theory with real-world business and policy challenges."
+  ],
+  "interests": [
+    "Labour Economics",
+    "Applied Microeconomics",
+    "Applied Microeconometrics"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (City University of New York)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "ECO100: Microeconomics, Monsoon 2026-27 [Bi-Semester Course]",
+    "ECO200 Managerial Economics, Monsoon 2026-27"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Working Papers",
+        "Intergenerational Transmission of Occupation in the USA",
+        "Relationship between Intergenerational Mobility (IGM) and Economic Growth: Evidence from Cross-Country Data",
+        "Work in Progress:",
+        "Intergenerational Transmission of Occupational Skills in the U.S: A Machine Learning Analysis of Fathers’ Skills and Children’s Career Outcomes",
+        "Legacy of Labour: The Impact of Parental Jobs on Children’s Career Choices and Income Inequality",
+        "Intergenerational Self-Selection Model: The Influence of Fathers’ and Mothers’ Occupations on Children’s Occupational Outcomes"
+      ]
+    },
+    {
+      "title": "Media Coverage & Featured Articles (Selected)",
+      "paragraphs": [
+        "Dissertation Showcase, The Graduate Center, CUNY (2026) Link",
+        "“How Does Intergenerational Occupational Mobility Fuel Earnings Inequality?” (2024) https://tinyurl.com/276vv22z",
+        "“Swapnil Landge Merges AI and Economics to Study Social Mobility” (2024) https://tinyurl.com/2w2mh57h"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "swapnil.landge@ahduni.edu.in",
+    "phone": "+91.79.61911262",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/swapnil-landge/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/snlandge/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/swapnil-landge/"
+  ]
+}

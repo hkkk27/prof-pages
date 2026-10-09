@@ -1,0 +1,64 @@
+{
+  "slug": "taniya-sah",
+  "name": "Taniya Sah",
+  "role": "Assistant Professor, Economics",
+  "department": "School of Liberal Arts and Sciences",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/taniya-sah.jpg",
+  "bio": [
+    "Dr. Taniya Sah is an Assistant Professor of Economics at Vidyashilp University’s School of Liberal Arts and Design Studies. She specialises in agricultural economics and works primarily in the area of agricultural markets,value chains and the role of intermediaries in the supply chains of perishable goods. Dr. Sah is also interested in exploring the impact of mechanization on the participation of women in agriculture. Her teaching interests include Mathematical Economics, Statistics, Agricultural Economics, and Growth and Development."
+  ],
+  "interests": [
+    "Agricultural Economics",
+    "Health Economics"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "Ph.D. Indian Institute of Technology, Delhi (IIT.D).",
+      "org": "",
+      "year": ""
+    },
+    {
+      "degree": "M.A. Economics",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Mathematical Economics",
+    "Statistics",
+    "Economics of Growth and Development",
+    "Agricultural Economics",
+    "Research Methodology"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Sah, T., Kaushik, R., Bailwal, N., & Tep, N. (2019). Mohalla Clinics in Delhi: A Preliminary Assessment of their Functioning and Coverage. Indian Journal of Human Development, 13(2), 195-210. Read More",
+        "Bailwal, N., Kaushik, R., & Sah, T. (2020). Importance of Primary Healthcare in Delhi in the Times of COVID-19. Indian Journal of Human Development, 14(3), 527-535. Read More"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "taniya.sah@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/taniya-sah/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/taniya-sah/"
+  ]
+}

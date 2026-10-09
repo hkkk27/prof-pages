@@ -1,0 +1,69 @@
+{
+  "slug": "nilesh-jain",
+  "name": "Nilesh Jain",
+  "role": "Associate Professor",
+  "department": "Economics and Public Policy",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/nilesh-jain.jpg",
+  "bio": [
+    "Professor Jain's research interests include Industrial Organisation, Economics of Organisation, and Microeconomic Theory, particularly the application of microeconomic theory to studying firm behaviour. This includes analysing both firms' strategic responses to external market conditions and their internal organisational decision-making processes.",
+    "Professor Jain earned his PhD in Quantitative Economics from the Indian Statistical Institute, Delhi, in 2025. He holds a BTech in Electrical Engineering from IIT Delhi, an MS in Computers and Systems Engineering from San Jose State University, and an MBA from the University of Chicago Booth School of Business.",
+    "Before his doctoral studies, Professor Jain worked in corporate strategy at Cairn Energy, consulting at The Boston Consulting Group, and software development at a start-up in California."
+  ],
+  "interests": [
+    "Industrial Organisation",
+    "Information Economics",
+    "Applied Microeconomic Theory",
+    "Economics of Organisation"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Indian Statistical Institute, Delhi)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Graduate-level",
+    "Digital Thinking",
+    "History of Economic Thought",
+    "Modelling Randomness in Financial Markets (Stochastic Calculus)",
+    "Managerial Economics",
+    "Undergraduate-level",
+    "Executive Program"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Working Papers",
+        "Jain, N., and Roy Chowdhury, P. (2024). Corruptible principal: Owner corruption makes firms bureaucratic. [Working Paper] Available at SSRN: http://dx.doi.org/10.2139/ssrn.5024320",
+        "Jain, N. (2025). When advertising makes vertically differentiated platform markets contestable. [Working Paper] Available at SSRN: http://dx.doi.org/10.2139/ssrn.5183011",
+        "Jain, N. (2024). Corruptible principal screens a collusive manager. [Working Paper] Available at SSRN: http://dx.doi.org/10.2139/ssrn.5033447",
+        "Work-in-Progress",
+        "Increasing Informalization of Entry-level Jobs in India: Role of Uncontrolled Growth in Private Technical Education Institutions"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "nilesh.jain@ahduni.edu.in",
+    "phone": "+91.79.61911345",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/nilesh-jain/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/nilesh-jain-137219/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/nilesh-jain/"
+  ]
+}

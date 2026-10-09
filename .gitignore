@@ -8,6 +8,7 @@ site/
 
 # Raw material and working lists that should not be public
 raw/
+collected/
 inbox/
 queue.csv
 links.csv

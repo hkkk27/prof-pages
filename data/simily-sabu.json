@@ -1,0 +1,86 @@
+{
+  "slug": "simily-sabu",
+  "name": "Simily Sabu",
+  "role": "Assistant Professor",
+  "department": "School of Liberal Arts and Sciences",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/simily-sabu.jpg",
+  "bio": [
+    "Dr. Simily Sabu is an Assistant Professor of Psychology at the School of Liberal Arts and Design Studies, Vidyashilp University, Bangalore. A cognitive scientist by training, her work is guided by a unifying theme of understanding how movement shapes the way we think, perceive, and interact with the environment. Dr. Sabu completed her PhD in Cognitive Science at the Central European University (CEU), Hungary/Austria, where she investigated how physical interaction between two people, specifically the variability and predictability of a partner's movements, influences motor learning and joint coordination. She went on to complete her postdoctoral research at the Institute for Psychology and Cognitive Neuroscience, Hungarian Academy of Sciences, where she studied how auditory change detection triggers involuntary motor responses. Earlier in her career, she explored the relationship between visual attention and motor response selection during her Master's in Cognitive Science at IIT Gandhinagar. Across this research trajectory, Dr. Sabu has employed various experimental psychology techniques including motion capture, psychophysics, and force analysis to examine the behavioural and motor underpinnings of various cognitive processes. Beyond her research, Dr. Sabu has actively engaged in civic and community initiatives during her time in Hungary. She has volunteered with civil society organisations and supported literacy outreach through community library programmes. She also served as an Education Mentor in the BRIDGE program at Milestone Institute, Budapest, mentoring students navigating financial and social barriers to higher education, and as an English tutor through the CEU/Ambedkar English E-tutoring program."
+  ],
+  "interests": [
+    "Cognitive Psychology",
+    "Experimental Psychology",
+    "Motor Cognition",
+    "Joint Action",
+    "Visual and Auditory Perception and Attention"
+  ],
+  "positions": [
+    {
+      "title": "Postdoctoral Researcher",
+      "org": "Institute for Psychology and Cognitive Neuroscience",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    },
+    {
+      "title": "Research Fellow",
+      "org": "Social Mind and Body Group, Central European University",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A., M.Sc., PhD",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Biological Psychology",
+    "Psychological Testing and Measurement",
+    "Psychopathology"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Journal Publications",
+      "paragraphs": [
+        "Sabu, S., Parmentier, F. B., & Horváth, J. (2024). Involuntary motor responses are elicited both by rare sounds and rare pitch changes. Scientific Reports, 14(1), 20235. Know More",
+        "Sabu, S., Curioni, A., Vesper, C., Sebanz, N., & Knoblich, G. (2020). How does a partner’s motor variability affect joint action?. PloS One, 15(10), e0241417. Know More"
+      ]
+    },
+    {
+      "title": "Conference Presentations",
+      "paragraphs": [
+        "Sabu, S., Parmentier, F. B. R., & Horváth, J. (2023). Involuntary motor responses are elicited both by rare sounds and rare pitch changes [Poster presentation]. European Society for Cognitive Psychology Conference (ESCOP), Porto, Portugal.",
+        "Sabu, S., Curioni, A., Vesper, C., Sebanz, N., & Knoblich, G. (2019). Is your partner’s variability helpful or detrimental in joint motor learning? [Conference talk]. 8th Joint Action Meeting (JAM VIII), Genoa, Italy.",
+        "Sabu, S., Curioni, A., Sebanz, N., & Knoblich, G. (2018). Is your partner’s variability helpful or detrimental in joint motor learning? [Poster presentation]. From Moving Bodies to Interactive Minds (MeeTo), Turin, Italy.",
+        "Sabu, S., Curioni, A., Vesper, C., Sebanz, N., & Knoblich, G. (2017). Role of motor variability in joint action learning [Poster presentation]. 7th Joint Action Meeting (JAM VII), Queen Mary University of London, United Kingdom.",
+        "Sabu, S., Curioni, A., Vesper, C., Sebanz, N., & Knoblich, G. (2017). Role of motor variability in joint action learning [Poster presentation]. Winter School on HumanActionControl (WSHAC), Eberhard Karls University of Tübingen, Germany.",
+        "Sabu, S., Sunny, M. M., & Kumar, N. (2015). Attentional blink is modulated by response selection at T1 [Poster presentation]. European Conference on Visual Perception (ECVP), University of Liverpool, United Kingdom. Know More"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "simily.sabu@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/dr-simily-sabu-vidyashilp-university/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/dr-simily-sabu-vidyashilp-university/"
+  ]
+}

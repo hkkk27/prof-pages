@@ -132,17 +132,24 @@ def parse_ahduni(soup, url):
             break
     for card in soup.select(".accordion .card"):
         title = clean(getattr(card.select_one(".card-header"), "text", ""))
+        body = card.select_one(".card-body")
+        if not title or not body:
+            continue
+        # Lists and line breaks often sit inside one <p>. Mark every block edge so each item stays its own line.
+        for br in body.find_all("br"):
+            br.replace_with("\n")
+        for block in body.find_all(["p", "li", "tr", "ul", "ol", "table", "h3", "h4", "h5", "h6"]):
+            block.insert_before("\n")
+            block.insert_after("\n")
         paras = []
-        for p in card.select(".card-body p"):
-            if p.find("p"):
-                continue  # wrapper paragraph; its children are handled on their own
-            t = clean(p.get_text(" "))
+        for line in body.get_text(" ").split("\n"):
+            t = re.sub(r"\s+([,.;:)])", r"\1", clean(line))
             if t and t not in paras:
                 paras.append(t)
-        if not title or not paras:
+        if not paras:
             continue
         if title.lower() == "profile":
-            rec["bio"] = paras
+            rec["bio"] = [p for p in paras if len(p) >= 40] or paras
         else:
             rec["sections"].append({"title": title, "paragraphs": paras})
     return rec
@@ -434,6 +441,10 @@ def cmd_add(a):
     load_env()
     rec, text = json.loads(json.dumps(EMPTY)), ""
     url = a.url
+    if getattr(a, "collected", None):  # a file written by `collect`: the page is already read, the photo already saved
+        c = json.loads(Path(a.collected).read_text(encoding="utf-8"))
+        rec, text = c["rec"], c["text"]
+        a.photo = a.photo or c.get("photo_file") or None
     if a.email:
         row = csv_row(a.email)
         url = url or (row.get("Profile_URL") or "").replace("\n", "").replace(" ", "")
@@ -482,6 +493,13 @@ def cmd_add(a):
                            if clean(x.get("year")) or (clean(x.get("venue")) and not unpublished.search(x["venue"]))]
     if not rec["name"]:
         sys.exit("No name found. Pass --name \"Full Name\".")
+    # Scholar profiles pick up strangers' papers. Keep a paper only if the surname is among its authors
+    # (a list cut short with "..." gets the benefit of the doubt). If most would go, the name is spelt differently there.
+    surname = (re.findall(r"[a-z]+", rec["name"].lower()) or [""])[-1]
+    mine = [x for x in rec["publications"] if not clean(x.get("authors")) or surname in x["authors"].lower()
+            or x["authors"].rstrip().endswith(("...", "…"))]
+    if len(mine) * 2 >= len(rec["publications"]):
+        rec["publications"] = mine
     rec["slug"] = a.slug or slugify(rec["name"])
     if rec["links"]["orcid"] and not rec["publications"]:
         rec["publications"] = orcid_works(rec["links"]["orcid"])
@@ -507,9 +525,38 @@ def cmd_add(a):
     (DATA / f"{rec['slug']}.json").write_text(json.dumps(rec, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"  saved data/{rec['slug']}.json  ({len(rec['bio'])} bio paragraphs, {len(rec['interests'])} interests, "
           f"{len(rec['publications'])} publications)")
+    if getattr(a, "no_build", False):
+        return rec["slug"]
     cmd_build(a)
     print(f"  Check site/{rec['slug']}/index.html against the real profile before you send the link.")
     return rec["slug"]
+
+
+def cmd_bulk(a):
+    """Every file in collected/ becomes a page. Pages that already exist are left as they are."""
+    files = sorted(f for f in (ROOT / "collected").glob("*.json"))
+    made, ai_left, thin = 0, a.ai, []
+    for f in files:
+        if (DATA / f"{f.stem}.json").exists() and not a.redo:
+            continue
+        if a.limit and made >= a.limit:
+            break
+        r = json.loads(f.read_text(encoding="utf-8"))["rec"]
+        if sum(len(b.split()) for b in r["bio"]) < (1 if r["publications"] or r["sections"] else 40):
+            thin.append(f.stem)  # too little to be worth sending; it needs a paste in the page maker
+            continue
+        print(f"- {f.stem}")
+        cmd_add(argparse.Namespace(url=None, email=None, text=None, name=None, role=None, university=None, slug=f.stem,
+                                   photo=None, no_photo=False, no_ai=ai_left <= 0, collected=str(f), no_build=True))
+        ai_left -= 1
+        made += 1
+    print(f"  {made} new page(s)")
+    if thin:
+        print(f"  {len(thin)} skipped, too little could be read (use the page maker for these): " + ", ".join(thin))
+    if a.deploy:
+        cmd_deploy(a)
+    else:
+        cmd_build(a)
 
 
 # ---------- build ----------
@@ -618,10 +665,12 @@ def git_sync():
         if path.startswith("data/") and path.endswith(".json") and (ROOT / path).exists():
             name = json.loads((ROOT / path).read_text(encoding="utf-8")).get("name") or Path(path).stem
             (added if "A" in code else updated).append(name)
+    def people(names):  # a bulk run touches dozens of pages; the subject line stays readable
+        return ", ".join(names) if len(names) <= 3 else f"{len(names)} professors ({', '.join(names[:3])} and others)"
     if added:
-        message = "Add page for " + ", ".join(added)
+        message = ("Add page for " if len(added) == 1 else "Add pages for ") + people(added)
     elif updated:
-        message = "Update page for " + ", ".join(updated)
+        message = ("Update page for " if len(updated) == 1 else "Update pages for ") + people(updated)
     else:
         message = "Update the page maker"
     git("commit", "-m", message)
@@ -739,6 +788,17 @@ def main():
     app = sub.add_parser("app", help="open the paste-and-click page maker in your browser")
     app.add_argument("--no-browser", action="store_true")
     app.set_defaults(fn=cmd_app)
+    col = sub.add_parser("collect", help="read every professor on the faculty lists into collected/ (no AI, no pasting)")
+    col.add_argument("--university", help="only this university, for example Ahmedabad")
+    col.add_argument("--limit", type=int, help="only the first N")
+    col.add_argument("--redo", action="store_true", help="read again even if already collected")
+    col.set_defaults(fn=lambda a: __import__("collect").cmd_collect(a))
+    bulk = sub.add_parser("bulk", help="turn everything in collected/ into pages")
+    bulk.add_argument("--limit", type=int, help="only the next N")
+    bulk.add_argument("--ai", type=int, default=0, help="use the free AI model for the first N (free accounts get about 50 a day)")
+    bulk.add_argument("--redo", action="store_true", help="rebuild pages that already exist")
+    bulk.add_argument("--deploy", action="store_true", help="publish when done")
+    bulk.set_defaults(fn=cmd_bulk)
     for name, fn in (("build", cmd_build), ("deploy", cmd_deploy), ("list", cmd_list)):
         sub.add_parser(name).set_defaults(fn=fn)
     a = ap.parse_args()

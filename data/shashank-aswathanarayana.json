@@ -1,0 +1,138 @@
+{
+  "slug": "shashank-aswathanarayana",
+  "name": "Shashank Aswathanarayana",
+  "role": "Assistant Professor",
+  "department": "Culture and Heritage",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/shashank-aswathanarayana.jpg",
+  "bio": [
+    "Professor Shashank Aswathanarayana is a music technologist, percussionist, and researcher from Bengaluru, India. His current research explores the relationship between the acoustics, architectural design, and religion of heritage worship spaces in Southern India. His work has garnered considerable interest in the community, leading to being featured on the journal's cover as well as in a podcast episode on Across Acoustics.",
+    "Professor Aswathanarayana was a Faculty Fellow (2025) and Postdoctoral Fellow in Audio Technology (2023-2025) at American University, Washington, DC. He received a PhD in Media Arts and Technology at the University of California, Santa Barbara (UCSB). He also holds a Master's degree in Music Technology from New York University (NYU) and a Bachelor's degree in Electronics and Communication Engineering from Visvesvaraya Technological University (VTU) in India.",
+    "Professor Aswathanarayana served as a Peer-Reviewer for the Audio Engineering Society (AES) for their 152nd through 159th Conventions (March 2022 - July 2025). Additionally, he is an active Member of the Member Engagement Committee for the Acoustical Society of America (ASA), a role he has held since June 2025."
+  ],
+  "interests": [
+    "Acoustics of Heritage Spaces",
+    "3D/Spatial Audio",
+    "Soundscape Studies"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (University of California, Santa Barbara)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Acoustics of the Muchukundeswara Temple",
+      "authors": "S Aswathanarayana, B Boren",
+      "venue": "The Journal of the Acoustical Society of America 159 (4_Supplement), A312-A312",
+      "year": "2026",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Acoustic analysis of two Hindu temples in Southern India",
+      "authors": "S Aswathanarayana, B Boren",
+      "venue": "JASA Express Letters 5 (3)",
+      "year": "2025",
+      "url": "",
+      "cited": "1"
+    },
+    {
+      "title": "Resonating rocks: The acoustics of Hindu cave temples",
+      "authors": "S Aswathanarayana, B Boren",
+      "venue": "The Journal of the Acoustical Society of America 157 (4_Supplement), A298-A298",
+      "year": "2025",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Acoustics of two Hindu temples in southern India",
+      "authors": "S Aswathanarayana, B Boren",
+      "venue": "The Journal of the Acoustical Society of America 155 (3_Supplement), A129-A129",
+      "year": "2024",
+      "url": "",
+      "cited": "1"
+    },
+    {
+      "title": "Psychoacoustic Studies of Music Spatialization Strategies in Different Listening Contexts",
+      "authors": "S Aswathanarayana",
+      "venue": "University of California, Santa Barbara",
+      "year": "2022",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Comparison of Spatialization Techniques with Different Music Genres II",
+      "authors": "S Aswathanarayana",
+      "venue": "Journal of the Audio Engineering Society",
+      "year": "2021",
+      "url": "",
+      "cited": "2"
+    },
+    {
+      "title": "Comparison of Spatialization Techniques with Different Music Genres",
+      "authors": "S Aswathanarayana",
+      "venue": "Audio Engineering Society Convention 149",
+      "year": "2020",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Effect of a Known Environment on the Estimation of Sound Source Distance",
+      "authors": "S Aswathanarayana",
+      "venue": "142 Audio Engineering Society Convention",
+      "year": "2017",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "I Hear Bangalore3D: Capture and Reproduction of Urban Sounds of Bangalore Using an Ambisonic Microphone",
+      "authors": "S Aswathanarayana, A Roginska",
+      "venue": "20th International Conference on Auditory Display (ICAD2014)",
+      "year": "2014",
+      "url": "",
+      "cited": "4"
+    }
+  ],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Professor Aswathanarayana's interdisciplinary research investigates the relationship between architecture, religion, and music, with a particular focus on the sensory and acoustic dimensions of heritage sacred spaces. Specifically, he examines how sacred architecture shapes and is shaped by religious soundscapes, and how these experiences can be reconstructed, analysed, and preserved using digital tools.",
+        "His current work focuses on the acoustic characterisation of seven Hindu temples in Southern India. These spaces engage worshipers through complex sonic elements such as bells, conch shells, and Vedic chanting, necessitating analysis methods that move beyond reverberation-based frameworks developed for Western church acoustics to frequency-based frameworks. Thus, through his work, he aims to develop and define new methods of acoustic characterisation appropriate for Hindu worship spaces as well as uncover the influence of religious sound on the interior architectural design of heritage Hindu temples.",
+        "Methodologically, Professor Aswathanarayana's research combines on-site impulse response measurements with computational simulations and virtual reality (VR) modelling to analyse standard and non-standard acoustical parameters. These tools enable immersive reconstructions that support both scholarly inquiry and heritage preservation. He plans to expand this work in three key directions:",
+        "The creation of immersive VR installations of heritage spaces,",
+        "The integration of AI into room-acoustic modelling workflows, and",
+        "Comparative studies of the acoustics of heritage sacred spaces across South Asian religious traditions.",
+        "By broadening the scope of architectural acoustics, his work contributes to emerging discourses in virtual reality, digital humanities, religious architecture, and heritage preservation while fostering collaborative, cross-disciplinary research."
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "8",
+    "h_index": "2"
+  },
+  "contact": {
+    "email": "shashank.aswath@ahduni.edu.in",
+    "phone": "+91.79.61911000",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/shashank-aswathanarayana/",
+    "scholar": "https://scholar.google.com/citations?user=31V_PVcAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0009-0007-8164-974X",
+    "linkedin": "https://www.linkedin.com/in/shashank-aswathanarayana/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/shashank-aswathanarayana/",
+    "https://scholar.google.com/citations?user=31V_PVcAAAAJ&hl=en"
+  ]
+}

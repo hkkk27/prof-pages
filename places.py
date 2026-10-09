@@ -16,7 +16,7 @@ PLACES = [
     (r"\bDelhi\b|Jawaharlal Nehru University|\bJNU\b|Jamia Millia|\bAIIMS\b|All India Institute of Medical Sciences", "New Delhi", 28.61, 77.21),
     (r"National Brain Research Centre|Manesar|Gurgaon|Gurugram", "Gurugram", 28.46, 77.03),
     (r"Kolkata|Calcutta|Jadavpur|Presidency (College|University)|Indian Institute of Chemical Biology", "Kolkata", 22.57, 88.36),
-    (r"\bIISc\b|Indian Institute of Science\b|NIMHANS|\bNCBS\b|Bangalore|Bengaluru|CHRIST \(|Christ University", "Bengaluru", 12.97, 77.59),
+    (r"\bIISc\b|Indian Institute of Science\b|NIMHANS|\bNCBS\b|Bangalore|Bengaluru|CHRIST \(|Christ University|Vidyashilp|Azim Premji University", "Bengaluru", 12.97, 77.59),
     (r"IIT Madras|\bChennai\b|\bMadras\b", "Chennai", 13.08, 80.27),
     (r"Hyderabad|\bCCMB\b", "Hyderabad", 17.39, 78.49),
     (r"IIT Kanpur|\bKanpur\b", "Kanpur", 26.45, 80.33),

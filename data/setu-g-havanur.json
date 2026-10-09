@@ -1,0 +1,76 @@
+{
+  "slug": "setu-g-havanur",
+  "name": "Setu G. Havanur",
+  "role": "Associate Professor",
+  "department": "School of Liberal Arts and Sciences",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/setu-g-havanur.jpg",
+  "bio": [
+    "Dr. Setu G. Havanur is a passionate educator with over five years of experience teaching diverse sets of students, including undergraduate students in Bangkok and Belgaum, and postgraduate students at IIT Gandhinagar. Throughout her career, her focus has been on enriching the classroom experience, especially in the context of teaching Psychology. Her most recent experience comes from working on a dementia research project at the prestigious National Institute of Mental Health and Neurosciences (NIMHANS). Currently, Dr. Setu G. Havanur serves as an assistant professor in the School of Liberal Arts and Design Studies at Vidyashilp University, Bengaluru. Her research interests include cognition (especially visual perception and attention), cognition and educational practices, pedagogy, and mental health. She has setup the VU Wellness Centre along with Dr. Ranjana Raghunathan and they coordinate its activities together. When she is not teaching or doing research, she loves reading, embroidering, cooking, trekking, and singing."
+  ],
+  "interests": [
+    "Visual perception and attention",
+    "Cognition of teaching and learning",
+    "Pedagogy",
+    "Mental health"
+  ],
+  "positions": [
+    {
+      "title": "Adjunct Faculty",
+      "org": "IIT, Gandhinagar",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    },
+    {
+      "title": "Faculty",
+      "org": "Chulalungkorn University, Bangkok",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Psychology, University of Birmingham",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Introduction to Psychology",
+    "Research Methodology and Statistics",
+    "Business Research Methods",
+    "Biological Psychology",
+    "Cognitive Psychology"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research Projects Undertaken",
+      "paragraphs": [
+        "Embodied cognition and mathematical and numerical representations",
+        "Religiosty and well-being"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "setu.havanur@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/setu-havanur/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/setu-havanur/"
+  ]
+}

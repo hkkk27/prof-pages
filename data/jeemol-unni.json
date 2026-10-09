@@ -1,0 +1,263 @@
+{
+  "slug": "jeemol-unni",
+  "name": "Jeemol Unni",
+  "role": "Professor",
+  "department": "Economics and Public Policy",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/jeemol-unni.jpg",
+  "bio": [
+    "Jeemol Unni is Professor of Economics at Amrut Mody School of Management, Ahmedabad University, Ahmedabad. Before joining Ahmedabad University she was the Director of the Institute of Rural Management, Anand (IRMA) and RBI Chair Professor of Economics at IRMA. She was the Elected President, 63rd Labour Economics Conference, Indian Society of Labour Economics, 2023. She holds a PhD in Economics and MPhil in Applied Economics. Recipient of the Yale University Postdoctoral Fellowship on Household Economics and spent two years at the Economic Growth Center, Yale University, USA. Have taught at the University of Ireland, Galway and The Institute of Social Studies, The Hague.",
+    "Worked as an external collaborator to the International Labour Organisation (ILO), Geneva, on the Engendering Informality Statistics project (2023). Was ILO Consultant and Senior Advisor to the National Commission for Enterprises in the Unorganised Sector (NCEUS), Government of India (2006-08).She is currently a member of the 'Expert Group on leveraging data for monitoring, policy and planning' constituted by the Niti Aayog in November 2022. She was a member of the Standing Committee on Economic Statistics constituted by the Government of India."
+  ],
+  "interests": [
+    "Labour Economics",
+    "Development",
+    "Economics of Education",
+    "Issues in Urban Economics and Informal Economy",
+    "Digital Economy",
+    "Gender Studies"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Gujarat University)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Recognizing historic injustice in a coal-rich district: A case study of Singrauli, India",
+      "authors": "",
+      "venue": "Resources Policy",
+      "year": "2025",
+      "url": "https://doi.org/10.1016/j.resourpol.2025.105668"
+    },
+    {
+      "title": "Heterogeneity of Labour on Digital Platforms in India Precarity or Empowerment?",
+      "authors": "",
+      "venue": "Economic and Political Weekly",
+      "year": "2024",
+      "url": ""
+    },
+    {
+      "title": "Demonetisation and labour force participation in India: The impact of governance and political alignment",
+      "authors": "",
+      "venue": "Journal of Asian Economics",
+      "year": "2024",
+      "url": "https://doi.org/10.1016/j.asieco.2024.101782"
+    },
+    {
+      "title": "Employment and Income Shock During COVID-19 Lockdown in a Metropolitan city in India",
+      "authors": "",
+      "venue": "The Indian Economic Journal",
+      "year": "2023",
+      "url": "https://doi.org/10.1177/00194662221137837"
+    },
+    {
+      "title": "• Gender Differentials in Entrepreneurship: Insights from a Multi-method Study",
+      "authors": "",
+      "venue": "The Journal of Entrepreneruship",
+      "year": "2022",
+      "url": ""
+    },
+    {
+      "title": "How macroeconomic shocks impact employment: comparison of Gujarat with states in Western India",
+      "authors": "",
+      "venue": "Journal of Social and Economic Development",
+      "year": "2021",
+      "url": "https://doi.org/10.1007/s40847-020-00123-z"
+    },
+    {
+      "title": "Markets and Spillover Effects of Political Institutions in Promoting Women’s Empowerment: Evidence From India",
+      "authors": "",
+      "venue": "Feminist Economics",
+      "year": "2020",
+      "url": "https://doi.org/10.1080/13545701.2020.1752394"
+    },
+    {
+      "title": "Impact of COVID-19 on Informal Economy: The Revival",
+      "authors": "",
+      "venue": "The Indian Journal of Labour Economics",
+      "year": "2020",
+      "url": "https://doi.org/10.1007/s41027-020-00265-y"
+    },
+    {
+      "title": "Formalization of the Informal Economy: Perspectives of Capital and Labour",
+      "authors": "",
+      "venue": "The Indian Journal of Labour Economics",
+      "year": "2018",
+      "url": ""
+    },
+    {
+      "title": "Gender Differentials in Expansion of Informal Enterprises",
+      "authors": "",
+      "venue": "",
+      "year": "2018",
+      "url": ""
+    },
+    {
+      "title": "Inclusive Urbanisation",
+      "authors": "",
+      "venue": "India’s Contemporary Urban Conundrum",
+      "year": "2018",
+      "url": ""
+    },
+    {
+      "title": "Universal Basic Income: Emerging Perspectives",
+      "authors": "",
+      "venue": "Indian Journal of Human Development",
+      "year": "2017",
+      "url": ""
+    },
+    {
+      "title": "Skill Gaps and Employability: Higher Education in India",
+      "authors": "",
+      "venue": "Journal of Development Policy and Practice",
+      "year": "2016",
+      "url": ""
+    },
+    {
+      "title": "Women entrepreneurship: research review and future directions",
+      "authors": "",
+      "venue": "Journal of Global Entrepreneurship Research",
+      "year": "2016",
+      "url": ""
+    },
+    {
+      "title": "Do not dilute NREGA",
+      "authors": "",
+      "venue": "Economic and Political Weekly",
+      "year": "2014",
+      "url": ""
+    },
+    {
+      "title": "Rural Livelihoods in Transition: Whither Labour?",
+      "authors": "",
+      "venue": "",
+      "year": "2014",
+      "url": ""
+    },
+    {
+      "title": "Ecology, economy: quest for a socially informed connection",
+      "authors": "",
+      "venue": "",
+      "year": "2013",
+      "url": ""
+    },
+    {
+      "title": "Economic Empowerment of Women",
+      "authors": "",
+      "venue": "Indian Journal of Human Development",
+      "year": "2013",
+      "url": ""
+    },
+    {
+      "title": "Employment Vulnerability in the Urban Labour Market in India",
+      "authors": "",
+      "venue": "Indian Journal of Labour Economics",
+      "year": "2013",
+      "url": ""
+    },
+    {
+      "title": "MEASURING INFORMALITY OF EMPLOYMENT IN URBAN INDIA.",
+      "authors": "",
+      "venue": "Indian Journal of Labour Economics",
+      "year": "2013",
+      "url": ""
+    },
+    {
+      "title": "WAGES AND INFORMAL LABOUR MARKETS IN INDIA: WHITHER PREMIUMS ON HUMAN CAPITAL INVESTMENTS?",
+      "authors": "",
+      "venue": "Indian Journal of Labour Economics",
+      "year": "2013",
+      "url": ""
+    },
+    {
+      "title": "Education and Employment: Do the education level/skills of our youth match relevant jobs?",
+      "authors": "",
+      "venue": "",
+      "year": "2012",
+      "url": ""
+    },
+    {
+      "title": "Gender, Skill and Employability in India",
+      "authors": "",
+      "venue": "Economics",
+      "year": "2012",
+      "url": ""
+    },
+    {
+      "title": "Informal employment, poverty and growth in India and China",
+      "authors": "",
+      "venue": "",
+      "year": "2012",
+      "url": ""
+    },
+    {
+      "title": "Preparing a globally competitive skilled workforce for Indian economy: emerging trends and challenges",
+      "authors": "",
+      "venue": "Vikalpa",
+      "year": "2012",
+      "url": ""
+    }
+  ],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Her research addresses issues of informalisation of labour and the gender implication of it, returns to education, digital economy, social protection and women entrepreneurship.",
+        "She has carried out extensive research on issues concerning rural and urban labour markets in developing countries. Her special focus in this area is on the informalisation of labour and production systems and the gender implications of this process. In addition, her research addresses issues of returns to education, digital economy, women entreprenuership and social protection to informal workers including both social and economic securities. She actively collaborates with national and international NGOs in addressing issues related to workers in the informal sector, particularly women."
+      ]
+    },
+    {
+      "title": "Teaching",
+      "paragraphs": [
+        "Currently she teaches under-graduate and post-graduate level courses in Development Economics, Urban Informal Economy, Indian Economy, Indian Economic Devleooment and offering a new course on Law and Economics. She has taught various courses at the post graduate level such as Economic Environment and Policy, Business Environment, Gender and Development, and Ecology and Economy."
+      ]
+    },
+    {
+      "title": "Professional Service",
+      "paragraphs": [
+        "Recent Consultancy Assignments",
+        "1. Ministry of Statistics and Programme Implementation, Government of India, December 2025 to March 2026: Consultant for preparation of Concept Notes related to the International Conference of Labour Statisticians (ICLS) Resolutions. To prepare concept notes on the feasibility and importance of adopting the 20th ICLS Resolution (work relationships) and the 21st ICLS Resolution (informal economy) in the Indian context.",
+        "2. International Labour Organisation (ILO), Geneva, External Collaboration Contract on Engendering Informality Statistics to Review the analysis and use of informality statistics from a gender perspective. The study will review the use of gender and informality statistics. This will involve identifying use cases and assessing current diagnostic approaches with the role of quantitative data in countries. The review will identify important gaps in the new informality indicator framework and diagnostic methods, recommend how to integrate a gender perspective and propose a framework for conducting gender-sensitive analysis of informality statistics that can guide the production and use of official statistics. This work will support the ILO in developing updated and gender-sensitive diagnostic approaches and in illustrating how the indicator framework can be maximized to support better gender data. January 15 to May 15, 2023.",
+        "Member of Relevant Government Committees",
+        "Member, Technical Advisory Committee on Evaluation Study of Mahatma Gandhi National Rural Employment Guarantee Scheme under MGNREGA, Niti Aayog, Government of India, July 2023-2025.",
+        "Member, Expert Group on leveraging data for monitoring, policy and planning, Niti Aayog, Government of India, November 2022-2024.",
+        "Member, Standing Committee on Economic Statistics, Ministry of Statistics and Programme Implementation, Government of India, 2019-2022",
+        "Chairperson, Sub-committee 2 on Periodic Labour Force Survey and Time Use Studies, Standing Committee on Economic Statistics, Ministry of Statistics and Programme Implementation, Government of India, 2019-2022",
+        "Non-official member, Performance Based Payments for better outcomes in rural development programmes, Ministry of Rural Development, Government of India, 2017-2018",
+        "Non Official Member, Standing Committee on Labour Force Statistics, Ministry of Statistics and Programme Implementation, Government of India, 2014-2017",
+        "Non Official Member, Working Group for Formulating Methodology for 73rd Round of the NSSO, Ministry of Statistics and Programme Implementation, Government of India, 2014-2016",
+        "Non Official Member, Standing Committee on Labour Force Statistics, Ministry of Statistics and Programme Implementation, Government of India, November 2014 to November 2017",
+        "Member, Independent Group on Definition and Statistics on Home-based Workers, Ministry of Statistics and Programme Implementation, Government of India, serviced UNIFEM, 2007- 2008",
+        "Member, Working Group on Labour Force and Employment Projection for the Eleventh Five- Year Plan (2007-2012), Planning Commission, Government of India, 2006",
+        "Corporate Board Membership",
+        "Director, Board of Directors, Women in Informal Employment: Globalizing and Organizing, WIEGO, An international coalition of academics, activists and member-based organizations, registered as Company Limited by Guarantee in the United Kingdom, 2010-2018",
+        "Independent Member, Board of Governors, Indian Dairy Manufacturing Company, Subsidiary of National Dairy Development Board, Anand, 2014-2016",
+        "Member, Governing Council, Agriculture Skill Council of India (ASCI), National Skills Foundation of India (NSFI) and Federation of Indian Chambers of Commerce and Industry (FICCI), under the aegis of National Skill Development Corporation (NSDC), Gurgaon, Haryana, 2012-2015"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "jeemol.unni@ahduni.edu.in",
+    "phone": "+91.79.61911337",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/jeemol-unni/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0003-0391-7781",
+    "linkedin": "https://www.linkedin.com/in/jeemol-unni-b9030447/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/jeemol-unni/"
+  ]
+}

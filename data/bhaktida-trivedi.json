@@ -1,0 +1,90 @@
+{
+  "slug": "bhaktida-trivedi",
+  "name": "Bhaktida Trivedi",
+  "role": "Assistant Professor",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/bhaktida-trivedi.jpg",
+  "bio": [
+    "Dr Bhaktida Trivedi is an Assistant Professor in Technology, Operations and Decision Sciences area at Ahmedabad University. She has been associated with the University since 2001. She pursued her graduation from St. Xavier’s College, Ahmedabad and acquired her post-graduation, MPhil and PhD with specialisation in Statistics from the School of Science, Gujarat University, Ahmedabad.",
+    "Her research is broadly focused on the field of statistical distribution and related inferences. She has presented her research at various national and international conferences. She has also published her research work in quality peer-reviewed journals like Communications in Statistics – Simulation and Computation (Taylor and Francis), Journal of Modern Applied Statistical Methods, Mathematical Theory and Modelling (IISTE – International Knowledge Sharing Platform) and Mathematics and Statistics (Horizon Research). She recently published a chapter in Springer Proceedings in Business and Economics and presented a research paper at the 5th IIM-A International Conference on ‘Advanced Data Analysis, Business Analytics and Intelligence’ organised by IIM Ahmedabad.",
+    "She is also involved in giving honorary services as an ‘Acupressure Therapist’ at Samaratba Acupressure Centre, Paldi, Ahmedabad, as she very firmly believes in the ideology of giving back to society."
+  ],
+  "interests": [
+    "Distributions",
+    "Misclassification",
+    "Inferential Statistics."
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Gujarat University)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Dr Bhaktida Trivedi currently teaches at the Undergraduate level:",
+    "Introductory Calculus",
+    "Mathematics for Management",
+    "She previously taught at the Undergraduate level:",
+    "Calculus for Business",
+    "Business Mathematics",
+    "Research Methodology",
+    "Statistics for Decision Making",
+    "Basic Statistics and Mathematics",
+    "Quantitative Methods for Business",
+    "Business Statistics",
+    "Elements of Mathematics - I"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Research papers presented at Conferences:",
+        "“Estimation of Parameters of Misclassified Size Biased Borel Tanner Distribution” presented at the 5th IIMA International Conference on “Advanced Data Analysis, Business Analytics and Intelligence”, organized by IIM, Ahmedabad, Gujarat during April 08-09, 2017",
+        "“Estimation of Parameters of Misclassified Size Biased Generalized Poisson distribution” presented at Silver Jubilee International Conference on “Interdisciplinary Mathematics, Statistics and Computational Techniques (IMSCT 2016-FIM XXV)”, organized by Department of Mathematics and Statistics, Manipal University, Jaipur, during December 22 - 24, 2016",
+        "“Estimation of Parameters of Misclassified Size Biased Discrete Lindley Distribution” presented at the International Conference on “Statistics for Twenty-first Century”- ICSTC-2015 organized by Department of Statistics, University of Kerala, Trivandrum, during December 17 - 19, 2015",
+        "“Estimation in Misclassified Size-Biased Log series Distribution” presented at the International Conference on “Modelling, Simulation, and Optimizing Techniques (ICMSOT -2015)” organized by Post Graduate Department of Mathematics, Dayanand Anglo-Vedic College (DAV), Jalandhar, Punjab, during February 12 - 14, 2015",
+        "“Misclassified Size-biased Poisson Lindley Distribution and its application” presented at International Conference on “Role of Statistics in the Advancement of Science and Technology” organized by University of Pune on December 16 – 18, 2013",
+        "“Statistics for Research and Development” at the National Conference jointly organized by Gujarat Statistical Association and GLS (M R Parikh) Institute of Commerce on 12th October 2013",
+        "“Estimation in Misclassified Size-Biased Generalized Negative Binomial Distribution” presented at National Conference on “Emerging Trends in Applied Statistics” jointly organized by Gujarat Statistical Association and H.L. College of Commerce on March 31, 2012",
+        "“Estimation in Misclassified Size-Biased Generalized Negative Binomial Distribution” presented at International Conference on \"APPLIED MATHEMATICS & STATISTICS\" at Department of Mathematics and Department of Statistics, Gujarat University on December 16 – 18, 2011",
+        "“Estimation in Misclassified Size-Biased Generalized Negative Binomial Distribution” presented at International Conference on “Advances in Modeling, Optimization and Computing (AMOC - 2011)” at Department of Mathematics, Indian Institute of Technology (Roorkee) on December 5 – 7, 2011",
+        "“Estimation in Misclassified Size-Biased Generalized Negative Binomial Distribution” presented at ‘XXV Gujarat Science Congress 2011’ held at Gujarat Science City, Ahmedabad during 26 to 27th February 2011, organized by Gujarat Council of Science City, Department of Science & Technology and Government of Gujarat & Gujarat Science Academy",
+        "“Misclassification in Generalized Modified Power Series Distribution in which the value 'c+1' is sometimes reported as and some of its' applications ” presented at International Conference on “ New Trends in Life Testing, Bayesian Inference, Sampling Theory, Bio-Statistics, Bio-Informatics and Computer Applications” at Department of Statistics, Banaras Hindu University on January 5-8, 2011"
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Estimation of Parameters of Misclassified Size Biased Borel Tanner Distribution, as a chapter in Book – In: Laha A. (eds) Advances in Analytics and Applications, Springer Proceedings in Business and Economics. Springer, Singapore, 243 – 260, 2019, https://link.springer.com/chapter/10.1007/978-981-13-1208-3_19#citeas",
+        "Estimation of Parameters of Misclassified Size Biased Discrete Lindley Distribution, Communications in Statistics – Simulation and Computation, Taylor & Francis, vol 46, Issue 7, 5541 - 5552, Sept 2017, UK",
+        "Classical Estimation for the parameters of Misclassified Size Biased Poisson Lindley Distribution and its Application, Journal of Probability and Statistical Science (JPSS), 15 (1), 95 – 112, Feb 2017, Taiwan, China",
+        "Estimation of Parameters of Misclassified Size Biased Borel Distribution, Journal of Modern Applied Statistical Methods (JMASM), Vol 15, N0. 2, 475 – 494, November 2016, Wayne State University, Detroit, MI, USA",
+        "Estimation in Misclassified Size-Biased Log series Distribution, Mathematical Theory and Modelling, IISTE – International Knowledge Sharing Platform, Vol. 5, No. 2, 128 – 135, 2015, USA",
+        "Estimation in Misclassified Size-biased Generalized Negative Binomial Distribution, Mathematics and Statistics, Horizon Research, Vol 1(2); 74 - 85, 2013, SAN JOSE, USA"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "bhaktida.trivedi@ahduni.edu.in",
+    "phone": "+91.79.61911381",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/bhaktida-trivedi/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/drbhaktidatrivedi/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/bhaktida-trivedi/"
+  ]
+}

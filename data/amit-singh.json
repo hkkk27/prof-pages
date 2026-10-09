@@ -1,0 +1,229 @@
+{
+  "slug": "amit-singh",
+  "name": "Amit Singh",
+  "role": "Assistant Professor",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/amit-singh.jpg",
+  "bio": [
+    "Amit Singh holds a PhD degree from the Department of Industrial and Systems Engineering, Indian Institute of Technology Kharagpur (IIT Kharagpur), India. He received his BTech from the Department of Mechanical Engineering, National Institute of Technology Agartala (NIT Agartala). He obtained his MTech in Industrial and Management Engineering from the National Institute of Technology Jamshedpur (NIT Jamshedpur), India and was awarded a bronze medal. He has served organizations such as the Indian Institute of Technology Jodhpur, Quantium Analytics, and IBS Hyderabad before joining Ahmedabad University. His research interests include sentiment analysis applications, social media analytics, panel data modelling, ICT diffusion in small and medium enterprises, multi-criteria decision-making, and supply chain management, among others. He has published several research articles in leading international journals such as the Journal of Business Research, the Journal of Enterprise Information Management, the Journal of Global Information Management, the Journal of Modelling in Management, etc. He is a reviewer for leading journals such as the International Journal of Information Management, the Government Information Quarterly, the Information Systems Frontier, the Journal of Modelling in Management, the International Journal of Electronic Government Research, etc."
+  ],
+  "interests": [
+    "Sentiment Analysis Applications",
+    "Social Media Analytics",
+    "Panel Data Modelling",
+    "ICT diffusion in SMEs",
+    "and Multi-Criteria Decision Making"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (IIT Kharagpur)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Addicted to scrolling: Does short-form video drive your purchases?",
+      "authors": "S Gupta, A Singh, AP Kapoor",
+      "venue": "Journal of Global Scholars of Marketing Science 36 (2), 208-241",
+      "year": "2026",
+      "url": "",
+      "cited": "2"
+    },
+    {
+      "title": "Crafting Influence: A Systematic Review on Social Media Influencers Video Content",
+      "authors": "S Gupta, A Singh, A Kapoor",
+      "venue": "Journal of Consumer Behaviour",
+      "year": "2026",
+      "url": "",
+      "cited": "1"
+    },
+    {
+      "title": "Quantifying consumer perceptions in smartwatch markets: integrating aspect-based sentiment analysis with panel data modelling",
+      "authors": "RK Ray, A Singh, DP Dash",
+      "venue": "Journal of Enterprise Information Management, 1-29",
+      "year": "2026",
+      "url": "",
+      "cited": "1"
+    },
+    {
+      "title": "Building Adaptive Digital Immune Systems: A Framework for Large‐Scale Organizational Resilience",
+      "authors": "S Gupta, RK Ray, A Singh, AP Kapoor",
+      "venue": "Digital Immune System: Principles and Practices, 305-321",
+      "year": "2026",
+      "url": "",
+      "cited": "1"
+    },
+    {
+      "title": "From ambient handling to smart cold chains: A systematic review of the evolution of logistics in the semiconductor industry",
+      "authors": "M Naveen, SS Srinivas, A Singh",
+      "venue": "Research in Transportation Business & Management 68, 101812",
+      "year": "2026",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Transmission of democracy to a better business environment: roles of regulation and institutions",
+      "authors": "W Ali, DP Dash, BP Jangam, A Singh, NP Rana",
+      "venue": "Journal of Business Research 207, 116006",
+      "year": "2026",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Analysing cybersecurity challenges: a case of Indian smart city context",
+      "authors": "A Rao, A Singh",
+      "venue": "Journal of Systems and Information Technology, 1-34",
+      "year": "2026",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "From online reviews to smartwatch recommendation: An integrated aspect-based sentiment analysis framework",
+      "authors": "RK Ray, A Singh",
+      "venue": "Journal of Retailing and Consumer Services 82, 104059",
+      "year": "2025",
+      "url": "",
+      "cited": "41"
+    },
+    {
+      "title": "When algorithms meet emotions: Understanding consumer satisfaction in AI companion applications",
+      "authors": "N Silayach, RK Ray, NK Singh, DP Dash, A Singh",
+      "venue": "Journal of Retailing and Consumer Services 85, 104298",
+      "year": "2025",
+      "url": "",
+      "cited": "23"
+    },
+    {
+      "title": "Avatars at risk: Exploring public response to sexual violence in immersive digital spaces",
+      "authors": "NK Singh, RK Ray, N Silayach, DP Dash, A Singh",
+      "venue": "Computers in Human Behavior 163, 108500",
+      "year": "2025",
+      "url": "",
+      "cited": "9"
+    },
+    {
+      "title": "Beyond technology: A multi-theoretical examination of immersive technology adoption in Indian healthcare",
+      "authors": "RK Ray, NK Singh, S Gupta, A Singh, DP Dash",
+      "venue": "Communications of the Association for Information Systems 57 (1), 12",
+      "year": "2025",
+      "url": "",
+      "cited": "4"
+    },
+    {
+      "title": "Practical Strategies for Brands Using Virtual Influencers: A Brand's Guide to Success",
+      "authors": "S Gupta, A Singh, AP Kapoor",
+      "venue": "Redefining the Future of Digital Marketing With Virtual Influencers, 253-282",
+      "year": "2025",
+      "url": "",
+      "cited": ""
+    },
+    {
+      "title": "Analyzing barriers of integrated RFID-blockchain adoption in the Indian public distribution systems",
+      "authors": "S Kumar Singh, A Singh, M Jenamani, NP Rana",
+      "venue": "Journal of Enterprise Information Management 37 (2), 355-380",
+      "year": "2024",
+      "url": "",
+      "cited": "14"
+    },
+    {
+      "title": "Quantifying the effect of eWOM embedded consumer perceptions on sales: An integrated aspect-level sentiment analysis and panel data modeling approach",
+      "authors": "A Singh, M Jenamani, JJ Thakkar, NP Rana",
+      "venue": "Journal of Business Research 138, 52-64",
+      "year": "2022",
+      "url": "",
+      "cited": "68"
+    },
+    {
+      "title": "An integrated Grey-DEMATEL approach for evaluating ICT adoption barriers in manufacturing SMEsAnalysing Indian MSMEs",
+      "authors": "A Singh, J Thakkar, M Jenamani",
+      "venue": "Journal of Enterprise Information Management 35 (6), 1427-1455",
+      "year": "2022",
+      "url": "",
+      "cited": "36"
+    },
+    {
+      "title": "Barriers in implementing lean manufacturing in Indian SMEs: a multi-criteria decision-making approach",
+      "authors": "P Jaiswal, A Singh, SC Misra, A Kumar",
+      "venue": "Journal of Modelling in Management 16 (1), 339-356",
+      "year": "2021",
+      "url": "",
+      "cited": "49"
+    },
+    {
+      "title": "Propagation of online consumer perceived negativity: Quantifying the effect of supply chain underperformance on passenger car sales",
+      "authors": "A Singh, M Jenamani, JJ Thakkar, NP Rana",
+      "venue": "Journal of Business Research 132, 102-114",
+      "year": "2021",
+      "url": "",
+      "cited": "36"
+    },
+    {
+      "title": "A text analytics framework for performance assessment and weakness detection from online reviews",
+      "authors": "A Singh, M Jenamani, J Thakkar, YK Dwivedi",
+      "venue": "Journal of Global Information Management (JGIM) 30 (8), 1-26",
+      "year": "2021",
+      "url": "",
+      "cited": "7"
+    },
+    {
+      "title": "Do online consumer reviews help to evaluate the performance of automobile manufacturers?",
+      "authors": "A Singh, M Jenamani, J Thakkar",
+      "venue": "Journal of Enterprise Information Management 33 (5), 1153-1198",
+      "year": "2020",
+      "url": "",
+      "cited": "36"
+    },
+    {
+      "title": "To study Troponin T levels and its significance in relation to mortality and morbidity in acute ischemic stroke",
+      "authors": "A Lalchandani, AK Singh, P Paliwal, M Godara, M Naveen, T Midha, ...",
+      "venue": "Indian Heart Journal, S120-S121",
+      "year": "2014",
+      "url": "",
+      "cited": ""
+    }
+  ],
+  "teaching": [
+    "Analytics related courses",
+    "Statistics-related courses"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Algorithms to extract features/topics from reviews and quantify corresponding sentiments.",
+        "A text analytics framework for consumers' perceived performance assessment of manufacturers.",
+        "Integrated text analytics framework for vehicle weakness detection",
+        "Understanding the influence of consumer-perceived negativity on car sales.",
+        "In this framework, we used aspect-level sentiments, and car sales data for the mid-sized car segment in India. We analysed them using a bias-corrected least square dummy variable estimator of panel data regression to understand if consumer perceptions expressed in car reviews influence sales. We have also quantified consumer sentiments concerning various supply chain partners for different manufacturers and studied if consumer perception propagates over time and influences sales.",
+        "Understanding the interdependencies among hindrances in the technology adoption",
+        "Here, we have developed three frameworks to analyze the interdependencies among the technology adoption barriers. The first framework analyses ICT adoption barriers in Indian SMEs; the second one analyses the adoption of lean manufacturing in SMEs, and the third one analyses integrated RFID-Blockchain adoption in public distribution systems."
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "328",
+    "h_index": "9"
+  },
+  "contact": {
+    "email": "amit.singh@ahduni.edu.in",
+    "phone": "+91.79.61911318",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/amit-singh/",
+    "scholar": "https://scholar.google.com/citations?user=6glIYDkAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0000-0001-8062-0477",
+    "linkedin": "https://www.linkedin.com/in/amit-singh-phd-2415a8101/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/amit-singh/",
+    "https://scholar.google.com/citations?user=6glIYDkAAAAJ&hl=en"
+  ]
+}

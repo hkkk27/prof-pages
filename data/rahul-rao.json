@@ -1,0 +1,65 @@
+{
+  "slug": "rahul-rao",
+  "name": "Rahul Rao",
+  "role": "Assistant Professor",
+  "department": "Economics and Public Policy",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/rahul-rao.jpg",
+  "bio": [
+    "Rahul Rao is a macroeconomist. He studies the role of market imperfections in affecting aggregate outcomes for an economy. His current research work spans the following subfields of macroeconomics: monetary, financial and spatial economics. He employs both empirical and theoretical modelling approaches in answering the research questions of his interest. He is currently serving as an Assistant Professor of economics at the Amrut Mody School of Management, Ahmedabad University. Before joining here, he completed his PhD in economics from IIM Bangalore and had earlier graduated from IIT Kanpur with a BTech degree in Electrical Engineering. Other than economics, he is also interested in philosophy, especially the Indian philosophy of Advaita Vedanta."
+  ],
+  "interests": [
+    "Macroeconomics",
+    "Monetary Economics",
+    "Financial Economics",
+    "Spatial Economics"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (IIM Bangalore)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Publications:",
+        "1. Kumar A, Rao R, Subramanian C. \"Conventional vs. unconventional monetary policy under credit regulation.\" Macroeconomic Dynamics. 2025;29:e52. doi:10.1017/S1365100524000373",
+        "Working Papers:",
+        "1. \"Land Misallocation and Industrial Development\" with Kunal Dasgupta (IIM Bangalore)",
+        "2. \"Credit market frictions: collateral-based vs. earnings-based borrowing constraints\" with Chetan Subramanian (IIM Bangalore)",
+        "3. \"Inefficiency in Agricultural Production: Do Information Frictions Matter?\" with Aranya Chakraborty (Ahmedabad University) and Digvijay Singh Negi (Ashoka University)"
+      ]
+    },
+    {
+      "title": "Case Publications",
+      "paragraphs": [
+        "“Digital Saga of Mailers” in AIMS Journal, Vol. 6, No. 2, January 2021 (pg. 240-252)"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "rahul.rao@ahduni.edu.in",
+    "phone": "+91.7674975904",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-rao/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/rahul-rao-80b68a37/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/rahul-rao/"
+  ]
+}

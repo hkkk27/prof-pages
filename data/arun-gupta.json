@@ -1,0 +1,63 @@
+{
+  "slug": "arun-gupta",
+  "name": "Arun Gupta",
+  "role": "Associate Professor",
+  "department": "Finance, Accounting and Control",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/arun-gupta.jpg",
+  "bio": [
+    "Professor Arun Gupta is a former Senior Economist at the Federal Reserve Board of Governors (US central bank) in Washington DC. He has a PhD in Financial Economics from Yale University, an MBA from the Tepper School of Management at Carnegie Mellon University, and a BS in Electrical Engineering and Computer Science from the University of California, Berkeley. He received the Outstanding Teaching Assistance Award at Carnegie Mellon, and later served as the sole teaching assistant for Nobel-prize-winning economist, Professor Robert Shiller. During his time as Federal Reserve economist (2019-2026), Professor Gupta regularly delivered briefings to the central bank Governors, guiding discussions on the outlook for monetary policy, financial conditions, and the macroeconomy. Professor Gupta’s research interests lie in structured finance and hybrid securities, reinsurance, and the use of machine learning and agentic AI in finance. His research papers are published and are in press at the Journal of Private Markets Investing, Journal of Money, Credit and Banking, Journal of Alternative Investments, International Journal of Central Banking, and the Journal of Financial Crises."
+  ],
+  "interests": [
+    "Machine Learning and Agentic AI for Finance",
+    "Structured Finance / Hybrid Securities",
+    "Reinsurance",
+    "Valuation / Mergers and Acquisitions"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Yale University)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "My research examines how financial institutions allocate capital, produce information about economic conditions, and transmit credit to firms, especially during periods of stress. It also explores how emerging technologies such as agentic AI can improve financial decision-making and market analysis.",
+        "The Collateral Channel and Bank Credit (with H. Sapriza, V. Yankov). Working Paper.",
+        "Agentic AI for Finance. Work-in-progress"
+      ]
+    },
+    {
+      "title": "Publication",
+      "paragraphs": [
+        "Berrospide, J., Seay, M., and Gupta, A. (2024). The usability of bank capital buffers and credit supply shocks at SMEs during the pandemic. International Journal of Central Banking, 20(3), 185–255. https://www.ijcb.org/journal/v20n3/usability-bank-capital-buffers-and-credit-supply-shocks-smes-during-pandemic",
+        "Gupta, A. (2022). The internal capital markets of global dealer banks. Journal of Financial Crises, 4(3), 165–188. https://elischolar.library.yale.edu/journal-of-financial-crises/vol4/iss3/4/"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "arun.gupta@ahduni.edu.in",
+    "phone": "+91.79.61911000",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/arun-gupta/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/arun-gupta-55378032/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/arun-gupta/"
+  ]
+}

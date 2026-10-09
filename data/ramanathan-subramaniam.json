@@ -1,0 +1,62 @@
+{
+  "slug": "ramanathan-subramaniam",
+  "name": "Ramanathan Subramaniam",
+  "role": "Associate Professor",
+  "department": "Marketing",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/ramanathan-subramaniam.jpg",
+  "bio": [
+    "Professor Subramaniam's expertise lies in applied game theory, auction theory, and models of competitive price formation. He has published work on price discrimination, auctions, and pricing.",
+    "His research has evolved to incorporate aspects of positioning, asymmetric information, and contract theory, allowing him to investigate complex marketing problems within a game-theoretic framework.",
+    "Professor Subramaniam's work has been published in top-tier international journals such as Marketing Science and Management Science.",
+    "Beyond his research, Professor Subramaniam teaches a range of courses at both the undergraduate and graduate levels in India and the USA. His recent courses include Applied Game Theory in Marketing, Strategic Models in Marketing, B2B Marketing, and Luxury Marketing."
+  ],
+  "interests": [
+    "Applied Game Theory",
+    "Discrete Choice Models",
+    "Contract Theory"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (University of Pittsburgh)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Journal Articles",
+        "Zhang, Z., Joseph, K., & Subramaniam, R. (2015). Probabilistic selling in quality-differentiated markets. Management Science, 61(8), 1959-1977.",
+        "Joseph, K., Subramaniam, R., & Patil, V. (2013). The impact of consumption hassle on pricing schedules. Managerial and Decision Economics, 34, 1-14.",
+        "Subramaniam, R., & Venkatesh, R. (2009). Optimal bundling strategies in multiobject auctions of complements or substitutes. Marketing Science, 28(2), 264-273.",
+        "Subramaniam, R., & Gal-Or, E. (2009). Quantity discounts in differentiated consumer product markets. Marketing Science, 28(1), 180-192.",
+        "Subramaniam, R. (2011, November). Price competition, technological precision and product failure. Paper presented at the INFORMS - Transformations meeting, Charlotte, NC.",
+        "Subramaniam, R. (2003, October). Revenue equivalence in online auctions – The case of Yahoo! and eBay. Paper presented at the Association for Consumer Research Conference, Toronto, Canada."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "ramanathan.subramaniam@ahduni.edu.in",
+    "phone": "+91.79.61911494",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/ramanathan-subramaniam/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/ramanathan-s-654bb73/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/ramanathan-subramaniam/"
+  ]
+}

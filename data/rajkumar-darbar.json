@@ -1,0 +1,71 @@
+{
+  "slug": "rajkumar-darbar",
+  "name": "Rajkumar Darbar",
+  "role": "Assistant Professor",
+  "department": "School of Design",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/rajkumar-darbar.jpg",
+  "bio": [
+    "Dr. Rajkumar Darbar is a Human–Computer Interaction (HCI) researcher specializing in Augmented Reality (AR), Virtual Reality (VR), and immersive interactive systems. His work focuses on designing novel interaction techniques and collaborative experiences for spatial computing environments. He obtained his Ph.D. in Computer Science from Inria Bordeaux and the University of Bordeaux, France, and subsequently worked as a postdoctoral researcher at CNRS, Paris. Throughout his doctoral and postdoctoral research, he developed and evaluated immersive AR/VR systems that explore new ways for people to interact, collaborate, and communicate in extended reality (XR) environments. His projects include collaborative VR platforms for scientific visualization, VR training applications for skill development, interaction techniques for AR/VR productivity tasks, and projection- based spatial augmented reality systems that extend interaction beyond head-mounted displays. He has also worked on wearable and electronics-based interaction prototypes, including smartwatch and smart- ring interfaces. His research has been published at leading HCI venues, including ACM CHI, IEEE VR, SUI, INTERACT, MUM, GI, and NordiCHI. He has also served as a reviewer for international conferences such as ACM CHI, IEEE VR, SUI, VRST, and INTERACT."
+  ],
+  "interests": [
+    "Human-Computer Interaction",
+    "Augmented Reality (AR), Virtual Reality (VR), 3D User Interfaces (3DUI)",
+    "Wearable and Mobile Interaction"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "Postdoctoral Researcher – CNRS, Paris, France",
+      "org": "",
+      "year": ""
+    },
+    {
+      "degree": "Ph.D. from Inria Bordeaux and the University of Bordeaux, France",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Introduction to Immersive Media",
+    "Information Architecture and Design"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Rajkumar Darbar, Hubert Santuz, Antoine Taly, Marc Baaden, “GazeMolVR: Sharing Eye-Gaze Cues in a Collaborative VR Environment for Molecular Visualization”, In International Conference on Mobile and Ubiquitous Multimedia (MUM ’24), 1–4 December 2024, Stockholm, Sweden.",
+        "Rajkumar Darbar, Xuning Hu, Xinan Yan, Yushi Wei, Hai-Ning Liang, Wenge Xu, Sayan Sarcar, “OnArmQWERTY: An Empirical Evaluation of On-Arm Tap Typing for AR HMDs”, In ACM Symposium on Spatial User Interaction (SUI ’24), 7–8 October 2024, Trier, Germany.",
+        "Rajkumar Darbar, Arnaud Prouzeau, Martin Hachet, “HoloCMDS: Investigating Around Field of View Glanceable Commands Selection in AR-HMDs”, In IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW ’22), 12–16 March 2022, Christchurch, New Zealand.",
+        "Rajkumar Darbar, Arnaud Prouzeau, Joan Odicio-Vilchez, Thibault Lainé, Martin Hachet, “Exploring Smartphone-enabled Text Selection in AR-HMD”, In Graphics Interface Conference (GI ’21), 27–28 May 2021, Vancouver, Canada.",
+        "Rajkumar Darbar, Joan Sol Roo, Thibault Lainé, Martin Hachet, “DroneSAR: Extending Physical Spaces in Spatial Augmented Reality using Projection on a Drone”, In International Conference on Mobile and Ubiquitous Multimedia (MUM ’19), 26–29 November 2019, Pisa, Italy.",
+        "Shimmila Bhowmick, Rajkumar Darbar, Keyur Sorathia, “Pragati: Design and Evaluation of a Mobile Phone-Based Head Mounted Virtual Reality Platform to Train Community Health Workers in Rural India”, In Nordic Conference on Human- Computer Interaction (NordiCHI ’18), 1–3 October 2018, Oslo, Norway.",
+        "Sanjay Ghosh, Joy Bose, Rajkumar Darbar, Punyashlok Dash, “Touch Shadow Interaction and Continuous Directional User Interface for Smartphone”, In IFIP International Conference on Human-Computer Interaction (INTERACT ’17), 25–29 September 2017, Mumbai, India.",
+        "Rajkumar Darbar, Prasanta Kr. Sen, Debasis Samanta, “PressTact: Side Pressure-Based Input for Smartwatch Interaction”, In ACM CHI Conference Extended Abstracts on Human Factors in Computing Systems (CHI EA ’16), 7–12 May 2016, San Jose, CA, USA.",
+        "Rajkumar Darbar, Debasis Samanta, “SurfaceSense: Smartphone Can Recognize Where It Is Kept”, In Indian Conference on Human Computer Interaction (IndiaHCI ’15), 17–19 December 2015, Guwahati, India.",
+        "Rajkumar Darbar, Prasanta Kr. Sen, Punyashlok Dash, Debasis Samanta, “Using Hall Effect Sensors for 3D Space Text Entry on Smartwatches”, In IEEE International Conference on Intelligent Human Computer Interaction (IHCI ’15), 14–16 December 2015, Allahabad, India.",
+        "Rajkumar Darbar, Punyashlok Dash, Debasis Samanta, “ETAO Keyboard: Text Input Technique on Smartwatches”, In IEEE International Conference on Intelligent Human Computer Interaction (IHCI ’15), 14–16 December 2015, Allahabad, India."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "rajkumar.darbar@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/darbar/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/darbar/"
+  ]
+}

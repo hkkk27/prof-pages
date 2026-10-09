@@ -1,0 +1,163 @@
+{
+  "slug": "dinesh-barot",
+  "name": "Dinesh Barot",
+  "role": "Assistant Professor",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/dinesh-barot.jpg",
+  "bio": [
+    "Dinesh Barot is an Assistant Professor in Technology, Operations & Decision Sciences area. A gold medalist at the master's level, he acquired his Ph.D. in 2016, with a specialization in Reliability, Life-testing and Bayesian inferences. His research involved Empirical Bayes Estimates of Reliability Performances of Some Life Time Models. He has presented his research at various international and national conferences. Some of these include presentations at IIT Roorkee, IIMA, Banaras University, Aligarh University, Pune University, and Mumbai University. He has been an Academic Visitor to H L Centre for Professional Education and Gujarat University. He has published 12 research papers in refereed international journals. His significant contribution to the field of research was recognized by Ahmedabad University with the Excellence in Research Award in 2015. Academically, while pursuing his postgraduate degree (MSc), Gujarat University awarded “Shri Nanubhai Maneklal Munsha Gold Medal”, “Shrimati Nathiba Hargovandas Laxmichand Gold Medal”, and “Late Prof. Chinubhai Ghelabhai Khatri Memorial Gold Medal” to him for securing the first position with distinction at the University examination. He started his teaching career in 1999 as a lecturer of Statistics at H.L. Institute of Commerce, which became a constituent of Ahmedabad University. He has been with Ahmedabad University since its inception in 2009. During these years, he has been extensively involved in academic, Cultural and Sports administration. He strongly believes in continual advance of knowledge by reading literature, identifying gaps, and proposing new initiatives to be a lifelong learner."
+  ],
+  "interests": [
+    "Reliability and Life-Testing",
+    "Bayesian Inferences",
+    "Big Data Analytics",
+    "Research Methodology."
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Gujarat University)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Estimation of Parameters of Misclassified Size Biased Uniform Poisson Distribution and Its Application",
+      "authors": "",
+      "venue": "Mathematical Methods of Statistics",
+      "year": "2024",
+      "url": "https://doi.org/10.3103/s106653072470008x"
+    },
+    {
+      "title": "A Bayes Estimation for the Parameters of Misclassified Size-biased Poisson Lindley Distribution and its Application",
+      "authors": "",
+      "venue": "Journal of Scientific Research",
+      "year": "2022",
+      "url": "https://doi.org/10.37398/jsr.2022.660515"
+    },
+    {
+      "title": "Posterior analysis of the compound Rayleigh distribution under balanced loss functions for censored data",
+      "authors": "",
+      "venue": "Communications in Statistics - Theory and Methods",
+      "year": "2017",
+      "url": "https://doi.org/10.1080/03610926.2015.1019140"
+    },
+    {
+      "title": "Hierarchical bayes estimation of reliability indexes of cold standby series system under general progressive type II censoring scheme",
+      "authors": "",
+      "venue": "Journal of Modern Applied Statistical Methods",
+      "year": "2016",
+      "url": "https://doi.org/10.22237/jmasm/1478003820"
+    },
+    {
+      "title": "Performance of Estimates of Reliability Parameters for Compounded Rayleigh Progressive Type II Censored Data",
+      "authors": "",
+      "venue": "Control Theory and Informatics",
+      "year": "2015",
+      "url": ""
+    },
+    {
+      "title": "Posterior risks of estimates under balanced loss functions for progressive Type II censored data",
+      "authors": "",
+      "venue": "Model Assisted Statistics and Applications",
+      "year": "2015",
+      "url": "https://doi.org/10.3233/MAS-140313"
+    },
+    {
+      "title": "Bayesian estimation of reliability indexes for cold standby system under general progressive Type II censored data",
+      "authors": "",
+      "venue": "",
+      "year": "2014",
+      "url": "https://doi.org/10.1108/IJQRM-08-2012-0114"
+    },
+    {
+      "title": "Risk efficiencies of empirical Bayes and generalized maximum likelihood estimates for Rayleigh model under censored data",
+      "authors": "",
+      "venue": "",
+      "year": "2014",
+      "url": "https://doi.org/10.1155/2014/809706"
+    }
+  ],
+  "teaching": [
+    "Courses taught at various levels:",
+    "Basic Statistics & Mathematics",
+    "Business Statistics",
+    "Statistics for Decision Making",
+    "Research Methodology",
+    "Quantitative Methods for Business",
+    "Elements of Mathematics",
+    "Applied Statistics",
+    "Industrial Statistics",
+    "Business Mathematics",
+    "Quantitative Aptitudes",
+    "Probability"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Presented Research Papers",
+        "2015: - Research paper entitled “Performance of Estimates of Reliability Parameters for Compounded Rayleigh Progressive Type II Censored Data” presented at the International Conference on “Modelling, Simulation, and Optimizing Techniques (ICMSOT -2015)” organized by the Post Graduate Department of Mathematics,Dayanand Anglo-Vedic College, during February 12 - 14, 2015.",
+        "2013: - Research paper entitled “Bayesian estimation of Reliability indexes for cold standby system under general progressive Type II censored data” presented at the National Conference on “Statistics for Research and Development” jointly organized by the Gujarat Statistical Association and GLS (M R Parikh) Institute of Commerce on October 12, 2013.",
+        "2013: - Research paper entitled “Risk efficiencies of EB and GML estimates of a Rayleigh model under the progressive Type II censored data” presented at International Conference on “Role of Statistics in the Advancement of Science and Technology” organized by University of Pune during December 16 - 18, 2013.",
+        "2012: Research paper entitled “Empirical Bayesian Inference for Rayleigh Distribution under Progressive Type II Censored Samples” presented at the National Conference on “Emerging Trends in Applied Statistics” jointly organized by the Gujarat Statistical Association and H. L. College of Commerce on March 31, 2012.",
+        "2011: - Research paper entitled “Empirical Bayes Estimators of Reliability Parameters of Rayleigh Distribution using Linex loss and General Entropy loss functions under Progressive Type -II Censored samples” presented at International Conference on \"APPLIED MATHEMATICS & STATISTICS\" jointly organized by Department of Mathematics and Department of Statistics, Gujarat University during December 16 - 18, 2011.",
+        "2011: - Research paper entitled “Empirical Bayes Estimators of Reliability Parameters of Rayleigh Distribution using Linex loss and General Entropy loss functions under Progressive Type - II Censored samples” presented at International Conference on “Advances in Modelling, Optimization and Computing” organized by Department of Mathematics, Indian Institute of Technology (Roorkee) during December 5 - 7, 2011.",
+        "2011: - Research paper entitled “Consumer’s Perception on Direct to Home Services in Ahmedabad City” presented at UGC sponsored 26th GSA National Conference on “Recent Applications in Statistics” organized by Department of Statistics, Saurashtra University during March 26th, 2011.",
+        "2011: - Research paper entitled “A Comparative study of Direct to Home Services and Cable Services in Ahmedabad City” presented at International Conference on “New Trends in Life Testing, Bayesian Inference, Sampling Theory, Bio-Statistics, Bio-Informatics and Computer Applications” organized by Department of Statistics, Banaras Hindu University during January 5 - 8, 2011.",
+        "2000: - Research paper entitled “An Inventory Model under Marketing Policies and Stock Dependent Consumption Rate” presented at UGC Sponsored National Level seminar on “Inventory Control and Management” organized by Department of Statistics, Gujarat University during December 22–24, 2000.",
+        "2000: -Research paper entitled “Deterministic Inventory System for Deteriorating Items with Inventory Level Dependent Rate and Shortages” at the XXXIII Convention of the Operational Research Society of India Convention organized by Indian Institute of Management, Ahmedabad during December 14 - 16, 2000.",
+        "Conference / Seminar Attended",
+        "2015: One Day International Seminar on \"Applied Mathematics and Statistics (ISAMS - 2015)\", organized by Department of Mathematics and Statistics, Gujarat University on 10 January 2015.",
+        "2014: Faculty Seminar on Building Research Culture by Prof. Shyam Sunder, Yale School of Management, organized by the Ahmedabad University during January 2-3, 2014.",
+        "2013: - Research Workshop for Faculty Members organized by Ahmedabad University, on November 30, 2013.",
+        "2013: - Research Workshop for Faculty Members organized by Ahmedabad University, on November 16, 2013.",
+        "2010: - Two-days UGC sponsored national seminar on “Impact of Statistics on Science and Society” organized by M.G. Science Institute, Ahmedabad, during February 25-26, 2010.",
+        "2010: - One-day Seminar on “ERP” organized at AES institute of Computer Studies, Ahmedabad, by AESICS-CSI Student branch of Computer Society of India., on November 29, 2010."
+      ]
+    },
+    {
+      "title": "Professional Service",
+      "paragraphs": [
+        "Membership of Professional Bodies:",
+        "Gujarat Statistical Association (GSA)",
+        "Indian Society of Probability and Statistics (ISPS)",
+        "Review Work",
+        "Reviewed a research manuscript (January 2018 – May 2018) for the International Double-blind peer-reviewed journal entitled “Journal of the Turkish Statistical Association (IJTSA)” [ISSN: 1300-4077)], IZMIR UNIVERSITY OF ECONOMICS Sakarya Cad, TURKEY.",
+        "Invited for Intervention in Review for the International Double-blind peer-reviewed journal “COJ Reviews and Research”, Crimson Publishing LLC, New York, USA.",
+        "Reviewed a research manuscript (January 2018 – May 2018) for the International Double-blind peer-reviewed journal “International Journal of Quality & Reliability Management” [ISSN: 0265-671X (Print)], Emerald Group Publishing Limited, Howard House, UK.",
+        "Reviewed a research manuscript (January 2018 – May 2018) for the International Double-blind peer-reviewed journal “Journal of Applied Statistics” [ISSN: 0266-4763 (Print), 1360-0532 (Online)], Taylor and Francis Group, 325 Chestnut Street, PHILADELPHIA.",
+        "Reviewed a research article (July 2015 – September 2015) for the International Double-blind peer-reviewed journal “Model Assisted Statistical Applications” [ISSN: 1574-1699 (Print), 1875-9068 (Online)], IOS Press, STM Publishing House, Birmingham, USA.",
+        "Reviewed a research article (April 2015 to July 2015) for the International Double-blind peer-reviewed journal “Journal of Statistical Computation and Simulation” [ISSN: 0094-9655 (Print), 1563-5163 (Online)], Taylor and Francis Group, 325 Chestnut Street, PHILADELPHIA.",
+        "Reviewed a research article (March 2015 to April 2015) for the International Double-blind peer-reviewed journal “British Journal of Economics, Management & Trade” [2278-098X (Online)], SCIENCEDOMAIN International, USA.",
+        "Reviewed a research article (August 2014 to October 2014) for the International Double-blind peer-reviewed journal “Model Assisted Statistical Applications” [ISSN: 1574-1699 (Print), 1875-9068 (Online)], IOS Press, STM Publishing House, Birmingham, USA.",
+        "Reviewed a research article (November 2013 to March 2014) for the International Double-blind peer-reviewed journal “Model Assisted Statistical Applications” [ISSN: 1574-1699 (Print), 1875-9068 (Online)], IOS Press, STM Publishing House, Birmingham, USA.",
+        "Conferences Organized",
+        "Member, Organizing Committee, National Conference on “Emerging Trends in Applied Statistics” jointly organized by the Gujarat Statistical Association and H. L. College of Commerce on March 31, 2012.",
+        "Convener, Souvenir Committee, National Conference on “Emerging Trends in Applied Statistics” jointly organized by the Gujarat Statistical Association and H. L. College of Commerce on March 31, 2012.",
+        "Member, Souvenir Committee, International Conference on \"APPLIED MATHEMATICS & STATISTICS\" jointly organized by Department of Mathematics and Department of Statistics, Gujarat University on December 16 - 18, 2011."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "dinesh.barot@ahduni.edu.in",
+    "phone": "+91.9825734318",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/dinesh-barot/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0002-0675-8467",
+    "linkedin": "https://in.linkedin.com/in/dineshbarot",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/dinesh-barot/"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "slug": "divakar-kuppan",
+  "name": "Divakar Kuppan",
+  "role": "Assistant Professor",
+  "department": "School of Design",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/divakar-kuppan.jpg",
+  "bio": [
+    "Divakar Kuppan is an award-winning animation filmmaker and design educator with a Master's in Design (Animation & Filmmaking) from the Industrial Design Centre (IDC), IIT Bombay, and a Bachelor's in Computer Science Engineering. His work has received national and international recognition, including the Bhimsain Emerging Talent Award (2019, Silver Conch Award (2020), Hindustan Times 30 Under 30 Icon (2021), ASIFA Award of Excellence (2022), and the Technical Jury Award from the Ministry of Culture, Italy (2023). His expertise spans animation, visual storytelling, filmmaking, and design, with a strong focus ontradigital & experimental animation techniques, creative expression, and nurturing innovation through hands-on learning."
+  ],
+  "interests": [],
+  "positions": [
+    {
+      "title": "Assistant Professor (SS)",
+      "org": "School of Planning & Architecture and Design Excellence, HITS",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    },
+    {
+      "title": "Assistant Professor",
+      "org": "University Institute of Film & Visual Arts, CU",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Design , IDC - IIT Bombay",
+      "org": "",
+      "year": "2019"
+    },
+    {
+      "degree": "B.E - Computer Science Engineering",
+      "org": "",
+      "year": "2015"
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "History & Evolution of Animation Cinema, Moving Images & Classical Animation, Acting & Staging for Animation, Character & Environment Design. Storyboarding & Animatics.",
+    "2D & 3D Motion Graphics, Video Editing & Sound Design for Films, VFX & Creative Compositing, 2D Game Design, Interface & Interaction Design.",
+    "Design Foundation, Text Adventures, Storytelling through Augmented Reality, Design Fiction & Futuristic Design"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research Interests",
+      "paragraphs": [
+        "Gamification of Poultry & Cattle Farms",
+        "Application of AR, Interactive & Tangible Micro Comics",
+        "Vertical OVAs (Original Video Animations) for Mobile OTT",
+        "Animated documentation of Botanical identification methods of endangered Siddha herbs from the Marutham landscapes of Tamilnadu in a Digital Herbaria"
+      ]
+    },
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "‘For Mahesh’ - Animated Research Film for Transport Studies Unit, Oxford University under Dr.Lucy Baker. Know More",
+        "My Crow don’t know to Fish - An Animated Musical Showcased in World Festival of Animated Film Varna, Bulgaria Know More",
+        "The Fox of the Palmgrove - Multiple award winning glass painted animated film which won Silver conch award from Film Division of India Know More",
+        "Vibrant - Outcome film of Kids Workshop with ToonClub Mumbai Know More",
+        "Blood in the Shell - An Animated Musical Showcased in Diogenes 2021, Tbilisi - Georgia Know More",
+        "Candy days 2024 - Animated Anthology Documentary Know More"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "divakar.kuppan@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/divakar_kuppan/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/divakar_kuppan/"
+  ]
+}

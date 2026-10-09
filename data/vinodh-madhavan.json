@@ -1,0 +1,229 @@
+{
+  "slug": "vinodh-madhavan",
+  "name": "Vinodh Madhavan",
+  "role": "Professor",
+  "department": "Finance, Accounting and Control",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/vinodh-madhavan.jpg",
+  "bio": [
+    "Vinodh Madhavan currently serves as a Professor at Amrut Mody School of Management, Ahmedabad University. Prior to this assignment, Vinodh Madhavan served as an Associate Professor at Finance & Accounting Area, IFMR Graduate School of Business, Krea University; as an Assistant Professor at IMT Ghaziabad, IIM Lucknow; and as an Assistant Professor on Tenure-Track in the Finance & Accounting Area at Vinod Gupta School of Management, Indian Institute of Technology Kharagpur. Vinodh Madhavan successfully completed the Doctor of Business Administration program at Golden Gate University, San Francisco in Dec '09. Based on faculty recommendations, he was awarded the “2009–2010 Outstanding Graduate Student — Doctor of Business Administration” Award, by the Dean of Ageno School of Business, Golden Gate University. Subsequent to his doctoral days, Vinodh served briefly as an Adjunct Faculty at the Department of Finance & Economics, Golden Gate University and as a Malcolm S. M. Watts III Research Fellow at Technical Securities Analysts Association of San Francisco. Vinodh’s research interests are in the areas of long memory, nonlinear time series analysis, Adaptive Market Hypothesis (AMH) and volatility modelling. Recently, Vinodh was awarded the 2024 CABE Visiting Fellowship by University of Melbourne and the 2021 Chairman’s Award for Research by Ahmedabad University. His prior works have been published in journals such as Applied Economics, International Review of Economics and Finance, International Review of Financial Analysis, Journal of Business Research, Global Finance Journal, Research in International Business and Finance, Applied Economics Letters, Journal of Economics and Finance and Journal of Asset Management"
+  ],
+  "interests": [
+    "Nonlinear Time Series Analysis",
+    "Long Memory",
+    "Adaptive Market Hypothesis."
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Golden Gate University)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "The illusion of inefficiency: ghost artefacts and neglected nonlinearity in G20 equities",
+      "authors": "",
+      "venue": "Applied Economics Letters",
+      "year": "2026",
+      "url": "https://doi.org/10.1080/13504851.2026.2743296"
+    },
+    {
+      "title": "Banking on the brink: An incremental cost-based view of financial stress",
+      "authors": "",
+      "venue": "Research in International Business and Finance",
+      "year": "2026",
+      "url": "https://doi.org/10.1016/j.ribaf.2025.103173"
+    },
+    {
+      "title": "Moderating Effect of Corporate Governance Mechanisms on Relationship between Cash Holdings and Firm Value",
+      "authors": "",
+      "venue": "Economic and Political Weekly",
+      "year": "2024",
+      "url": ""
+    },
+    {
+      "title": "Carbon Emissions Pricing: Linkages Between EU ETS Spot and Future Prices and Completeness of EU ETS Market",
+      "authors": "",
+      "venue": "Journal of Emerging Market Finance",
+      "year": "2024",
+      "url": "https://doi.org/10.1177/09726527241248003"
+    },
+    {
+      "title": "Moderating effect of capital structure on the relationship between corporate governance mechanisms and firm value: Evidence from India",
+      "authors": "",
+      "venue": "International Review of Economics and Finance",
+      "year": "2024",
+      "url": "https://doi.org/10.1016/J.IREF.2024.02.082"
+    },
+    {
+      "title": "Venture debt financing and firm development: evidence from Indian entrepreneurial landscape",
+      "authors": "",
+      "venue": "Applied Economics",
+      "year": "2024",
+      "url": "https://doi.org/10.1080/00036846.2024.2337819"
+    },
+    {
+      "title": "Joint impact of corporate governance and risk disclosures on firm value: Evidence from emerging markets",
+      "authors": "",
+      "venue": "Research in International Business and Finance",
+      "year": "2023",
+      "url": "https://doi.org/10.1016/j.ribaf.2023.102022"
+    },
+    {
+      "title": "Is Gen Z in India Moving Towards Financial Independence? - A Study of Their Investment Preferences",
+      "authors": "",
+      "venue": "Journal of Student Research",
+      "year": "2023",
+      "url": "https://doi.org/10.47611/jsrhs.v12i2.4446"
+    },
+    {
+      "title": "Investment style consistency and performance of Indian fixed income mutual funds",
+      "authors": "",
+      "venue": "IIMB Management Review",
+      "year": "2023",
+      "url": "https://doi.org/10.1016/J.IIMB.2023.07.002"
+    },
+    {
+      "title": "Performance persistence and style consistency of Indian fixed income mutual funds-A longitudinal study",
+      "authors": "",
+      "venue": "International Review of Financial Analysis",
+      "year": "2023",
+      "url": "https://doi.org/10.1016/J.IRFA.2023.102535"
+    },
+    {
+      "title": "Relationship between ETFs and underlying indices: a fractional cointegration approach",
+      "authors": "",
+      "venue": "Applied Economics",
+      "year": "2023",
+      "url": "https://doi.org/10.1080/00036846.2022.2109581"
+    },
+    {
+      "title": "The dynamic volatility connectedness of global financial assets during the Ebola & MERS epidemic and the COVID-19 pandemic",
+      "authors": "",
+      "venue": "Applied Economics",
+      "year": "2023",
+      "url": "https://doi.org/10.1080/00036846.2023.2174499"
+    },
+    {
+      "title": "Effect of COVID-19 on ETF and index efficiency: evidence from an entropy-based analysis",
+      "authors": "",
+      "venue": "Journal of Economics and Finance",
+      "year": "2022",
+      "url": "https://doi.org/10.1007/S12197-021-09566-4"
+    },
+    {
+      "title": "Long memory dynamics and relative efficiency of crude oil benchmarks: An adaptive market hypothesis perspective",
+      "authors": "",
+      "venue": "Journal of Public Affairs",
+      "year": "2022",
+      "url": "https://doi.org/10.1002/PA.2513"
+    },
+    {
+      "title": "Selection ability, timing ability, and performance persistence of Indian fixed income mutual funds",
+      "authors": "",
+      "venue": "Journal of Asset Management",
+      "year": "2022",
+      "url": "https://doi.org/10.1057/S41260-021-00253-X"
+    },
+    {
+      "title": "Nonlinearity in Global Crude Oil Benchmarks: Disentangling the Effect of Time Aggregation",
+      "authors": "",
+      "venue": "Journal of Emerging Market Finance",
+      "year": "2021",
+      "url": "https://doi.org/10.1177/09726527211043013"
+    },
+    {
+      "title": "Relative efficiency of equity ETFs: an adaptive market hypothesis perspective",
+      "authors": "",
+      "venue": "Applied Economics Letters",
+      "year": "2021",
+      "url": "https://doi.org/10.1080/13504851.2020.1804045"
+    },
+    {
+      "title": "Do board characteristics impact corporate risk disclosures? The Indian experience",
+      "authors": "",
+      "venue": "Journal of Business Research",
+      "year": "2020",
+      "url": "https://doi.org/10.1016/J.JBUSRES.2020.08.004"
+    },
+    {
+      "title": "Does electronic trading influence stock prices? The Indian experience",
+      "authors": "",
+      "venue": "Applied Economics Letters",
+      "year": "2020",
+      "url": "https://doi.org/10.1080/13504851.2019.1690121"
+    },
+    {
+      "title": "Pitfalls in long memory research",
+      "authors": "",
+      "venue": "Cogent Economics & Finance",
+      "year": "2020",
+      "url": "https://doi.org/10.1080/23322039.2020.1733280"
+    },
+    {
+      "title": "The Journal of Emerging Market Finance: A Bibliometric Overview (2002-2019)",
+      "authors": "",
+      "venue": "Journal of Emerging Market Finance",
+      "year": "2020",
+      "url": "https://doi.org/10.1177/0972652720944329"
+    },
+    {
+      "title": "A study on factors driving the capital structure decisions of small and medium enterprises (SMEs) in India",
+      "authors": "",
+      "venue": "IIMB Management Review",
+      "year": "2019",
+      "url": "https://doi.org/10.1016/J.IIMB.2018.08.010"
+    },
+    {
+      "title": "Nonlinear dynamics in crude oil benchmarks: an AMH perspective",
+      "authors": "",
+      "venue": "Applied Economics Letters",
+      "year": "2019",
+      "url": "https://doi.org/10.1080/13504851.2019.1602700"
+    },
+    {
+      "title": "Price and Volatility Linkages Between Indian Stocks and Their European GDRs",
+      "authors": "",
+      "venue": "Journal of Emerging Market Finance",
+      "year": "2019",
+      "url": "https://doi.org/10.1177/0972652719846353"
+    },
+    {
+      "title": "Evolving Efficiency of Dually-Listed Indian Stocks: A Nonlinear Perspective",
+      "authors": "",
+      "venue": "Journal of Quantitative Economics",
+      "year": "2018",
+      "url": "https://doi.org/10.1007/S40953-017-0076-5"
+    }
+  ],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "My research endeavors are geared towards examining market (in) efficiency from an asset pricing perspective. To be precise, my prior works have examined aspects such as long memory, nonlinear serial dependence and low dimensional chaos in asset classes such as Exchange Traded Funds, Credit Default Swaps, and dually-listed shares. While long memory and nonlinear serial dependence have played an instrumental role in re-examining and disputing market efficiency, the overarching theory/philosophy that has and continues to have a huge impact on the way I look at the markets in general and investor behavior in particular across asset classes is Adaptive Market Hypothesis (AMH). AMH offers an intellectual framework that aids in reconciling opposing perspectives on market efficiency that are held by proponents of efficiency (the so-called fundamentalists) and the opponents (the so-called behaviouralists) of market efficiency. AMH borrows heavily from evolutionary biology and offers a gateway for researchers to overcome the fallacy of treating market efficiency as an all or nothing phenomenon. In addition, a prominent strand of literature on portfolio diversification that has also been of interest to me is the extent of integration/segmentation of stock markets pertaining to the emerging economies with the developed stock markets of the world. This issue is of practical relevance as international investors are constantly on the lookout for global avenues that offer better risk-adjusted returns. Looking back, my research endeavors have been quite interdisciplinary. To be specific, a large proportion of my prior published works involve application of methodologies pertaining to physical sciences and hydrology to answer empirical anomalies in financial and economic time series."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "vinodh.madhavan@ahduni.edu.in",
+    "phone": "+91.79.61911329",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/vinodh-madhavan/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0002-2542-6089",
+    "linkedin": "http://www.linkedin.com/in/vinodhmadhavan",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/vinodh-madhavan/"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "asmita-goswami",
+  "name": "Asmita Goswami",
+  "role": "Assistant Professor",
+  "department": "School of Liberal Arts and Sciences",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/asmita-goswami.jpg",
+  "bio": [
+    "Dr. Asmita Goswami is a Assistant Professor in the School of Liberal Arts and Design Studies at the Vidyashilp University. Prior to joining VU, she served as an Assistant Professor (visiting) at National Law School of India University Bangalore. She is an experienced researcher with an intensive study in the field of Economics and skilled in Statistical Modelling, Econometrics, Data Analysis, Micro Economics, Industrial Economics and International Trade. She is one of the top performers to have been able to pursue a dual degree, Master of Philosophy (M.Phil.) with specialisation in Planning and Development and a Doctor of Philosophy (Ph.D.) in Economics, in the department of Humanities and Social Sciences at Indian Institute of Technology, Bombay. Currently, she is also working towards converting the thesis chapters into academic publications besides teaching."
+  ],
+  "interests": [
+    "Economic Growth",
+    "Productivity",
+    "Industry Performances and Competition",
+    "Services",
+    "Trade"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "M.A. Economics, Ambedkar University, Delhi",
+      "org": "",
+      "year": ""
+    },
+    {
+      "degree": "M.Phil, Planning and Development, Indian Institute of Technology, Bombay",
+      "org": "",
+      "year": ""
+    },
+    {
+      "degree": "Ph.D. Economics, Indian Institute of Technology, Bombay",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Microeconomics",
+    "Industrial Economics"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Goswami, A. & Narayanan, K (2022). Technological Efforts, Firm Ownership and Productivity: A study of Information Technology Service Firms in India. South Asia Economic Journal, 23(1), 86-109. Read More",
+        "Goswami, A. & Narayanan, K (2023). Productivity and Exports: An Industry Level Analysis of the Service Sector in India, Millennial Asia: An International Journal of Asian Studies. Read More"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "asmita.goswami@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/asmita/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/asmita/"
+  ]
+}

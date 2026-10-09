@@ -1,0 +1,82 @@
+{
+  "slug": "sachin-tiwari",
+  "name": "Sachin Tiwari",
+  "role": "Assistant Professor",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/sachin-tiwari.jpg",
+  "bio": [
+    "Professor Tiwari’s research focuses on operations in developing economies, sustainable supply chains, and policy design, drawing insights from industrial economics. As a Postdoctoral Fellow at IIT Kanpur, he worked on electric-vehicle infrastructure and circular-economy systems. He is a recipient of the INFORMS Contemporary Operations in Developing Economies Award (2025) and the Springer Best Doctoral Paper Award (SOM 2022) for his doctoral research. He holds a bachelor’s degree in electrical engineering. His primary research interests include stochastic optimisation, operations–economics interface, supply chain management, and game theory, with applications in beekeeping, recycling, and hydroponic farming."
+  ],
+  "interests": [
+    "Supply Chain Contracts",
+    "Optimisation in Operations Management",
+    "Sustainable Operations and Circular Economy",
+    "Game Theory"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (IIM Indore)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Capacity Management in Migratory Beekeeping",
+      "authors": "SK Tiwari, OD Palsule-Desai",
+      "venue": "Available at SSRN 5763442",
+      "year": "2025",
+      "url": "",
+      "cited": ""
+    }
+  ],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Under Revision",
+        "Tiwari, S. and Palsule-Desai, O. (n.d.) Capacity Management in Migratory Beekeeping. [Under Review]",
+        "Tiwari, S. and Ramani, V. (n.d.) Specialize or Segment? Market Participation under Supply Scarcity with Social Spillovers. [Under Review]",
+        "Working Paper",
+        "Tiwari, S. and Palsule-Desai, O. (n.d.) Policy-Making Under Quality Alteration. [Working Paper]",
+        "Tiwari, S., Ramani, V., and Papier, F. (n.d.) Optimal Business Strategy for Electric Vehicle Industry: On Choosing the Business Model in EV Supply Chain. [Working Paper]"
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Conferences and Consortiums",
+        "Tiwari, S., and Palsule-Desai, O. (2025, September 22). Enhancing profitability through migration and capacity building for small producers [Webinar presentation]. 2nd Annual Webinar on Contemporary Operations in Developing Economies, INFORMS, Online.",
+        "Tiwari, S., and Palsule-Desai, O. (2023, December 4–6). Policy making under quality adulteration [Conference session]. Productions and Operations Management International Conference (POMS India Chapter), XLRI Jamshedpur, India.",
+        "Tiwari, S., and Palsule-Desai, O. (2022, December 16–18). Enhancing profitability through migration and capacity building for small producers [Conference session]. 25th Annual International Conference of the Society of Operations Management, IIM Indore, India.",
+        "Tiwari, S., and Palsule-Desai, O. (2022, December 21–23). Migration and capacity building for small producers [Conference session]. Productions and Operations Management (POMS India Chapter) Conference, IIM Kozhikode, India."
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "",
+    "h_index": ""
+  },
+  "contact": {
+    "email": "sachin.tiwari@ahduni.edu.in",
+    "phone": "+91.79.61911490",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sachin-tiwari/",
+    "scholar": "https://scholar.google.com/citations?user=BN9CaQkAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0000-0001-8478-7434",
+    "linkedin": "http://www.linkedin.com/in/sachin-kumar-tiwari-03ba665b",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/sachin-tiwari/",
+    "https://scholar.google.com/citations?user=BN9CaQkAAAAJ&hl=en"
+  ]
+}

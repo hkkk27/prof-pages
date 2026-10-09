@@ -1,0 +1,82 @@
+{
+  "slug": "vedant-dev",
+  "name": "Vedant Dev",
+  "role": "Assistant Professor",
+  "department": "Management and Organisation",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/vedant-dev.jpg",
+  "bio": [
+    "Vedant Dev is a faculty in the Management and Organisation Area. His research is in the interdisciplinary area of organisational behaviour and information systems. He teaches subjects in the area of organisational behaviour and human resource management.",
+    "He is a PhD in Organisational Behaviour area from Indian Institute of Management Ahmedabad. His educational qualifications include MBA (XLRI Jamshedpur) and B. Tech (Computer Science; Cochin University). Prior to joining the PhD program, he has worked in the IT sector as a software engineer and in consulting industry as a human resource consultant."
+  ],
+  "interests": [
+    "Work Design",
+    "Human-AI Interaction",
+    "AI augmentation",
+    "Gamification in the workplace"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (IIM Ahmedabad)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Telemedicine Adoption in India",
+      "authors": "",
+      "venue": "International Journal of Healthcare Information Systems and Informatics",
+      "year": "2021",
+      "url": "https://doi.org/10.4018/IJHISI.20211001.oa34"
+    }
+  ],
+  "teaching": [
+    "UG Level - Human Resource Analytics, Human Capital Management, Organizational Behavior",
+    "PG Level - Human Resource Analytics, Organizational Behavior, Work Design",
+    "Doctoral Level - Organizational Behavior, Work Design"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "(In progress)",
+        "Dev, V. & Singh, H. Employee intention for AI adoption in analytical decision-making: The mediating role of trust",
+        "Dev, V. & Singh, H. Employee intention for AI adoption in analytical decision-making: The differential impact of explanation types",
+        "Dev, V. & Singh, H. Decision-making in AI-assisted hiring: Line Managers vs. HR Managers",
+        "Dev, V. & Singh, H. When the boss is an AI: Affective response to disagreement in decision-making",
+        "Dev, V., Singh, H. & Succena, S. (2025). Generative-AI adoption in academic research: The role of egotism bias.",
+        "Singh, H., Verma, S. & Dev, V. (2025). Sustaining work engagement in hybrid work: the role of perceived virtual communication effectiveness.",
+        "Singh, H., Verma, S. & Dev, V. (2025). Gamification to engage the achievement motivated workforce – a moderated-mediation model."
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Singh, H. & Dev, V. (2023). ICT-driven work engagement interventions in work-from-home: the mediating role of the need for relatedness. Australasian Journal of Information Systems. https://doi.org/10.3127/ajis.v27i0.4039",
+        "Singh, V., & Dev, V. (2021). Telemedicine adoption in India: identifying factors affecting intention to use. International Journal of Healthcare Information Systems and Informatics, 16(4), 1-18. http://doi.org/10.4018/IJHISI.20211001.oa34",
+        "Gupta, V. & Dev, V. 2020. When is PFP effective? Examining autonomous motivation as a link in the relationships between PFP characteristics, OCB, well-being and performance. Journal of Total Rewards, 29(4): 48-61. https://www.proquest.com/scholarly-journals/when-is-pay-performance-pfpeffective/docview/2723854187/se-2"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "vedant.dev@ahduni.edu.in",
+    "phone": "+91.79.61911000",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/vedant-dev/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0002-5247-0800",
+    "linkedin": "https://www.linkedin.com/in/vedant-dev/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/vedant-dev/"
+  ]
+}

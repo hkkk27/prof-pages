@@ -1,0 +1,71 @@
+{
+  "slug": "amit-das",
+  "name": "Amit Das",
+  "role": "Professor & Senior Associate Dean, Graduate Programmes",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/amit-das.jpg",
+  "bio": [
+    "Professor Amit Das has three decades of post-PhD experience in teaching data science and information systems at the undergraduate and graduate levels at Nanyang Technological University (Singapore), Qatar University (Qatar), and Krea University (India). During this time, he has also researched decision-making and information systems, for which he collaborated with several organisations in the private, public, and people sectors. He holds a BTech degree from the Indian Institute of Technology Kharagpur and a PGDM from the Indian Institute of Management Calcutta."
+  ],
+  "interests": [
+    "Data Science",
+    "Information Systems",
+    "and E-Business"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (University of Minnesota)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Machine Learning Models in Bankruptcy Prediction; Adoption and Use of E-Government around the World."
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Gupta, M., Das, A. (2022). Towards e-Participation: Measuring and Explaining Performance, Journal of Global Information Technology Management. 25(4), 266-285.",
+        "Das, A., Das, S. (2021). E-Government and Entrepreneurship: Online Government Services and the Ease of Starting Business, Information Systems Frontiers. 24, 1027–1039.",
+        "Das, A., Singh, H., Joseph, D. (2017). A Longitudinal Study of e-Government Maturity, Information and Management, 54, 415-426.",
+        "Das, S., Das, A. (2014). India Shining? A Two-wave Study of Business Constraints on Micro and Small Manufacturing Firms in India, International Small Business Journal, 32(2), 180-203.",
+        "Das, A. (2012). Estimating the Loss from the Disposition Effect: A Simulation Study, Journal of Behavioral Finance, 13(1), 1-10.",
+        "Lim, E., Das, S., Das, A. (2009). Diversification Strategy, Capital Structure, and The Asian Financial Crisis (1997-98), Strategic Management Journal, 30(6), 577-594.",
+        "Das, A. (2003). Knowledge and Productivity in Technical Support Work, Management Science, 49(4), 416-431."
+      ]
+    },
+    {
+      "title": "Teaching",
+      "paragraphs": [
+        "Data Science, Business Analytics, Statistical Methods, Information Systems, E-Business, Data Management, Information Security, Project Management, International Business, Organisation Theory, Behavioural Decision Theory, Philosophy of Science (PhD)"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "amit.das@ahduni.edu.in",
+    "phone": "+91.79.61911304",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/amit-das/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/amit-das/"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "subhankar-saha",
+  "name": "Subhankar Saha",
+  "role": "Assistant Professor",
+  "department": "Technology, Operations and Decisions Sciences",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/subhankar-saha.jpg",
+  "bio": [
+    "Subhankar Saha's research broadly encompasses sustainable operations management, focusing on the agriculture and healthcare sectors, employing both empirical and analytical methodologies. Subhankar completed his PhD in the Production and Operations Management area at the Indian Institute of Management Bangalore. He has a bachelor’s degree in Mechanical Engineering from Jadavpur University, Kolkata. Subsequently, he worked with Andrew Yule & Company Limited (a manufacturing-based public sector undertaking) in West Bengal, where he served in the Supply Chain Management Department for more than five years. Additionally, he completed the Executive MBA programme at the Indian Institute of Technology Kharagpur."
+  ],
+  "interests": [
+    "Healthcare Operations Management",
+    "Sustainable Operations Management",
+    "Agriculture Supply Chain Management"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Indian Institute of Management Bangalore)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "TOD221 - Operations Management (Undergrad) - Winter 2026, Monsoon 2025",
+    "TOD522 - Supply Chain Management (MBA) - Winter 2025",
+    "TOD512 - Decision Sciences (MBA) - Winter 2025"
+  ],
+  "awards": [
+    {
+      "title": "Winner, 2026 Babbage International Policy Forum Industrial Innovation Policy Award by the Industry Studies Association.",
+      "by": "",
+      "year": "2026"
+    },
+    {
+      "title": "Best Theory-Driven Empirical Research Paper Award, Decision Sciences Institute 2025",
+      "by": "",
+      "year": "2025"
+    },
+    {
+      "title": "Best Paper Award, Human Focused Approach in POM at POMS India International Conference 2022",
+      "by": "",
+      "year": "2022"
+    },
+    {
+      "title": "WIPRO Sustainability Fellowship Award 2023",
+      "by": "",
+      "year": "2023"
+    },
+    {
+      "title": "TATA CHEMICALS Fellowship Award 2022",
+      "by": "",
+      "year": "2022"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Working Papers (selected)",
+      "paragraphs": [
+        "Subhankar Saha, Haritha Saranga, Sriram Narayanan, and Chandrakant Pradhan, “Implementing Sustainable Agricultural Practices in India”, Major Revision in Manufacturing & Service Operations Management",
+        "Subhankar Saha, Sriram Thirumalai, and Sarang Sunder, “Process Frictions in Healthcare Operations: Implications for Procedures”, Under Review",
+        "Sriram Thirumalai, Subhankar Saha, and Sarang Sunder, “Multi-Siting Physicians and Hospital Performance: Examining Intended Benefits and Unintended Consequences”, To be submitted"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "subhankar.saha@ahduni.edu.in",
+    "phone": "+91.79.61911491",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/subhankar-saha/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "http://www.linkedin.com/in/subhankar-saha-19pom",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/subhankar-saha/"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "anuj-verma",
+  "name": "Anuj Verma",
+  "role": "Associate Professor",
+  "department": "School of Business and Entrepreneurship",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/anuj-verma.jpg",
+  "bio": [
+    "Dr. Anuj Verma is an accomplished academician and marketing professional with over 15 years of diversified experience spanning industry and academia. He has published over 20 research papers in reputed Scopus and ABDC-indexed journals on topics such as consumer behaviour, digital marketing, AI in CRM, and sustainable marketing. Dr. Verma has also authored a book, contributed case studies, and presented at leading conferences including IIM Indore, Kozhikode, and Nagpur. He has completed a CSR consultancy project for the GMR Group and received the Young Achiever’s Award in Management. His previous corporate roles at Mahindra Holidays, ITC, and Make My Trip lend practical depth to his academic work."
+  ],
+  "interests": [
+    "Consumer Behaviour",
+    "Sustainable Marketing",
+    "AI in Marketing"
+  ],
+  "positions": [
+    {
+      "title": "Assistant Professor",
+      "org": "Symbiosis University",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD - Ranchi University",
+      "org": "",
+      "year": "2018"
+    },
+    {
+      "degree": "MBA - IITTM",
+      "org": "",
+      "year": "2005"
+    },
+    {
+      "degree": "BA ( History Hons) - Delhi University",
+      "org": "",
+      "year": "2002"
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Brand Management",
+    "Product Management",
+    "Business Marketing",
+    "Integrated Marketing Communication"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Debroy, A., Dadsena, K. K., Bhattacharjee, P., Verma, A., & Verma, M. (2024). Evaluating the inhibitors in the growth of high-speed railway in India: A multi-stakeholder perspective. Transport Policy, 155, 93-109.",
+        "Verma, M., Verma, A., & Mandala, G. N. (2023). A study of sleep disorders, mental distress, and depression among students during COVID pandemic. Cogent education, 10(2), 2224992.",
+        "Verma, A., Chakraborty, D., & Verma, M. (2023). Barriers of food delivery applications: A perspective from innovation resistance theory using mixed method. Journal of Retailing and Consumer Services, 73, 103369.",
+        "Shamsi, M. S., Verma, A., & Verma, M. (2023). Unveiling millennials’ motivations to purchase smartwatches. Indian Journal of Marketing, 53(12), 63-81.",
+        "Mandala, G. N., Verma, A., & Verma, M. (2022). Consumption patterns during the COVID- 19 pandemic. Journal of Information and Optimization Sciences, 43(6), 1363-1373."
+      ]
+    },
+    {
+      "title": "Research Projects Undertaken",
+      "paragraphs": [
+        "Impact Assessment of CSR activities of GMR Group Nagpur"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "anuj.verma@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/anuj-verma/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/anuj-verma/"
+  ]
+}

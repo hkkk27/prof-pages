@@ -1,0 +1,271 @@
+{
+  "slug": "aditya-vaishya",
+  "name": "Aditya Vaishya",
+  "role": "Associate Professor",
+  "department": "Faculty Fellows",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/aditya-vaishya.jpg",
+  "bio": [
+    "Professor Aditya Vaishya is an Associate Professor at the Division of Mathematical and Physical Sciences, School of Arts and Sciences, Ahmedabad University. He is an Atmospheric Physicist specialising in physicochemical characterisation of atmospheric aerosols in diverse environments, aerosol - radiation interaction under sub-saturated and super-saturate humidity fields, and aerosol instrumentation, and whose research interests include aerosol-cloud-radiation interaction, development of light-weight sensors for atmospheric studies, and air quality modelling."
+  ],
+  "interests": [
+    "Air Quality",
+    "Air Pollution",
+    "Climate Change",
+    "Aerosol Instrumentation"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (National University of Ireland)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Decadal analysis of black carbon aerosols over the central Indo-Gangetic Plain: Trends, source regions, and policy impact",
+      "authors": "BH Abdullah, P Singh, A Vaishya, P Prasad, S Rastogi, MM Gogoi, ...",
+      "venue": "Atmospheric Research 326, 108271",
+      "year": "2025",
+      "url": "",
+      "cited": "9"
+    },
+    {
+      "title": "Addressing observational gaps in aerosol parameters using machine learning: Implications to aerosol radiative forcing",
+      "authors": "M Parmar, A Vaishya, N Ojha, MR Pandya, IA Girach",
+      "venue": "Atmospheric Environment 333, 120661",
+      "year": "2024",
+      "url": "",
+      "cited": "8"
+    },
+    {
+      "title": "Rapid growth and high cloud-forming potential of anthropogenic sulfate aerosol in a thermal power plant plume during COVID lockdown in India",
+      "authors": "A Singh, SS Raj, U Panda, SM Kommula, C Jose, T Liu, S Huang, ...",
+      "venue": "npj Climate and Atmospheric Science 6 (1), 109",
+      "year": "2023",
+      "url": "",
+      "cited": "10"
+    },
+    {
+      "title": "Black carbon over tropical Indian coast during the COVID-19 lockdown: inconspicuous role of coastal meteorology",
+      "authors": "A Vaishya, SS Raj, A Singh, S Sivakumar, N Ojha, SK Sharma, ...",
+      "venue": "Environmental Science and Pollution Research 30 (15), 44773-44781",
+      "year": "2023",
+      "url": "",
+      "cited": "8"
+    },
+    {
+      "title": "Altitude profiles of cloud condensation nuclei characteristics across the Indo-Gangetic Plain prior to the onset of the Indian summer monsoon",
+      "authors": "VN Jayachandran, SN Suresh Babu, A Vaishya, MM Gogoi, VS Nair, ...",
+      "venue": "Atmospheric Chemistry and Physics 20 (1), 561-576",
+      "year": "2020",
+      "url": "",
+      "cited": "32"
+    },
+    {
+      "title": "Airborne in situ measurements of aerosol size distributions and black carbon across the Indo-Gangetic Plain during SWAAMI–RAWEX",
+      "authors": "MM Gogoi, VN Jayachandran, A Vaishya, SNS Babu, SK Satheesh, ...",
+      "venue": "Atmospheric Chemistry and Physics 20 (14), 8593-8610",
+      "year": "2020",
+      "url": "",
+      "cited": "24"
+    },
+    {
+      "title": "Seasonal heterogeneity in aerosol optical properties over the subtropical humid region of northern India",
+      "authors": "P Singh, A Vaishya, S Rastogi, SS Babu",
+      "venue": "Journal of Atmospheric and Solar-Terrestrial Physics 201, 105246",
+      "year": "2020",
+      "url": "",
+      "cited": "24"
+    },
+    {
+      "title": "A European aerosol phenomenology–6: scattering properties of atmospheric aerosol particles from 28 ACTRIS sites",
+      "authors": "M Pandolfi, L Alados-Arboledas, A Alastuey, M Andrade, C Angelov, ...",
+      "venue": "Atmospheric Chemistry and Physics 18 (11), 7877-7911",
+      "year": "2018",
+      "url": "",
+      "cited": "120"
+    },
+    {
+      "title": "Large contrast in the vertical distribution of aerosol optical properties and radiative effects across the Indo-Gangetic Plain during the SWAAMI–RAWEX campaign",
+      "authors": "A Vaishya, SNS Babu, V Jayachandran, MM Gogoi, NB Lakshmi, ...",
+      "venue": "Atmospheric Chemistry and Physics 18 (23), 17669-17685",
+      "year": "2018",
+      "url": "",
+      "cited": "47"
+    },
+    {
+      "title": "Scavenging ratio of black carbon in the Arctic and the Antarctic",
+      "authors": "MM Gogoi, SS Babu, SK Pandey, VS Nair, A Vaishya, IA Girach, ...",
+      "venue": "Polar Science 16, 10-22",
+      "year": "2018",
+      "url": "",
+      "cited": "24"
+    },
+    {
+      "title": "Aerosol black carbon quantification in the central Indo-Gangetic Plain: Seasonal heterogeneity and source apportionment",
+      "authors": "A Vaishya, P Singh, S Rastogi, SS Babu",
+      "venue": "Atmospheric Research 185, 13-21",
+      "year": "2017",
+      "url": "",
+      "cited": "121"
+    },
+    {
+      "title": "Six years of surface remote sensing of stratiform warm clouds in marine and continental air over Mace Head, Ireland",
+      "authors": "J Preißler, G Martucci, G Saponaro, J Ovadnevaite, A Vaishya, ...",
+      "venue": "Journal of Geophysical Research: Atmospheres 121 (24), 14,538-14,557",
+      "year": "2016",
+      "url": "",
+      "cited": "15"
+    },
+    {
+      "title": "Do anthropogenic, continental or coastal aerosol sources impact on a marine aerosol signature at Mace Head?",
+      "authors": "C O'Dowd, D Ceburnis, J Ovadnevaite, A Vaishya, M Rinaldi, MC Facchini",
+      "venue": "Atmospheric Chemistry and Physics 14 (14), 10687-10704",
+      "year": "2014",
+      "url": "",
+      "cited": "63"
+    },
+    {
+      "title": "Is chlorophyll‐a the best surrogate for organic matter enrichment in submicron primary marine aerosol?",
+      "authors": "M Rinaldi, S Fuzzi, S Decesari, S Marullo, R Santoleri, A Provenzale, ...",
+      "venue": "Journal of Geophysical Research: Atmospheres 118 (10), 4964-4973",
+      "year": "2013",
+      "url": "",
+      "cited": "135"
+    },
+    {
+      "title": "Bistable effect of organic enrichment on sea spray radiative properties",
+      "authors": "A Vaishya, J Ovadnevaite, J Bialek, SG Jennings, D Ceburnis, ...",
+      "venue": "Geophysical research letters 40 (24), 6395-6398",
+      "year": "2013",
+      "url": "",
+      "cited": "32"
+    },
+    {
+      "title": "The Eyjafjallajökull ash plume–Part I: Physical, chemical and optical characteristics",
+      "authors": "C O’Dowd, D Ceburnis, J Ovadnevaite, G Martucci, J Bialek, C Monahan, ...",
+      "venue": "Atmospheric Environment 48, 129-142",
+      "year": "2012",
+      "url": "",
+      "cited": "35"
+    },
+    {
+      "title": "Wind‐driven influences on aerosol light scattering in north‐east Atlantic air",
+      "authors": "A Vaishya, SG Jennings, C O'Dowd",
+      "venue": "Geophysical Research Letters 39 (5)",
+      "year": "2012",
+      "url": "",
+      "cited": "23"
+    },
+    {
+      "title": "The Eyjafjallajökull ash plume–Part 2: Simulating ash cloud dispersion with REMOTE",
+      "authors": "C O'Dowd, S Varghese, D Martin, R Flanagan, A McKinstry, D Ceburnis, ...",
+      "venue": "Atmospheric Environment 48, 143-151",
+      "year": "2012",
+      "url": "",
+      "cited": "16"
+    },
+    {
+      "title": "Seasonal variation of the aerosol light scattering coefficient in marine air of the northeast atlantic",
+      "authors": "A Vaishya, SG Jennings, C O′ Dowd",
+      "venue": "Advances in Meteorology 2011 (1), 170490",
+      "year": "2011",
+      "url": "",
+      "cited": "9"
+    },
+    {
+      "title": "Light scattering enhancement factors in the marine boundary layer (Mace Head, Ireland)",
+      "authors": "R Fierz‐Schmidhauser, P Zieger, A Vaishya, C Monahan, J Bialek, ...",
+      "venue": "Journal of Geophysical Research: Atmospheres 115 (D20)",
+      "year": "2010",
+      "url": "",
+      "cited": "62"
+    }
+  ],
+  "teaching": [
+    "FDP102 Environment and Climate Change",
+    "PHY112 Electromagnetic Theory",
+    "PHY121 Laboratory Physics – Mechanics",
+    "PHY122 Laboratory Physics – Electromagnetism",
+    "PHY221 Laboratory Physics – Optics",
+    "PHY230 Introductory Astronomy",
+    "PHY314 Electrical Circuits and Electronics",
+    "PHY321 Laboratory Physics – Electronics",
+    "ENV602 Air Quality",
+    "PHY602 Computational Methods for Physics",
+    "PHY731 Atmospheric Physics",
+    "PHY732 Atmospheric Aerosols"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Air Quality",
+        "Atmospheric aerosols: Aerosol-Cloud-radiation interaction; Physicochemical characterisation; Instrumentation",
+        "Modelling: Aerosol-radiation interaction; Aerosol Thermodynamics",
+        "Satellite remote sensing"
+      ]
+    },
+    {
+      "title": "Awards, Fellowships & Honours",
+      "paragraphs": [
+        "Invited Mentor: INSPIRE Science Camp – 2019, sponsored by the Department of Science and Technology, Organised by Christ College, Rajkot.",
+        "Certificate of reviewer excellence 2018 in recognition of outstanding contributions as a reviewer for the Journal of Earth System Science, Bengaluru, April, 2019.",
+        "Professional travel grant from the American Association for Aerosol Research (AAAR) for presenting my scientific work at the 10th International Aerosol Conference – 2018 at St. Louis, USA.",
+        "Outstanding contribution in reviewing from The Editors of Atmospheric Research, Elsevier, The Netherlands, March, 2018.",
+        "Best paper award: Vaishya A. et al., 'Radiative Implications of Altitudinal Heterogeneity in Aerosol Properties in the Indo-Gangetic Plain', at the International Conference on Understanding, Predicting and Projecting Climate change over the Asian Region (UPCAR - 2017), 26th - 28th June, 2017, Tirupati, India.",
+        "INSPIRE Faculty award by the Department of Science and Technology (DST), Government of India, 2014.",
+        "Post-Doctoral fellowship from the Environmental Protection Agency (EPA), Ireland awarded by the School of Physics, National University of Ireland Galway, Galway, Ireland, May, 2012 – April, 2014.",
+        "Keynote presentation at the Goldschmidt Conference, Florence, Italy, 2013.",
+        "Doctoral fellowship from Global Earth Observation and Monitoring (GEOmon) project awarded by the School of Physics, National University of Ireland Galway, Galway, Ireland, May, 2008 – April, 2012.",
+        "Bursary for attending the European Aerosol Conference (EAC 2011), 4th – 9th September, 2011, Manchester, UK, 2011.",
+        "Junior Research Fellowship by the Council of Scientific and Industrial Research (CSIR), Human Resource Development Group (HRDG), Government of India, 2006.",
+        "Junior Research Fellowship by the Space Applications Centre (SAC), Indian Space Research Organization (ISRO), Ahmedabad, India, 2006.",
+        "Junior Research Fellowship by the Jawaharlal Nehru University (JNU), Central University, New Delhi, India, 2006."
+      ]
+    },
+    {
+      "title": "Professional Services",
+      "paragraphs": [
+        "Reviewer: Journal of Geophysical Research; Scientific Reports; Atmospheric Research; Environmental Pollution; Journal of Earth System Sciences; Environmental Science and Pollution Research; Atmospheric Pollution Research; Physics Education; Journal of the Indian Society of Remote Sensing.",
+        "Scientific steering committee member: URSI RCRS 2024.",
+        "WeATher and Climate Hackathon (WATCH) steering committee member",
+        "Convener: Commission F - Wave Propagation and Remote Sensing (planetary atmospheres, surfaces and sub-surfaces), URSI RCRS 2022.",
+        "Local Coordinator for the Physics Training and Talent Search (PTTS) 2022 summer school, July 1st – July 21st 2022, which was hosted by Ahmedabad University and funded by the Infosys Science Foundation.",
+        "Local Coordinator for the Physics Training and Talent Search (PTTS) 2021 summer school, July 3rd – July 25th 2021, which was hosted by Ahmedabad University and funded by the Infosys Science Foundation.",
+        "Panel member: Grant Writing Webinar Series - DST INSPIRE Faculty Fellowship, Organized by SCI-ROI on 3rd April, 2021.",
+        "Session Co-Convener of the Special Session under Commission F, namely Remote Sensing of Composition, Chemistry and Climatic aspects of Atmosphere (Sub-Commission F12) in URSI Regional Conference on Radio Science during 12-14 February, 2020.",
+        "Panel member: 7th Panel Discussion of Discussion Forum for Online Teaching - Virtual Laboratories and Online Field work: Practicals during the Pandemic November 22nd, 2020.",
+        "Teacher: Advanced B.Sc. (Physics) Summer Programme – 2019, sponsored by Gujarat Science Academy and Vikram A. Sarabhai Community Science Centre and organised by St. Xavier’s College, Ahmedabad.",
+        "Technical Organizing Committee member, representing Ahmedabad University, for the INAC – 4 conference, 26-27 September, 2019, held at the Space Applications Centre (SAC), Ahmedabad and organized by the Indian Society of Systems for Science & Engineering (ISSE) - Ahmedabad Chapter and SAC.",
+        "Organizing Committee Member of the Students’ Special Symposium (S3) on 27th September, 2019 at the Space Applications Centre, Ahmedabad.",
+        "Society Member: Indian Aerosol Science and Technology Association (IASTA); Kerala Academy of Sciences (KAS); Indian Radio Science Society (InRaSS)"
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "867",
+    "h_index": "15"
+  },
+  "contact": {
+    "email": "aditya.vaishya@ahduni.edu.in",
+    "phone": "+91.79.61911520",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/international-centre-for-space-and-cosmology/people/aditya-vaishya/",
+    "scholar": "https://scholar.google.com/citations?user=x4j32f8AAAAJ&hl=en",
+    "orcid": "https://orcid.org/0000-0001-7415-5572",
+    "linkedin": "https://www.linkedin.com/in/aditya-vaishya-56381636",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/international-centre-for-space-and-cosmology/people/aditya-vaishya/",
+    "https://scholar.google.com/citations?user=x4j32f8AAAAJ&hl=en"
+  ]
+}

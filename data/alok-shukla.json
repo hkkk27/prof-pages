@@ -1,0 +1,249 @@
+{
+  "slug": "alok-shukla",
+  "name": "Alok Shukla",
+  "role": "Assistant Professor",
+  "department": "Faculty Fellows",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/alok-shukla.jpg",
+  "bio": [
+    "Alok Shukla is an Assistant Professor in the Mathematical and Physical Sciences division of the School of Arts and Sciences at Ahmedabad University. He received a Bachelor of Engineering degree in Electrical and Electronics Engineering from Birla Institute of Technology, Ranchi, and a MA and PhD in Mathematics from the University of Oklahoma, USA. He was selected for several scholarship awards by the Department of Mathematics at Oklahoma during his PhD, including the John Clark Brixey Graduate Scholarship award in 2015, and the Richard V. Andree Memorial Scholarship awards for academic excellence in 2016 and 2017. After receiving his PhD in 2018, Professor Shukla joined the Department of Mathematics at the University of Manitoba, Canada, as a Postdoctoral Fellow.",
+    "Prior to pursuing his doctoral studies in Mathematics, Professor Shukla worked for HAL (Hindustan Aeronautical Limited) for several years, first on the Avionics system of MiG-27 fighter aircraft, and later in the final assembly section of ALH (Advanced Light Helicopter), Dhruv. He learned the basics of Aeronautical Engineering in a special one-semester programme at IIT, Madras in 2004. He has also worked as a software engineer for IBM and TCS, for about a year in each organisation. In addition to research in Mathematics, he enjoys teaching the subject to students. Professor Shukla has organised several maths-popularisation and community outreach events to spread the ‘Joy of Mathematics’ among young students."
+  ],
+  "interests": [
+    "Modular Forms",
+    "Automorphic Forms And Representations",
+    "Quantum Computing."
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (University of Oklahoma)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Toward Practical Quantum Phase Estimation: A Modular, Scalable, and Adaptive Approach",
+      "authors": "A Shukla, P Vedula",
+      "venue": "Advanced Quantum Technologies 9 (3), e00683",
+      "year": "2026",
+      "url": "",
+      "cited": "12"
+    },
+    {
+      "title": "Towards Chemically Accurate and Scalable Quantum Simulations on IQM Quantum Hardware: A Quantum-HPC Hybrid Approach",
+      "authors": "AK Patra, M Mukherjee, A Shukla, R Bhat",
+      "venue": "arXiv preprint arXiv:2604.01983",
+      "year": "2026",
+      "url": "",
+      "cited": "3"
+    },
+    {
+      "title": "An efficient implementation of a quantum search algorithm for arbitrary",
+      "authors": "A Shukla, P Vedula",
+      "venue": "The European Physical Journal Plus 140 (6), 575",
+      "year": "2025",
+      "url": "",
+      "cited": "12"
+    },
+    {
+      "title": "Efficient quantum algorithm for weighted partial sums and numerical integration",
+      "authors": "A Shukla, P Vedula",
+      "venue": "Advanced Quantum Technologies 8 (10), e2500084",
+      "year": "2025",
+      "url": "",
+      "cited": "6"
+    },
+    {
+      "title": "Modular Quantum Amplitude Estimation: A Scalable and Adaptive Framework",
+      "authors": "A Shukla, P Vedula",
+      "venue": "arXiv preprint arXiv:2508.05805",
+      "year": "2025",
+      "url": "",
+      "cited": "3"
+    },
+    {
+      "title": "Quantum algorithm for edge detection in digital grayscale images",
+      "authors": "M Rohida, A Shukla, P Vedula",
+      "venue": "arXiv preprint arXiv:2507.06642",
+      "year": "2025",
+      "url": "",
+      "cited": "3"
+    },
+    {
+      "title": "An efficient quantum algorithm for preparation of uniform quantum superposition states",
+      "authors": "A Shukla, P Vedula",
+      "venue": "Quantum Information Processing 23 (2), 38",
+      "year": "2024",
+      "url": "",
+      "cited": "76"
+    },
+    {
+      "title": "Hybrid classical-quantum image processing via polar Walsh basis functions",
+      "authors": "M Rohida, A Shukla, P Vedula",
+      "venue": "Quantum Machine Intelligence 6 (2), 72",
+      "year": "2024",
+      "url": "",
+      "cited": "7"
+    },
+    {
+      "title": "A quantum approach for optimal control",
+      "authors": "H Sandesara, A Shukla, P Vedula",
+      "venue": "Quantum Inf Process 24, 95 (2025)",
+      "year": "2024",
+      "url": "",
+      "cited": "4"
+    },
+    {
+      "title": "On sequency-complete and sequency-ordered matrices",
+      "authors": "A Shukla, P Vedula",
+      "venue": "arXiv preprint arXiv:2402.11003",
+      "year": "2024",
+      "url": "",
+      "cited": "3"
+    },
+    {
+      "title": "A hybrid classical-quantum algorithm for solution of nonlinear ordinary differential equations",
+      "authors": "A Shukla, P Vedula",
+      "venue": "Applied Mathematics and Computation 442, 127708",
+      "year": "2023",
+      "url": "",
+      "cited": "39"
+    },
+    {
+      "title": "A hybrid classical-quantum algorithm for digital image processing",
+      "authors": "A Shukla, P Vedula",
+      "venue": "Quantum Information Processing 22 (1), 1-19",
+      "year": "2023",
+      "url": "",
+      "cited": "31"
+    },
+    {
+      "title": "A generalization of Bernstein–Vazirani algorithm with multiple secret keys and a probabilistic oracle",
+      "authors": "A Shukla, P Vedula",
+      "venue": "Quantum Information Processing 22 (6), 244",
+      "year": "2023",
+      "url": "",
+      "cited": "18"
+    },
+    {
+      "title": "A quantum approach for digital signal processing",
+      "authors": "A Shukla, P Vedula",
+      "venue": "The European Physical Journal Plus 138 (12), 1121",
+      "year": "2023",
+      "url": "",
+      "cited": "15"
+    },
+    {
+      "title": "A quantum algorithm for counting zero-crossings",
+      "authors": "A Shukla",
+      "venue": "arXiv preprint arXiv:2212.11814",
+      "year": "2022",
+      "url": "",
+      "cited": "6"
+    },
+    {
+      "title": "Trajectory optimization using quantum computing",
+      "authors": "A Shukla, P Vedula",
+      "venue": "Journal of Global Optimization 75 (1), 199-225",
+      "year": "2019",
+      "url": "",
+      "cited": "30"
+    },
+    {
+      "title": "On teaching mathematics to gifted students: some enrichment ideas and educational activities",
+      "authors": "A Shukla",
+      "venue": "arXiv preprint arXiv:1911.10726",
+      "year": "2019",
+      "url": "",
+      "cited": "11"
+    },
+    {
+      "title": "On klingen eisenstein series with level in degree two",
+      "authors": "R Schmidt, A Shukla",
+      "venue": "J. Ramanujan Math. Soc 34 (4), 373-388",
+      "year": "2019",
+      "url": "",
+      "cited": "5"
+    },
+    {
+      "title": "A Short Proof of Cayley's Tree Formula",
+      "authors": "A Shukla",
+      "venue": "The American Mathematical Monthly 125 (1), 65-68",
+      "year": "2018",
+      "url": "",
+      "cited": "14"
+    },
+    {
+      "title": "Codimensions of the spaces of cusp forms for Siegel congruence subgroups in degree two",
+      "authors": "A Shukla",
+      "venue": "Pacific Journal of Mathematics 293 (1), 207-244",
+      "year": "2017",
+      "url": "",
+      "cited": "6"
+    }
+  ],
+  "teaching": [
+    "Winter 2026",
+    "MAT248 - Applied Linear Algebra",
+    "Monsoon 2025",
+    "MAT485 / MAT585 - Introduction to Quantum Computing",
+    "MAT312 - Abstract Algebra",
+    "Winter 2025",
+    "Monsoon 2024",
+    "CSC210 - Introduction to Data Structures and Algorithms",
+    "MAT123 - Precalculus",
+    "Winter 2024",
+    "FDP - Foundation Programme (ECC Module - I)",
+    "Monsoon 2023"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Professor Alok Shukla's research interests spans number theory and quantum computing, with a growing emphasis on fundamental quantum algorithm design inspired by symmetry and spectral methods.",
+        "A central direction of his research is the development of resource-efficient quantum algorithmic primitives that remain practical on noisy quantum hardware. His work focuses on reducing circuit depth, qubit requirements, and error sensitivity in foundational quantum subroutines.",
+        "He developed a deterministic algorithm for preparing uniform superposition quantum states for arbitrary problem sizes, including cases where the number of basis states is not a power of two (A. Shukla, P. Vedula, Quantum Information Processing, 23, 38 (2024)). The construction achieves logarithmic gate complexity without ancillary qubits, providing an exponential improvement over previous deterministic methods.",
+        "The algorithm has been incorporated into major quantum software frameworks as the UniformSuperpositionGate:",
+        "Cirq Documentation",
+        "Qiskit Release Notes #1.2",
+        "Preparing a uniform superposition state is a fundamental subroutine in quantum computation and typically forms the first step in many important quantum algorithms, including Grover’s search.",
+        "Professor Shukla also introduced Adaptive Windowed Quantum Phase Estimation (AWQPE). Standard quantum phase estimation extracts all bits of an eigenvalue using a single long coherent circuit acting on many qubits, making it highly sensitive to noise and hardware limitations.",
+        "AWQPE replaces this with a sequence of short quantum circuits that estimate small blocks of phase bits independently. After each block, classical processing updates the next circuit. Because errors remain localized instead of propagating across the entire computation, the method substantially improves robustness and reduces the number of simultaneously active qubits.",
+        "reduced qubit footprint",
+        "improved robustness to decoherence",
+        "selective repetition of uncertain bits",
+        "parallel and distributed execution",
+        "The framework extends naturally to amplitude estimation and modular implementations of Shor-type algorithms.",
+        "In addition, Professor Shukla studies hybrid classical-quantum algorithms based on structured transforms. Using Walsh–Hadamard basis methods, he developed algorithms for nonlinear differential equations, signal processing, and image processing that improve computational complexity relative to classical transform approaches.",
+        "Number Theory and Combinatorics",
+        "Professor Shukla’s mathematical research focuses on automorphic forms and modular forms, particularly Siegel modular forms of degree two and their associated L-functions.",
+        "He developed a representation-theoretic construction of Klingen Eisenstein series of arbitrary level, extending classical constructions to paramodular and Siegel congruence subgroups. He also established pullback formulas relating Fourier coefficients of Siegel modular forms to special values of automorphic L-functions. His work includes an explicit formula for the co-dimension of cusp forms in spaces of Siegel modular forms, extending previous results to broader level structures."
+      ]
+    }
+  ],
+  "metrics": {
+    "citations": "311",
+    "h_index": "10"
+  },
+  "contact": {
+    "email": "alok.shukla@ahduni.edu.in",
+    "phone": "+91.79.61911000",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/international-centre-for-space-and-cosmology/people/alok-shukla/",
+    "scholar": "https://scholar.google.com/citations?user=5KVZmTMAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0000-0001-5765-3166",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/international-centre-for-space-and-cosmology/people/alok-shukla/",
+    "https://scholar.google.com/citations?user=5KVZmTMAAAAJ&hl=en"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "jyotsna-rosario",
+  "name": "Jyotsna Rosario",
+  "role": "Assistant Professor (Economics)",
+  "department": "School of Liberal Arts and Sciences",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/jyotsna-rosario.jpg",
+  "bio": [
+    "Dr. Jyotsna Rosario is an Assistant Professor of Economics at Vidyashilp University (VU). Before joining VU, she worked as the Research Manager of the Tamil Nadu Household Panel Survey Project at Madras Institute of Development Studies, Chennai. She holds a Ph.D from the Madras School of Economics, University of Madras. Her doctoral research examines critical concerns related to public elementary education in Indian states, which hinder the successful implementation of the Right to Education Act. She also holds a Master of Philosophy (M.Phil) degree in Economics from Ranchi University, Ranchi, and a Master of Arts (M.A.) degree in Economics from Loyola College, Chennai. Her M.Phil dissertation examined the interlinkages between income inequality and educational inequality in Indian states. Her main research areas are the economics of education, developmental economics, and public finance. Prior to her Ph.D, she taught undergraduate courses in economics."
+  ],
+  "interests": [],
+  "positions": [
+    {
+      "title": "Research Manager",
+      "org": "Tamil Nadu Household Panel Survey Project",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    },
+    {
+      "title": "Economics Faculty",
+      "org": "Doranda College",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Economics",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Elementary education outcome efficiency of Indian state governments: a generalized stochastic frontier approach",
+      "authors": "",
+      "venue": "Journal of Economic Studies",
+      "year": "2025",
+      "url": "https://doi.org/10.1108/JES-11-2023-0649"
+    },
+    {
+      "title": "Designing Health Equalization Transfers to Indian States",
+      "authors": "",
+      "venue": "",
+      "year": "2025",
+      "url": "https://doi.org/10.1007/978-981-96-2860-5_15"
+    },
+    {
+      "title": "Assessing Technical Efficiency in the Provision of Elementary Education Across Indian States",
+      "authors": "",
+      "venue": "Margin: The Journal of Applied Economic Research",
+      "year": "2024",
+      "url": "https://doi.org/10.1177/00252921241295279"
+    },
+    {
+      "title": "Impact of transfers on elementary education expenditure and measuring equalisation transfers to Indian States",
+      "authors": "",
+      "venue": "Indian Economic Review",
+      "year": "2023",
+      "url": "https://doi.org/10.1007/s41775-023-00190-z"
+    },
+    {
+      "title": "Determining fiscal equalization transfers for elementary education to Indian States",
+      "authors": "",
+      "venue": "Journal of the Asia Pacific Economy",
+      "year": "2021",
+      "url": "https://doi.org/10.1080/13547860.2021.2012981"
+    }
+  ],
+  "teaching": [
+    "Public Economics,",
+    "Macroeconomics,",
+    "Developmental Economics,",
+    "Economics of Health and Education,",
+    "Introduction to Economics."
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research Interests",
+      "paragraphs": [
+        "Economics of Education- public education and its financing, barriers to education, education outcome efficiency, educational inequality",
+        "Public Finance- public provision of merit goods such as health and education, fiscal equalisation, expenditure efficiency",
+        "Developmental Economics- interlinkages between education, health and economic development; measurement and redressal of economic and social inequality"
+      ]
+    },
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Shanmugam, K. R., & Rosario, J. (2025). Designing Health Equalization Transfers to Indian States. In India's Public Finance and Policy Challenges in the 2020s (pp. 265-290). Springer, Singapore. Read More",
+        "Rosario, J., & Shanmugam, K. R. (2024). Assessing Technical Efficiency in the Provision of Elementary Education Across Indian States. Margin: The Journal of Applied Economic Research, 18(1-2), 160-180. Read More",
+        "Rosario, J., & Shanmugam, K. R. (2024). Elementary education outcome efficiency of Indian state governments: a generalized stochastic frontier approach. Journal of Economic Studies. Read More",
+        "Rosario, J., & Shanmugam, K. R. (2023). Impact of transfers on elementary education expenditure and measuring equalisation transfers to Indian States. Indian Economic Review, 1-28. Read More"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "jyotsna.rosario@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/jyotsna-rosario/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0001-6176-5929",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/jyotsna-rosario/"
+  ]
+}

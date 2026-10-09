@@ -1,0 +1,235 @@
+{
+  "slug": "kavya-salim",
+  "name": "Kavya Salim",
+  "role": "Assistant Professor",
+  "department": "School of Law",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/kavya-salim.jpg",
+  "bio": [
+    "Kavya Salim is an enthusiastic scholar of the law with expertise in Human Rights Law and Public Health Law. She is an Assistant Professor at the School of Law, Vidyashilp University, Bangalore.",
+    "She earned a Master of Laws Degree (LL.M.) in Human Rights Law that focused on the International, Regional and National aspects of Human Rights Law from the prestigious National Law Institute University, Bhopal. She holds a five-year integrated B.A., LL.B. (Hons.) Degree from the School of Indian Legal Thought, Mahatma Gandhi University, Kerala. Her enthusiasm for human rights laws and public health laws drove her to choose the topic “Public Health Interventions to Control Infectious Disease Outbreaks: Human Rights Dimensions” for her Doctoral research way before the pandemic broke out, and she was awarded PhD for her thesis from the Department of Law, Central University of Kerala. She is also certified by the UGC for lectureship (UGC-NET-2012).",
+    "As a student, she was exposed through her internships with the Women’s Commission of the State of Kerala, the National Human Rights Commission, New Delhi and the UNAIDS, Bhopal to various social issues and least explored social and public health concerns in India. At the very beginning of her professional journey, she associated with the Bureau of Police Research and Development (BPR&D), Ministry of Home Affairs, Government of India for the National Law Institute University as the key Research Associate for a major project, through which she was able to understand and experience the struggles of over 1000 women in the northern states of India who are victims of crimes against women and girl children and their turmoil with the law and the legal systems in India.",
+    "She has chaired, moderated, and delivered expert talks at prestigious international and national conferences, seminars, lectures, and panel discussions on legal and multidisciplinary areas. She was also invited to judge the prestigious international and national moot court competitions and partake in international MUN Conferences at collegiate and school levels. Besides the above, she has trained students to win National and International Moot Court Competitions on Constitutional Law, Public International Law, Criminal Law and Human Rights Law, and Trial Advocacy and Client Counselling Competitions.",
+    "She has many papers to her credit where she explores various issues on Human Rights, Public Health Laws, the intersection of Public Health and Libertarian values and the intersection of public health and Space Law. She also has a keen interest in exploring the importance and relevance of design thinking to upscale legal research and legal education."
+  ],
+  "interests": [
+    "Human Rights Law",
+    "Public Health Law",
+    "Libertarian Values"
+  ],
+  "positions": [
+    {
+      "title": "Research Associate",
+      "org": "BPR&D, Ministry of Home Affairs",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    },
+    {
+      "title": "Senior Assistant Professor",
+      "org": "School of Law, UPES, Dehradun",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    },
+    {
+      "title": "Senior Assistant Professor",
+      "org": "School of Law,Presidency University, Bengaluru",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD - Law [Central University of Kerala].",
+      "org": "",
+      "year": ""
+    },
+    {
+      "degree": "Master of Laws in Human Rights Law [Two-year LL.M. program], National Law Institute University, Bhopal, Madhya Pradesh.",
+      "org": "",
+      "year": ""
+    },
+    {
+      "degree": "Degree of Bachelor of Arts and Laws (Hons.) [Five- year BA., LL.B. (Hons.) program], School of Indian Legal Thought, Mahatma Gandhi University, Kerala",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [
+    {
+      "title": "Human Rights Engineering of Digital Contact Tracing: A Solution for Justifiable Pandemic Control and Against Post-Pandemic State Overreach on Human Rights",
+      "authors": "",
+      "venue": "",
+      "year": "2026",
+      "url": "https://doi.org/10.2139/ssrn.6079167"
+    },
+    {
+      "title": "Artificial Intelligence in Reproductive Medicine and Gender Rights: Ethical Concerns, Perspective Formed and Framework Established",
+      "authors": "",
+      "venue": "Reproductive Health Rights and Gender Equality ISBN: 978-81-977119-9-2",
+      "year": "2025",
+      "url": ""
+    },
+    {
+      "title": "Human Rights Engineering of Digital Contact Tracing: A Solution for Justifiable Pandemic Control and Against Post-Pandemic State Overreach on Human Right",
+      "authors": "",
+      "venue": "MSR Journal of Law (MSRJL)",
+      "year": "2025",
+      "url": ""
+    },
+    {
+      "title": "Navigating the Future: Essential Skills for Futuristic Lawyers",
+      "authors": "",
+      "venue": "",
+      "year": "2024",
+      "url": ""
+    },
+    {
+      "title": "Balancing Public Health and Human Rights: A Call for Ethical Digital Contact Tracing, (2024).",
+      "authors": "",
+      "venue": "International Conference on Sustainable Development: Science, Technology, and Human Rights",
+      "year": "2024",
+      "url": ""
+    },
+    {
+      "title": "Vaccine Mandates during the Covid-19 Pandemic: Justifying it in the Libertarian Framework",
+      "authors": "",
+      "venue": "",
+      "year": "2022",
+      "url": ""
+    },
+    {
+      "title": "Using Design Thinking Methods to Prevent Plagiarism in Legal Research Writing",
+      "authors": "",
+      "venue": "National Seminar on ‘Research Integrity And Publication Ethics’",
+      "year": "2022",
+      "url": ""
+    },
+    {
+      "title": "Quarantining Tourist Missions Returning From Mars: What Law Must Address and Where Must Power Lie to Avoid Possible Biocontamination on Earth?",
+      "authors": "",
+      "venue": "the International Conference on ‘Space Tourism: Legal Dimensions’ .",
+      "year": "2022",
+      "url": ""
+    },
+    {
+      "title": "Ensuring Right to Menstrual Hygiene and Health in India: A Microcosm of Right to Life",
+      "authors": "",
+      "venue": "Expanding Horizons of Article 21 of Indian Constitution: A Critique",
+      "year": "2021",
+      "url": ""
+    },
+    {
+      "title": "Immunity Passports and the Necessity of Human Rights Compliance by States: A Normative Critique",
+      "authors": "",
+      "venue": "Journal of International Law and Comity",
+      "year": "2021",
+      "url": ""
+    },
+    {
+      "title": "Menstrual Rights & COVID -19 related Lockdown: Cure for Gender Blindness & Gender Inconvenience",
+      "authors": "",
+      "venue": "PANDEMICS: HEALTH, HUMAN RIGHTS & INTELLECTUAL PROPERTY RIGHTS PERSPECTIVES -ISBN -978-81-945680-9-4",
+      "year": "2021",
+      "url": ""
+    },
+    {
+      "title": "Access to Handwashing during COVID-19: Need for a Human Right-Focused Approach to Ensure Right to Health",
+      "authors": "",
+      "venue": "CULR - Volume 1",
+      "year": "2021",
+      "url": ""
+    },
+    {
+      "title": "Ripples in the International Law for controlling the Emerging Infectious Diseases",
+      "authors": "",
+      "venue": "",
+      "year": "2021",
+      "url": "https://doi.org/10.2139/ssrn.3916037"
+    },
+    {
+      "title": "Tensions between Paternalism and Libertarian Values in Public Health: A Case for Strong Laws to Curb the Epidemics of Lifestyle Diseases in India",
+      "authors": "",
+      "venue": "LIBERTY: NEW FACETS AND CHANGING DIMENSIONS (2020)",
+      "year": "2020",
+      "url": ""
+    },
+    {
+      "title": "Health Care emergency",
+      "authors": "",
+      "venue": "",
+      "year": "2019",
+      "url": ""
+    },
+    {
+      "title": "A study on the adaptation (preparedness) strategies and measures adopted to address climate change- induced infectious diseases in Asia",
+      "authors": "",
+      "venue": "National Seminar on Climate Change Challenges in India: Role of Law, Policy and Management.",
+      "year": "2018",
+      "url": ""
+    },
+    {
+      "title": "Ripples in the International Law for controlling the Emerging Infectious Diseases",
+      "authors": "",
+      "venue": "International Interdisciplinary Seminar on Realisation of Human Rights in a Globalised World",
+      "year": "2018",
+      "url": ""
+    }
+  ],
+  "teaching": [
+    "Law of Tort (Semester I)"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Kavya Salim, Navigating the Future: Essential Skills for Futuristic Lawyers, Friday, 05th April 2024, 22:02 IST. Read More",
+        "Kavya Salim, \"Immunity Passports And The Necessity Of Human Rights Compliance By States: A Normative Critique\" 2:1 J. INT’L LAW & COM. 52 (2021) (ISSN: 2582-6646).",
+        "Kavya Salim et al., \"Menstrual Rights & COVID -19 related Lockdown: Cure for Gender Blindness & Gender Inconvenience in PANDEMICS: HEALTH, HUMAN RIGHTS & INTELLECTUAL PROPERTY RIGHTS PERSPECTIVES\" (ISBN: 978-81-945680-9-4 - Double-blind peer-reviewed book) pg. 92-112 (2021), published by the Centre for Health Law, Centre for Human Rights, Centre for Intellectual Property Rights, National University of Advanced Legal Studies, Kochi.",
+        "Kavya Salim et al., \"Ensuring Right to Menstrual Hygiene and Health in India: A Microcosm of Human Rights\" in EXPANDING HORIZONS OF ARTICLE 21 OF INDIAN CONSTITUTION: A CRITIQUE (Dr. Bindu Sangra and Dr. Balwinder Singh (eds.)) (ISBN: 978-93-88918-39-8 - Double-blind peer-reviewed edited book) pg. 142-166 (2021) published by The Delhi Law House, New Delhi.",
+        "Kavya Salim, \"Tensions between Paternalism and Libertarian Values in Public Health: A Case for Strong Laws to Curb the Epidemics of Lifestyle Diseases in India\" in LIBERTY: NEW FACETS AND CHANGING DIMENSIONS (ISBN: 978-81-945680-1-8 - Double-blind peer-reviewed book) pp. 281-303 (2020) published by the Centre for Parliamentary Studies and Law Reforms, National University of Advanced Legal Studies, Kochi."
+      ]
+    },
+    {
+      "title": "Selected Presentations",
+      "paragraphs": [
+        "Presented a paper at the International Conference on Sustainable Development: Science, Technology, and Human Rights, organized by the School of Law, Christ (Deemed To Be University), Delhi-NCR Campus, in collaboration with General Sir John Kotelawala Defence University, Sri Lanka, with participating institutions such as General Sir John Kotelawala Defence University, Sri LankaUniversité Catholique De Lille, France; Loyola Marymount University, LA, USA; and University Of Peradeniya, Sri Lanka, held on March 14th, 2024. Kavya Salim (first author), Balancing Public Health and Human Rights: A Call for Ethical Digital Contact Tracing, (2024).",
+        "Presented a paper at the National Seminar on ‘Research Integrity and Publication Ethics’ held from 11th March – 13th March 2022, organised by the National University of Advanced Legal Studies, Kochi. Kavya Salim et. al., \"Using Design Thinking Methods to Prevent Plagiarism in Legal Research Writing\" (2022).",
+        "Presented a paper at the International Conference on ‘Space Tourism: Legal Dimensions’ held on 29th January 2022, organised by the Centre for Aviation & Space Laws, The West Bengal National University of Juridical Sciences, Kolkata, West Bengal. Kavya Salim, \"Quarantining Tourist Missions Returning from Mars: What Law Must Address and Where Must Power Lie to Avoid Possible Biocontamination on Earth?\"",
+        "Presented a paper at the International Webinar on Law, Public Health and Pandemics: Changing Dimensions of Right to Health held from 30th November to 1st December 2020, organised by the Department of Law, Central University of Kerala. Kavya Salim, \"Access to Handwashing in India: Need for a Human Right-Focused Approach in State Actions to prevent the spread of COVID-19.\"",
+        "Presented a co-authored paper at the National Seminar on Climate Change Challenges in India: Role of Law, Policy and Management, held on 15th June 2018 at NLSIU, Bangalore. Kavya Salim et al., \"A study on the adaptation (preparedness) strategies and measures adopted to address climate change-induced infectious diseases in Asia\" (2018).",
+        "Presented a co-authored paper at the International Interdisciplinary Seminar on Realisation of Human Rights in a Globalised World held on 5th January 2018 at the Department of Law, Central University of Kerala. Kavya Salim et al., \"Ripples in the International Law for Controlling the Emerging Infectious Diseases,\" Conference Proceedings – ISBN -978-93-5267-019-2, pg 155-157, (2018)."
+      ]
+    },
+    {
+      "title": "Invited Presentations/Chair",
+      "paragraphs": [
+        "Invited Resource Person at the Two-Day National Seminar on “Public Health System at the Grassroot Level in India: Regulatory and Policy Level Approach”, on 17th & 18th of January, 2024 and delivered on the topic “Navigating the Ethical and Legal Landscape in AI-Powered Healthcare”.",
+        "Guest Speaker for the Invited Guest Lecture Series on State Policies on Vaccine Passports and other Coercive Mandates organised by the Centre for Public Health Law, National Law University, Odisha, held on 28th March 2022, on the topic Vaccine Mandates during the COVID-19 Pandemic: Justifying it in the Libertarian Framework.",
+        "Invited speaker at the Workshop on the Right to Emergency Medical Care Bill held on 17th January 2019 at the School of Indian Legal Thought, Mahatma Gandhi University, Kottayam",
+        "Invited Chaired and moderated a session in the National Seminar on Law and Morality in the context of Rights of Sexual Minorities, held on 11th October 2018, at the Department of Law, Central University of Kerala."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "kavya.s@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/kavya-salim/",
+    "scholar": "",
+    "orcid": "https://orcid.org/0000-0003-1659-1637",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/kavya-salim/"
+  ]
+}

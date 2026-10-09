@@ -1,0 +1,63 @@
+{
+  "slug": "spandan-roy",
+  "name": "Spandan Roy",
+  "role": "Assistant Professor",
+  "department": "Economics and Public Policy",
+  "university": "Ahmedabad University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/spandan-roy.jpg",
+  "bio": [
+    "Professor Spandan Roy pursued his PhD in Economics at Iowa State University, where he also earned an MS in Economics. He holds an MA in Economics from the Delhi School of Economics, University of Delhi, and a BE in Mechanical Engineering from Jadavpur University. His academic interests lie at the intersection of macroeconomics, structural transformation, monetary policy, taxation, and development."
+  ],
+  "interests": [
+    "Macroeconomics",
+    "Structural Transformation",
+    "Monetary policy",
+    "Optimal Taxation"
+  ],
+  "positions": [],
+  "education": [
+    {
+      "degree": "PhD (Iowa State University)",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Principles of Microeconomics, Principles of Macroeconomics, International Economics, Macroeconomic Analysis, Advanced Macroeconomic Analysis"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Research",
+      "paragraphs": [
+        "Professor Spandan Roy’s research focuses on macroeconomic development, structural transformation, human capital accumulation, monetary policy, taxation, and public finance. His job market paper, “Endogenous Human Capital Growth and Structural Transformation”, studies how human capital accumulation and changes in demand patterns shape the movement of economies across agriculture, manufacturing, and services. In his co-authored paper, “Optimal Taxation with Debt-financed Capital in an Impoverished Economy,” Professor Roy studies how tax instruments, debt maturity, and household preferences affect welfare and policy design in a small open economy. His broader research agenda also includes work on portfolio choice, liquidity shocks, and exchange rate regimes."
+      ]
+    },
+    {
+      "title": "Publications",
+      "paragraphs": [
+        "Kar, S., Pritchett, L., Roy, S., and Sen, K. (2022). “Doing business in a deals world: The doubly false premise of rules reform.” Journal of Economic Policy Reform, 25(4), 361–387. https://doi.org/10.1080/17487870.2022.2125391",
+        "Roy, S., & Shekhar, M. (2026). Mimicking reforms: Realities of Angola [Grant report]. Structural Transformation and Economic Growth: Ideas for Transformation Grant."
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "spandan.roy@ahduni.edu.in",
+    "phone": "+91.79.61911487",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/spandan-roy/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "https://www.linkedin.com/in/spandan-roy-0b907b25/",
+    "website": ""
+  },
+  "sources": [
+    "https://ahduni.edu.in/academics/schools-centres/amrut-mody-school-of-management/faculty/spandan-roy/"
+  ]
+}

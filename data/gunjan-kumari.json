@@ -1,0 +1,85 @@
+{
+  "slug": "gunjan-kumari",
+  "name": "Gunjan Kumari",
+  "role": "Assistant Professor",
+  "department": "School of Liberal Arts and Sciences",
+  "university": "Vidyashilp University",
+  "location": "",
+  "tagline": "",
+  "photo": "/photos/gunjan-kumari.jpg",
+  "bio": [
+    "Her research focuses on Applied Microeconomics, Development Economics, and International Economics. She has published her research in internationally peer-reviewed journals, including the European Journal of Health Economics and Energy Policy. She has teaching experience at the University of Delhi and presented her research work at leading national and international conferences in India and Abroad."
+  ],
+  "interests": [
+    "Applied Microeconomics",
+    "Development Economics",
+    "International Trade"
+  ],
+  "positions": [
+    {
+      "title": "Guest Faculty",
+      "org": "University of Delhi",
+      "start": "",
+      "end": "",
+      "note": "Former"
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.A., M.A., PhD",
+      "org": "",
+      "year": ""
+    }
+  ],
+  "publications": [],
+  "teaching": [
+    "Microeconomics",
+    "International Economics",
+    "Foundations of Gender Studies: Gender and Economics"
+  ],
+  "awards": [],
+  "sections": [
+    {
+      "title": "Selected Publications",
+      "paragraphs": [
+        "Kumari, G., & Mohanty, S. (2026). From growth to governance: What drives energy consumption in Sub-Saharan Africa?. Energy Policy, 215, 115284. Know More",
+        "Kumari, G., & Dey, O. (2024). Can redistribution of vaccine improve global welfare? Lessons from COVID-19. The European Journal of Health Economics, 25(7), 1217-1238. Know More",
+        "Kumari, G., Dey, O., & Chakraborty, D. (2026). Reputational Impact on Drugs Quality and Pharmaceutical Exports. Journal of Asian and African Studies. Know More",
+        "Kumari, G., & Dey, O., Beyond Public Insurance: How Confidence in Public Hospitals Affects Healthcare Decision? Journal of Health Management. Forthcoming",
+        "Kumari, G., Dey, O., & Chakravarty, D. (2026). Feeding the Divide: Do Nutritional Disparities Drive the Gender Wage Gap in South Asia? Know More",
+        "Kumari, G., (2025). The Impact of AfCFTA on Economic Growth: A Panel Data Analysis of African Countries, Global Flux – A Kaleidoscope of Challenges and Opportunities. Know More"
+      ]
+    },
+    {
+      "title": "Conference Presentations",
+      "paragraphs": [
+        "Annual Workshop on Sustainable Energy Transitions Initiative, Gothenburg, Sweden (2025)",
+        "3 rd Asian Economic Development Conference on Economic Development at Seoul National University, Republic of Korea (2024)",
+        "5 th International Conference on Entrepreneurship and Business Sustainability, Sherubtse College Auditorium Kanglung, Bhutan (2024)",
+        "International conference on Recent Developments in Economics Research: Theory and Evidence, Centre for International Trade and Development, JNU (2024)",
+        "Annual Conference of the Indian Econometric Society, Tripura University (2024)",
+        "Annual Conference in Economics and Finance, Department of Economics and Finance, BITS Hyderabad (2024)",
+        "Annual Conference on Contemporary Issues in Development Economics, Jadavpur University (2023)",
+        "International Conference on Public Policy & Management, IIM Bangalore (2023)",
+        "International Conference on Economics and Public Policy, IIM Shillong (2023)",
+        "Empirical Issues in International Trade and Finance, IIFT Delhi (2022)"
+      ]
+    }
+  ],
+  "metrics": {},
+  "contact": {
+    "email": "gunjan.kumari@vidyashilp.edu.in",
+    "phone": "",
+    "office": ""
+  },
+  "links": {
+    "profile": "https://vidyashilp.edu.in/gunjan-kumari/",
+    "scholar": "",
+    "orcid": "",
+    "linkedin": "",
+    "website": ""
+  },
+  "sources": [
+    "https://vidyashilp.edu.in/gunjan-kumari/"
+  ]
+}
