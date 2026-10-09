@@ -578,11 +578,23 @@ def cmd_deploy(a):
     project = os.environ.get("VERCEL_PROJECT", "faculty-pages")
     if not (SITE / ".vercel").exists():
         subprocess.run(f"npx --yes vercel link --yes --project {project}", cwd=SITE, shell=True, check=True)
-    out = subprocess.run("npx --yes vercel deploy --prod --yes", cwd=SITE, shell=True, capture_output=True, text=True)
-    log = out.stdout + out.stderr
-    m = re.search(r"Aliased\s+(https://\S+)", log) or re.search(r'"productionUrl":\s*"(https://[^"]+)"', log)
-    if out.returncode != 0 or not m:
-        sys.exit("Deploy failed:\n" + log[-1500:])
+    # Vercel now and then answers "Not authorized" for a moment and then works. Try up to three times.
+    import time
+    for attempt in range(3):
+        out = subprocess.run("npx --yes vercel deploy --prod --yes", cwd=SITE, shell=True, capture_output=True,
+                             text=True, encoding="utf-8", errors="replace")
+        log = out.stdout + out.stderr
+        m = re.search(r"Aliased\s+(https://\S+)", log) or re.search(r'"productionUrl":\s*"(https://[^"]+)"', log)
+        if out.returncode == 0 and m:
+            break
+        if attempt < 2:
+            print(f"  publish attempt {attempt + 1} failed, trying again")
+            time.sleep(6)
+    else:
+        hint = ("\nThe page is saved on this computer. Vercel is refusing the login. Open a terminal in this folder, run "
+                "'npx vercel login', then click Make page again or run 'python profpages.py deploy'."
+                if "not authorized" in log.lower() else "\nThe page is saved on this computer. Run 'python profpages.py deploy' to try again.")
+        sys.exit("Publishing failed after three tries:\n" + log[-900:] + hint)
     (ROOT / ".site_url").write_text(m.group(1), encoding="utf-8")
     write_links([json.loads(f.read_text(encoding="utf-8")) for f in sorted(DATA.glob("*.json"))])
     print(f"  live at {m.group(1)}  (links are in links.csv)")
