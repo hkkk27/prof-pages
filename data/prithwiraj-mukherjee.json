@@ -4,7 +4,7 @@
   "role": "Associate Professor",
   "department": "Marketing",
   "university": "Ahmedabad University",
-  "location": "",
+  "location": "Ahmedabad",
   "tagline": "Prithwiraj Mukherjee’s research interests include digital marketing, agent-based modeling and behavioral decision making.",
   "photo": "/photos/prithwiraj-mukherjee.jpg",
   "bio": [
@@ -30,16 +30,11 @@
     },
     {
       "org": "GE Energy",
-      "note": "Before his doctoral studies"
+      "note": "Worked before doctoral studies"
     },
     {
       "org": "Oracle",
-      "note": "Before his doctoral studies"
-    },
-    {
-      "title": "Co-chair",
-      "org": "Ahmedabad University",
-      "note": "AI on the Stepwell, 11 April 2026"
+      "note": "Worked before doctoral studies"
     }
   ],
   "education": [
@@ -58,32 +53,32 @@
   ],
   "publications": [
     {
-      "title": "Silently killing your panelists one email at a time: The true cost of email solicitations",
+      "title": "\"Silently killing your panelists one email at a time: The true cost of email solicitations,\"",
       "authors": "Ferecatu, Alina, Arnaud De Bruyn and Prithwiraj Mukherjee",
       "venue": "Journal of the Academy of Marketing Science",
       "year": "2024"
     },
     {
-      "title": "Platform exploitation in the sharing economy",
-      "authors": "Anand, Abhinav, Souvik Dutta and Prithwiraj Mukherjee",
+      "title": "“Platform exploitation in the sharing economy,”",
+      "authors": "Anand, Abhinav, Souvik Dutta and Prithwiraj Mukherjee [authorship in alphabetical order - equal contribution]",
       "venue": "Operations Research Letters",
       "year": "2023"
     },
     {
-      "title": "Did clickbait crack the code on virality?",
+      "title": "“Did clickbait crack the code on virality?,”",
       "authors": "Mukherjee, Prithwiraj, Souvik Dutta and Arnaud De Bruyn",
       "venue": "Journal of the Academy of Marketing Science",
       "year": "2022"
     },
     {
-      "title": "How chilling are network externalities? The role of network structure",
+      "title": "\"How chilling are network externalities? The role of network structure,\"",
       "authors": "Mukherjee, Prithwiraj",
       "venue": "International Journal of Research in Marketing",
       "year": "2014"
     }
   ],
   "teaching": [
-    "Quantitative Marketing Research (part of IIMBx MOOCs)"
+    "Quantitative Marketing Research (part of IIMBx MOOCs) available on EdX and Swayam"
   ],
   "awards": [],
   "sections": [],
