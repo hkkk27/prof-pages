@@ -477,7 +477,7 @@ def cmd_add(a):
     # A bare title with no organisation and no dates only repeats the headline, or is a stale label from Scholar.
     rec["positions"] = [x for x in rec["positions"] if clean(x.get("org")) or clean(x.get("start"))]
     # Something with no year and no journal is not a publication yet (a manuscript, a project title).
-    unpublished = re.compile(r"manuscript|in preparation|work in progress", re.I)
+    unpublished = re.compile(r"manuscript|in preparation|work in progress|to be submitted|under review|revise and resubmit|working paper", re.I)
     rec["publications"] = [x for x in rec["publications"]
                            if clean(x.get("year")) or (clean(x.get("venue")) and not unpublished.search(x["venue"]))]
     if not rec["name"]:
